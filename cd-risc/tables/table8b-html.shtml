@@ -1,0 +1,228 @@
+<p class="table-attr-info">
+Table 8b. Changes in CD-RISC 10 and CD-RISC 2 Associated with an Intervention
+</p>
+<table class="table-attr">
+		<tbody>
+        <tr>
+            <td width="13%" valign="top">
+                <p>
+                    First author
+                </p>
+            </td>
+            <td width="6%" valign="top">
+                <p>
+                    N
+                </p>
+            </td>
+            <td width="17%" valign="top">
+                <p>
+                    Interventions
+                </p>
+            </td>
+            <td width="20%" valign="top">
+                <p>
+                    Pre and post
+                </p>
+            </td>
+            <td width="9%" valign="top">
+                <p>
+                    % change
+                </p>
+            </td>
+            <td width="12%" valign="top">
+                <p>
+                    ES or p value
+                </p>
+            </td>
+            <td width="8%" valign="top">
+                <p>
+                    Sample
+                </p>
+            </td>
+            <td width="13%" valign="top">
+                <p>
+                    Country
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="13%" valign="top">
+                <p>
+                    Davidson (2008)
+                </p>
+            </td>
+            <td width="6%" valign="top">
+                <p>
+                    224
+                </p>
+            </td>
+            <td width="17%" valign="top">
+                <p>
+                    Venlafaxine vs. placebo
+                </p>
+            </td>
+            <td width="20%" valign="top">
+                <p>
+                    20.5 27.0
+                </p>
+                <p>
+                    19.9 24.2
+                </p>
+            </td>
+            <td width="9%" valign="top">
+                <p>
+                    32
+                </p>
+            </td>
+            <td width="12%" valign="top">
+                <p>
+                    0.34
+                </p>
+            </td>
+            <td width="8%" valign="top">
+                <p>
+                    PTSD
+                </p>
+            </td>
+            <td width="13%" valign="top">
+                <p>
+                    USA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="13%" valign="top">
+                <p>
+                    Davidson (2008)
+                </p>
+            </td>
+            <td width="6%" valign="top">
+                <p>
+                    224
+                </p>
+            </td>
+            <td width="17%" valign="top">
+                <p>
+                    Venlafaxine vs. placebo
+                </p>
+            </td>
+            <td width="20%" valign="top">
+                <p>
+                    4.61 5.68
+                </p>
+                <p>
+                    4.52 5.15
+                </p>
+            </td>
+            <td width="9%" valign="top">
+                <p>
+                    23
+                </p>
+            </td>
+            <td width="12%" valign="top">
+                <p>
+                    0.32
+                </p>
+            </td>
+            <td width="8%" valign="top">
+                <p>
+                    PTSD
+                </p>
+            </td>
+            <td width="13%" valign="top">
+                <p>
+                    USA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="13%" valign="top">
+                <p>
+                    Vaishnavi (2007)
+                </p>
+            </td>
+            <td width="6%" valign="top">
+                <p>
+                    20
+                </p>
+            </td>
+            <td width="17%" valign="top">
+                <p>
+                    Mirtazapine vs. placebo
+                </p>
+            </td>
+            <td width="20%" valign="top">
+                <p>
+                    Not given
+                </p>
+            </td>
+            <td width="9%" valign="top">
+                <p>
+                    Not given
+                </p>
+            </td>
+            <td width="12%" valign="top">
+                <p>
+                    0.46
+                </p>
+            </td>
+            <td width="8%" valign="top">
+                <p>
+                    PTSD
+                </p>
+            </td>
+            <td width="13%" valign="top">
+                <p>
+                    USA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="13%" valign="top">
+                <p>
+                    Christensen (2011)
+                </p>
+            </td>
+            <td width="6%" valign="top">
+                <p>
+                    41
+                </p>
+            </td>
+            <td width="17%" valign="top">
+                <p>
+                    Rehabilitation
+                </p>
+            </td>
+            <td width="20%" valign="top">
+                <p>
+                    31.4 32.8
+                </p>
+            </td>
+            <td width="9%" valign="top">
+                <p>
+                    4
+                </p>
+            </td>
+            <td width="12%" valign="top">
+                <p>
+                    Zero
+                </p>
+            </td>
+            <td width="8%" valign="top">
+                <p>
+                    Traumatic injury
+                </p>
+            </td>
+            <td width="13%" valign="top">
+                <p>
+                    USA
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- <p class="table-attr-info">
+&bull; Indicates whether 25, 10 or 2 item CD-RISC was used
+</p> -->
+

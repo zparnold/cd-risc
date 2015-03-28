@@ -1,0 +1,2682 @@
+AWSTATS DATA FILE 6.7 (build 1.892)
+# If you remove this file, all statistics for date 201503 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2548                
+POS_VISITOR 23391               
+POS_DAY 97489               
+POS_DOMAIN 3479                
+POS_LOGIN 3713                
+POS_ROBOT 3868                
+POS_WORMS 4560                
+POS_EMAILSENDER 4691                
+POS_EMAILRECEIVER 4834                
+POS_SESSION 98312               
+POS_SIDER 98529               
+POS_FILETYPES 4969                
+POS_OS 5172                
+POS_BROWSER 5334                
+POS_SCREENSIZE 6135                
+POS_UNKNOWNREFERER 6209                
+POS_UNKNOWNREFERERBROWSER 8136                
+POS_ORIGIN 8881                
+POS_SEREFERRALS 9032                
+POS_PAGEREFS 9299                
+POS_SEARCHWORDS 10847               
+POS_KEYWORDS 12265               
+POS_MISC 2210                
+POS_ERRORS 13045               
+POS_CLUSTER 3569                
+POS_SIDER_404 13184               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150327234434 669 146083 8856378727229
+FirstTime 20150301005056
+LastTime 20150327230653
+LastUpdate 20150328014158 669 0 669 0 0
+TotalVisits 2261                
+TotalUnique 1855                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1885                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 286 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 166 261 6312454 119 130 2489231
+1 131 243 4163672 84 91 2109430
+2 184 300 7044058 159 209 2286376
+3 176 271 7123685 95 101 1261391
+4 157 263 5096351 129 139 1781985
+5 139 243 5111172 96 107 1995820
+6 181 305 8291525 91 96 2387767
+7 234 387 9515159 70 79 1121925
+8 218 395 8083525 78 90 1604734
+9 222 375 9036119 98 110 2008141
+10 370 609 14699224 90 104 1997578
+11 356 589 12793386 74 82 1512012
+12 340 579 13767120 65 74 1877901
+13 263 453 9152183 90 101 2199256
+14 305 516 12150013 76 89 1643563
+15 336 556 14064957 146 164 1512755
+16 206 369 8180766 65 71 1549355
+17 253 398 10596156 76 92 2299234
+18 202 307 7706291 66 70 1341515
+19 176 314 7167153 73 83 1084001
+20 171 332 6471629 75 90 1008444
+21 246 405 10601088 67 80 1420410
+22 234 385 11011112 71 80 1053540
+23 225 365 9943353 96 108 2164669
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 5491 9220 218082151
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+googlebot 427 5355543 20150327234434 0
+\wbot[\/\-] 317 11995574 20150327234043 0
+baiduspider 167 3160124 20150327212606 0
+spider 90 1418987 20150327145451 0
+yandex 63 1740842 20150326151855 0
+robot 45 1253204 20150327230704 0
+crawl 37 1060631 20150327180611 0
+seznambot 12 789668 20150319065028 0
+slurp 10 474710 20150326101221 0
+ia_archiver 9 454501 20150324185629 0
+ng\/1\. 1 8102 20150323101021 0
+surveybot 3 24306 20150322122414 0
+java 7 0 20150315081704 0
+mj12bot 5 44456 20150322123516 0
+netcraft 2 16204 20150305191930 0
+nutch 2 16204 20150316051534 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+php 67 11390 0 0
+css 3729 6428005 0 0
+html 2500 20182082 0 0
+xml 4 340 0 0
+pdf 244 34961382 0 0
+shtml 2674 156482748 0 0
+Unknown 1 8102 0 0
+com 1 8102 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 11
+linuxsuse 1
+winlong 132
+winxp 588
+unix 49
+win2000 1
+winnt 6230
+linuxubuntu 5
+linux 262
+macosx 1710
+win2003 10
+Unknown 232
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 54
+firefox28.0 3
+msie6.0 36
+firefox5.0 12
+firefox3.0.7 2
+firefox3.6 1
+firefox4.0.1 25
+firefox10.0 10
+firefox3.6.11 1
+firefox26.0 10
+firefox3.0.1 3
+firefox18.0 5
+firefox4.0 1
+firefox34.0 43
+lynx 4
+firefox24.0 6
+firefox31.0 119
+msie8.0 391
+firefox6.0.2 4
+msie7.0 112
+firefox23.0 5
+firefox16.0 3
+wget 1
+msie9.0 435
+firefox27.0 1
+Unknown 131
+firefox11.0 2
+firefox32.0 12
+firefox17.0 18
+opera 19
+firefox21.0 9
+firefox29.0 31
+firefox3.5.2 2
+firefox7.0.1 2
+firefox30.0 3
+firefox12.0 2
+firefox33.0 32
+firefox25.0 1
+firefox1.0 2
+mozilla 863
+netscape5.0 1
+firefox37.0 10
+firefox22.0 9
+firefox14.0.1 17
+msie10.0 191
+firefox6.0 25
+netscape4.0 2
+firefox3.6.3 4
+firefox19.0 5
+firefox36.0 752
+firefox3.6.8 4
+firefox15.0.1 3
+firefox35.0 170
+safari 5662
+firefox3.6.13 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 29
+Mozilla/5.0_(compatible;_DuckDuckGo-Favicons-Bot/1.0;__http://duckduckgo.com) 20150308162629
+Mozilla/4.0_(HTTP_Header_Survey;__https://github.com/benjojo/Domainiator;_d4a3e46a94b) 20150326200452
+&as_qdr=all 20150301160504
+Opera/9.80_(Android;_Opera_Mini/7.5.33361/31.1543;_U;_en)_Presto/2.8.119_Version/11.1010 20150320051336
+Ruby 20150325114958
+http_load_12mar2006 20150302124634
+Faraday_v0.9.1 20150324100341
+Firefox 20150327143438
+Mozilla/5.0_(compatible;_Google_AppsViewer;_http://drive.google.com) 20150318051544
+panscient.com 20150321192309
+- 20150318113323
+Blackboard_Safeassign 20150315081704
+Microsoft_Office_Word_2013 20150310085638
+Mozilla/5.0_(Android;_Mobile;_rv:36.0)_Gecko/36.0_Firefox/36.0 20150303050842
+Mozilla/2.0_(compatible;_crw) 20150303072952
+Wotbox/2.01_(_http://www.wotbox.com/bot/) 20150321101141
+EasyBib_AutoCite_(http://content.easybib.com/autocite/) 20150310144513
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/36.1344;_U;_en)_Presto/2.12.423_Version/12.16 20150318095931
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20150320210520
+Mozilla/5.0_(compatible;_Seznam_screenshot-generator_2.1;__http://fulltext.sblog.cz/screenshot/) 20150309184540
+Microsoft_Office_Protocol_Discovery 20150323230754
+Mozilla/5.0 20150304080616
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150302232730
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/35.7598;_U;_it)_Presto/2.8.119_Version/11.10 20150302153906
+Mozilla/4.0_(compatible;) 20150327091625
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/35.7770;_U;_it)_Presto/2.8.119_Version/11.10 20150302121632
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/36.1370;_U;_en)_Presto/2.12.423_Version/12.16 20150321040355
+NerdyBot 20150327112732
+qingdao_bieshu_loupan_qu_chushou_jiage_ri_zu_zhuangshi_gongsi_ershou_(_http://www.dahoms.com_) 20150327211227
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 15
+Wotbox/2.01_(_http://www.wotbox.com/bot/) 20150321101141
+&as_qdr=all 20150301160504
+EasyBib_AutoCite_(http://content.easybib.com/autocite/) 20150310144513
+Ruby 20150325114958
+http_load_12mar2006 20150302124634
+Faraday_v0.9.1 20150324100341
+Firefox 20150327143438
+panscient.com 20150321192309
+Microsoft_Office_Protocol_Discovery 20150323230754
+- 20150318113323
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150302232730
+Blackboard_Safeassign 20150315081704
+Microsoft_Office_Word_2013 20150310085638
+NerdyBot 20150327112732
+qingdao_bieshu_loupan_qu_chushou_jiage_ri_zu_zhuangshi_gongsi_ershou_(_http://www.dahoms.com_) 20150327211227
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 967 1025
+From1 1 1
+From2 1994 1996
+From3 343 360
+From4 2186 5838
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 11
+google 1896 1898
+search 6 6
+aol 2 2
+ask 7 7
+dogpile 1 1
+baidu 15 15
+webde 1 1
+seznam 1 1
+yandex 7 7
+sogou 3 3
+yahoo 55 55
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 34
+http://www.bing.com/search 99 99
+http://semalt.semalt.com/crawler.php 68 68
+http://www.statisticssolutions.com/connor-davidson-resilience-scale-cd-risc/ 67 67
+http://buttons-for-website.com 43 43
+http://sites.dartmouth.edu/geisel-resilience-curriculum-resources/assessment-tools/ 8 8
+http://translate.googleusercontent.com/translate_c 8 23
+http://disasterlit.nlm.nih.gov/record/8177 4 4
+http://hvd-store.com 4 4
+http://tattoo33.ru 3 3
+http://hundejo.com 3 3
+http://translate.google.ca/translate_p 2 2
+http://disasterlit.nlm.nih.gov/search/ 1 1
+http://cn.bing.com/search 1 1
+http://m.mail.daum.net/hanmailex/mobile/Top.daum 1 1
+http://hellomanas.com/about.html 1 1
+http://www.k9safesearch.com/search.jsp 2 2
+https://www.facebook.com 1 1
+http://specialdessous.com 1 1
+http://specialdessous.com 2 2
+http://burger-imperia.com 1 1
+http://www.haosou.com/s 3 3
+http://mail.uic.edu.hk/zimbra/ 2 2
+https://www.bing.com/search 2 4
+http://translate.google.ru/translate_p 1 1
+http://translate.google.com.br/translate_p 2 2
+http://translate.google.com.hk/translate_p 2 2
+http://pizza-tycoon.de 1 1
+http://addownloads.ddns.net/nba-season-new-york-knicks-atlanta-hawks.html 1 1
+http://translate.google.fr/translate_p 2 2
+http://www.bing.com/cr 2 2
+http://jp.mg5.mail.yahoo.co.jp/neo/launch 2 2
+http://www.gfsoso.com 1 1
+http://translate.google.com.mx/translate_p 1 1
+http://translate.google.com.tw/translate_p 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 40
+connor+davidson+resilience+scale 6
+resilience+scale 5
+cd-risc 5
+nexearch 4
+connor-davidson+resilience+scale 3
+cd-risc%e8%ae%a1%e5%88%86%e8%a7%84%e5%88%99 3
+cd-risc.com 3
+tab_hty.top 2
+organizational+resilience+scale+user+s+guide 2
+connordavidson-resiliencescale.com 2
+cutoff+score+for+connor-davidson+resilience+scale 1
+connor+-davison+resilience+scale 1
+cd-risc+2+espa%c3%b1ol 1
+http+%2f%2fwww.connordavidson-resiliencescale.com%2fcd-risc%2ftranslations.shtml 1
+connor+davidson+resilience+theory 1
+scala+connor+davidson+resilience 1
+www.connordavidson-resiliencescale.com 1
+connor+davidson+resiliency+scale 1
+how+to+score+connor+davidson+resilience+scale 1
+cd+risc 1
+anything 1
+cd-risc10 1
+connor+km+davidson+jrt+2003+.+depression+and+anxiety;+18+71-82. 1
+resilience+scale+for+adults+italiano+scoring 1
+cut+off+score+for+cd-risc 1
+connor+davidson 2
+cd-risc+questionnaire 2
+drs+resilience+scale+free+pdf 1
+connor+davidson+resilience+scale+free+download 1
+www.cd-risc.com 1
+cd+risc+2 1
+the+connor-davidson+resilience+scale+connor 1
+squiddy+%3d+connor+davidson 1
+connor-davidson+resilience+scale+2 1
+resilience+scale+adults+scoring 1
+resilience+scale+pdf 1
+the+connor-davidson+resilience+scale 1
+connor+davidson+resiliancy+scale 1
+cd-risc-10 1
+scales+on+resilience 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 60
+resilience 31
+scale 29
+connor 18
+davidson 16
+cd-risc 9
+connor-davidson 7
+nexearch 4
+for 3
+cd-risc%e8%ae%a1%e5%88%86%e8%a7%84%e5%88%99 3
+2 3
+the 2
+risc 2
+off 1
+www.connordavidson-resiliencescale.com 1
+squiddy 1
+on 2
+18 1
+http 1
+user 2
+tab_hty.top 2
+cutoff 1
+pdf 2
+how 1
+anxiety; 1
+anything 1
+guide 2
+connordavidson-resiliencescale.com 2
+resiliancy 1
+s 2
+questionnaire 2
+cd-risc10 1
+theory 1
+adults 2
+scoring 2
+and 1
+download 1
+km 1
+depression 1
+-davison 1
+%2f%2fwww.connordavidson-resiliencescale.com%2fcd-risc%2ftranslations.shtml 1
+www.cd-risc.com 1
+scala 1
+cd-risc.com 3
+organizational 2
+espa%c3%b1ol 1
+%3d 1
+cut 1
+to 1
+free 2
+. 1
+cd 2
+score 3
+cd-risc-10 1
+italiano 1
+71-82. 1
+jrt 1
+resiliency 1
+scales 2
+drs 1
+2003 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 9 3337
+206 219 13410882
+405 1 234
+301 2 524
+404 1012 483000
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 253
+/backup/bigdump.php 1 -
+/news_manager/eWebEditor 2 -
+//robots.txt 15 -
+/html/webedit/ 2 -
+/webedit/ 2 -
+/admin.php 6 -
+/blog/wp-content/plugins/fancybox-for-wordpress/readme.txt 1 -
+/system/ewebeditor/ 2 -
+/admin/bigdump.php 1 -
+/08/04/2014/08:22:32 1 -
+/admin/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/bigdump.php 1 -
+/hybridauth/hybridauth/install.php 1 -
+/include/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/editor/editor/ 2 -
+/scripts/ewebeditor/ 2 -
+/openemr-4.1.1/library/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/scripts/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/system/fckeditor/editor/ 4 -
+/images/uploader/uploadify.css 1 -
+/sysadmin/fckeditor/editor/ 2 -
+/auth/hybridauth/install.php 1 -
+/media/uploadify/uploadify.css 1 -
+/ckeditor/editor/ 2 -
+/admin/web_editor/ 2 -
+/assets/plugins/tinymce212/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/system/editor/ 2 -
+/admin/ewebeditor/ 2 -
+/cd-risc/userguide.shtm 1 -
+/stats/libs/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 -
+/cgi-bin/hello 1 -
+/index.php/login/ 1 -
+/hybridauth/install.php 1 -
+/js/fckeditor/editor/ 2 -
+/system/%23ewebeditor/ 2 -
+/manage/ewebeditor1/ 2 -
+/app/webroot/js/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/cd-risc/userguide.shtml. 15 -
+/webeditor 2 -
+//bitrix/admin/index.php 3 -
+/assets/uploadify/uploadify.css 1 -
+/admin/edit/ 2 -
+//wp-login.php 4 -
+/cd-risc/termsofservice.shtml/trackback/ 2 http://www.connordavidson-resiliencescale.com/cd-risc/termsofservice.shtml
+/dump/bigdump/bigdump.php 1 -
+/admin/texteditor/ 2 -
+/administrator/ 6 -
+/admin/fck/editor/filemanager/connectors/uploadtest.html 1 -
+/scripts/uploadify/uploadify.css 1 -
+/blog/index.php 1 -
+/system/edit/ 2 -
+/manage/oledit/ 2 -
+/includes/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/fckeditor/editor/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/editorold/editor/ 2 -
+/Fckeditorold/editor/ 2 -
+/wp-login.php 13 -
+/system/htmledit/ 2 -
+/manage/%23ewebeditor/ 2 -
+/system/ewebeditor1/ 2 -
+//magmi/ReleaseNotes.txt 2 -
+/apps/uploadify/uploadify.css 1 -
+//magmi-importer/ReleaseNotes.txt 1 -
+/wp/wp-admin/ 3 -
+/includes/php-ofc-library/ofc_upload_image.php 1 -
+/adminpage/edit/ 2 -
+/manage/edit/ 2 -
+/cms/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/southidceditor/ 2 -
+/sites/default/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/sites/all/libraries/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/filebrowser/uploadify/uploadify.css 1 -
+/manage/htmledit/ 2 -
+/cd-risc/bibliography.shtml/trackback/ 1 http://www.connordavidson-resiliencescale.com/cd-risc/bibliography.shtml
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin/%23ewebeditor/ 2 -
+/assets/plugins/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin/js/uploadify/uploadify.css 1 -
+/public/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/edit/ 2 -
+/zenphoto/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/cd-risc/05/22/2013/11:35:55 2 -
+/admin/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/&ei=Mr9YRNXp&lc=en-ID 3 -
+/wp-admin/admin-ajax.php 1 -
+/system/southidceditor/ 2 -
+/js/jquery/uploadify/uploadify.css 1 -
+/media/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/blog/wp-images/wpminilogo.png 2 -
+/admin/z_editor/ 2 -
+/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/Fckeditornew/editor/ 2 -
+/js/mage/cookies.js 1 http://connordavidson-resiliencescale.com
+/cdrisc/requestform.shtml 1 -
+/plugins/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/manager/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/includes/fckeditor/editor/ 2 -
+/jleditor/ 2 -
+/includes/uploadify/uploadify.css 1 -
+/cd-risc/05/22/2013/11:36:13 1 -
+/cd 2 -
+/cd-risc/08/04/2014/08:57:51 2 -
+/web_editor/ 2 -
+/backup/bigdump/bigdump.php 1 -
+/administrator/index.php 2 -
+/php-ofc-library/ofc_upload_image.php 1 -
+/scripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin_area/charts/ofc-library/ofc_upload_image.php 1 -
+/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin/FCKeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/system/webeditor 2 -
+/wordpress/wp-admin/ 3 -
+/cms/index.php 1 -
+/dump/bigdump.php 1 -
+/xmlEditor/eWebEditor 2 -
+/includes/js/plugins/uploadify/uploadify.css 1 -
+/js/uploadify/uploadify.css 1 -
+/cd-risc/07/30/2014/14:17:55 1 -
+/uploadify/uploadify.css 1 -
+/system/web_editor/ 2 -
+/cd-risc/05/22/2013/11:37:00 2 -
+//admin/index.php 3 -
+/ofc-library/ofc_upload_image.php 1 -
+/admin/fckeditor/editor/ 2 -
+/public/cms/resources/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/uploadify/uploadify.css 1 -
+/sitemap.xml 1 -
+/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/admin/includes/uploadify/uploadify.css 1 -
+/robots.txt 502 -
+/js/uploader/uploadify.css 1 -
+/js/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/ewebeditor1/ 2 -
+/admin/uploader/uploadify.css 1 -
+/media/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/wp-content/plugins/fancybox-for-wordpress/readme.txt 1 -
+/admin/scripts/uploadify/uploadify.css 1 -
+/scripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/media/js/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/Fckeditor/editor/ 2 -
+/manage/web_editor/ 2 -
+/admin/index.php 3 -
+/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/wp-admin/ 2 -
+/ewebeditor1/ 2 -
+/.git/config 2 -
+/system/z_editor/ 2 -
+/cd-risc/privacypolicy.shtml/trackback/ 1 http://www.cd-risc.com/cd-risc/privacypolicy.shtml
+/upload/uploadify.css 1 -
+/system/texteditor/ 2 -
+/tinybrowser/readme.txt 1 -
+/inc/ewebeditor/ 2 -
+/termsofservice.shtml. 2 -
+/static/uploadify/uploadify.css 1 -
+/browserconfig.xml 2 -
+/blog/wp-includes/js/tinymce/utils/mctabs.js 2 -
+/scripts/fckeditor/editor/ 2 -
+/FCKeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/mod/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin/oledit/ 2 -
+/editor/editor/filemanager/connectors/uploadtest.html 1 -
+/admin/htmledit/ 2 -
+/bitrix/admin/index.php 3 -
+/system/oledit/ 2 -
+/book/index.php 1 -
+/cd-risc/07/30/2014/14:27:06 2 -
+/texteditor/ 2 -
+/manage/webedit/ 2 -
+/core/uploadify/uploadify.css 1 -
+/js/ofc2/php-ofc-library/ofc_upload_image.php 1 -
+/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/modules/fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/cd-risc/userguide.shtml/trackback/ 1 http://www.connordavidson-resiliencescale.com/cd-risc/userguide.shtml
+/include/fckeditor/editor/ 2 -
+/+ 4 -
+/piwik/libs/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 -
+/_ee/_fslib/swfupload/Changelog.txt 1 -
+/blog/wp-admin/ 2 -
+/manage/ewebeditor/ 2 -
+/manage/z_editor/ 2 -
+/manage/editor/ 2 -
+/admin/editor/editor/filemanager/connectors/uploadtest.html 1 -
+/js/jquery/plugins/uploadify/uploadify.css 1 -
+/test/wp-admin/ 3 -
+/editor/filemanager/connectors/uploadtest.html 1 -
+/system/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/app/webroot/js/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/htmledit/ 2 -
+/admin/webeditor 2 -
+/manage/southidceditor/ 2 -
+/htmlEditor/eWebEditor 2 -
+/admin/southidceditor/ 2 -
+/editor/fckeditor/editor/ 2 -
+/apple-touch-icon.png 36 -
+/z_editor/ 2 -
+/libs/open-flash-chart/php-ofc-library/ofc_upload_image.php 1 -
+/system/webedit/ 2 -
+/app/webroot/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/editor/ 2 -
+/editors/ewebeditor/ 2 -
+/common/fckeditor/editor/ 2 -
+/old/wp-admin/ 3 -
+/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/inc/fckeditor/editor/ 2 -
+/blog/ 2 -
+/wp-config.php~ 1 -
+/js/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/photogallery/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/wordpress/wp-content/plugins/fancybox-for-wordpress/readme.txt 1 -
+/fck/editor/ 2 -
+/js/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/admin/webedit/ 2 -
+/sites/all/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/oledit/ 2 -
+/media/filebrowser/uploadify/uploadify.css 1 -
+/bigdump/bigdump.php 1 -
+/apple-touch-icon-precomposed.png 36 -
+/photo/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/FCKeditor/editor/ 2 -
+/user/ 2 -
+/manage/texteditor/ 2 -
+/admin/js/uploader/uploadify.css 1 -
+/admin/dump/bigdump.php 1 -
+/includes/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/manage/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/fckeditor/editor/ 2 -
+/admin/js/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/manage/fckeditor/editor/ 2 -
+/data/scripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/upload.asp 2 -
+/editor/ 2 -
+/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/wp 1 http://cd-risc.com/wp
+/assets/plugins/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/editor1/editor/ 2 -
+/ajax.php 1 -
+/sites/all/libraries/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/sites/all/modules/fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/%23ewebeditor/ 2 -
+/index.php 10 -
+/sqlite/main.php 1 -
+/public/js/uploadify/uploadify.css 1 -
+/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/web/ewebeditor/ 2 -
+/cd-risc/08/04/2014/08:13:17 2 -
+/termsofservice.shtml 2 -
+/lib/fckeditor/editor/filemanager/connectors/uploadtest.html 1 -
+/ewebeditor/ 2 -
+/openemr/library/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/manage/webeditor 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1885
+129.176.151.24 32 38 1578821 20150319163424
+147.8.65.49 27 39 1275378 20150327021733
+70.184.233.207 27 35 1730026 20150310081456
+110.142.24.94 26 38 2059921 20150315224529
+114.43.40.62 26 30 884341 20150312162727
+86.59.213.62 25 29 1132681 20150323041152
+147.96.199.39 25 29 1334056 20150323151818
+58.153.96.134 24 32 1519338 20150325114639
+160.76.8.1 24 40 727885 20150325105837
+130.14.254.24 20 20 0 20150327040740
+130.56.52.146 4 6 334045 20150322091005
+67.193.154.79 7 9 205012 20150310214003
+69.91.183.182 2 2 16204 20150309111744
+98.218.237.173 5 7 221935 20150326005036
+49.184.6.30 4 6 171717 20150326210110
+108.81.13.169 1 3 11639 20150324111933
+201.240.86.111 1 3 11639 20150307152410
+81.252.107.233 2 4 22300 20150309085511
+69.58.178.56 8 8 324046 20150317170346
+112.64.235.90 1 1 8102 20150323030537
+146.148.50.172 1 1 8102 20150309113037
+108.84.49.202 2 4 19741 20150306183813
+192.200.129.122 1 3 11639 20150311095425
+46.19.21.106 1 1 8102 20150327150219
+161.9.160.58 1 3 25058 20150326035320
+174.6.33.226 2 4 24399 20150308182856
+122.176.203.162 1 1 143874 20150306103312
+134.192.176.2 4 6 391721 20150325172910
+193.205.149.251 2 4 19741 20150316110755
+164.58.112.92 6 12 241769 20150327172233
+122.178.98.140 4 6 110782 20150306014716
+130.160.228.68 1 3 11639 20150323105534
+217.69.133.169 2 2 16204 20150324172205
+123.3.219.13 4 8 217370 20150318234603
+79.168.5.13 1 3 11639 20150324180122
+73.198.197.83 4 6 216392 20150316000931
+79.145.164.204 19 25 837540 20150324154126
+200.18.248.253 1 3 11639 20150318151542
+108.57.48.29 7 9 302116 20150301145624
+192.139.34.2 1 3 16297 20150320145513
+76.180.123.1 1 1 143874 20150320173142
+70.58.89.141 3 7 209268 20150302223547
+104.197.14.181 1 1 8102 20150306102311
+152.246.171.1 1 3 11639 20150318202810
+49.197.160.46 2 4 19741 20150318230158
+120.151.46.207 1 3 11639 20150308010057
+129.59.122.62 4 8 39482 20150311144143
+83.213.57.142 2 4 19741 20150313125146
+190.152.144.73 7 11 206777 20150309112628
+94.242.246.24 1 1 8102 20150325210917
+170.140.246.113 1 3 11639 20150313125355
+39.47.6.199 1 3 11639 20150325033824
+128.250.4.107 1 3 11639 20150324210746
+130.132.173.27 6 8 645919 20150316145539
+190.92.43.51 1 3 11639 20150304230456
+74.120.224.196 2 4 22300 20150311112259
+132.3.9.78 0 2 3537 
+141.214.17.201 1 3 11639 20150313140221
+162.209.84.156 2 2 16204 20150325033826
+63.119.181.194 9 11 666879 20150310144644
+179.110.242.185 1 3 11639 20150317133843
+54.80.41.231 1 3 11639 20150326163359
+203.76.193.178 2 6 23278 20150302232949
+108.238.4.153 2 4 19741 20150308214212
+218.111.14.182 1 3 11639 20150327060947
+50.247.138.187 9 14 634727 20150315175708
+123.126.113.108 1 3 11639 20150325120228
+165.112.11.87 3 3 0 20150321014016
+66.61.7.128 3 5 32501 20150326133737
+145.253.118.83 3 7 30593 20150316091723
+130.16.98.181 2 4 197629 20150317090900
+155.94.151.251 1 1 8102 20150317093245
+39.47.230.99 1 3 14198 20150303134743
+104.55.228.209 2 4 19741 20150325182146
+160.5.135.74 7 11 305653 20150309122259
+223.62.203.100 1 1 8102 20150313014922
+66.208.35.114 1 3 11639 20150310160124
+54.165.190.172 1 1 8102 20150302153330
+120.28.147.245 2 4 19741 20150304114636
+54.92.154.105 1 3 11639 20150317075614
+208.80.194.122 0 1 2261 
+14.139.196.4 16 18 722331 20150312023228
+165.134.221.1 4 8 179912 20150325112514
+107.198.145.13 1 3 11639 20150323223149
+200.193.73.146 1 3 11639 20150324181420
+1.39.60.239 1 3 8102 20150326113253
+104.154.56.28 1 1 8102 20150304112650
+46.225.42.51 4 6 35945 20150308102031
+207.107.66.225 1 3 11639 20150302091012
+161.67.48.115 3 5 204944 20150305071123
+209.73.137.164 1 3 11639 20150302083815
+151.112.127.100 2 4 16395 20150304170115
+157.56.1.101 1 3 71745 20150316003558
+79.174.160.187 1 3 11639 20150305052924
+189.154.15.201 2 4 155513 20150325124052
+86.40.141.193 3 3 160078 20150309081807
+175.136.82.134 9 13 434981 20150315215821
+128.205.69.41 1 1 68208 20150304114156
+5.151.1.36 2 6 23278 20150317114358
+96.47.226.22 1 1 8102 20150322225112
+134.174.110.7 1 1 8102 20150305153843
+199.181.23.133 1 1 8102 20150309192252
+14.99.198.102 2 2 16204 20150306113940
+88.45.185.117 7 9 375683 20150313080215
+210.163.131.10 4 6 346259 20150319033348
+190.234.81.4 1 3 11639 20150327030712
+147.188.244.156 1 3 11639 20150313133056
+101.167.224.100 7 14 246794 20150315191042
+138.80.88.22 5 9 54801 20150320014503
+223.17.93.36 1 3 11639 20150314122717
+49.184.21.161 1 3 11639 20150312203730
+98.64.171.239 1 3 11639 20150303190224
+152.250.95.23 1 3 11639 20150309151933
+2.121.35.139 8 10 373252 20150326080029
+74.120.224.193 3 5 30402 20150313090822
+161.67.86.17 1 1 8102 20150324054333
+62.24.181.134 2 2 16204 20150319022307
+109.65.190.99 1 3 11639 20150321064721
+87.16.67.217 1 3 11639 20150324083456
+220.139.176.63 1 1 8102 20150324041516
+1.23.124.100 1 3 11639 20150315064457
+132.245.11.172 1 1 8102 20150313170045
+104.154.95.40 1 1 8102 20150308113001
+52.0.74.148 1 1 8102 20150324064100
+91.103.66.203 2 6 23278 20150317133741
+209.210.84.50 1 3 11639 20150313154718
+120.61.178.228 1 3 11639 20150302045601
+77.166.166.160 4 8 219929 20150307150113
+162.253.56.198 8 14 385402 20150316111838
+94.206.76.5 7 9 366432 20150311170308
+152.105.154.80 1 3 11639 20150317044120
+66.102.7.162 1 1 143874 20150312092527
+70.162.71.30 1 3 11639 20150327131953
+1.38.4.10 1 3 11639 20150306014249
+112.65.193.14 1 1 8102 20150322071836
+202.170.60.253 1 1 8102 20150304225510
+93.189.165.115 1 3 11639 20150319104528
+111.243.29.239 2 4 155513 20150320022047
+68.225.43.33 12 20 609350 20150327212825
+104.197.17.130 1 1 8102 20150322112949
+149.171.183.249 6 8 230037 20150304173110
+192.167.209.10 2 6 27936 20150311123231
+216.51.172.220 4 10 43019 20150325161316
+76.98.139.247 4 6 32671 20150307071834
+128.187.97.23 3 5 92607 20150309112822
+150.174.34.1 3 5 210389 20150303154946
+141.218.84.20 2 6 379054 20150302173553
+151.32.44.153 1 1 8102 20150322093511
+95.175.97.229 1 1 8102 20150313102021
+132.229.187.29 1 3 14198 20150326074841
+137.166.23.96 3 5 166174 20150303211953
+171.65.53.191 3 5 341503 20150305211939
+108.168.11.42 1 3 11639 20150306152855
+62.255.236.194 1 3 11639 20150324074541
+189.71.208.63 1 3 11639 20150312134154
+128.140.65.248 1 3 11639 20150309075026
+216.144.120.54 11 15 594174 20150327152956
+180.200.178.155 7 11 322418 20150308073152
+202.46.49.35 1 1 8102 20150303050624
+203.59.53.69 1 1 8102 20150314012111
+104.245.101.67 1 1 21521 20150322000952
+166.137.139.86 1 3 11639 20150313124503
+54.158.203.209 1 3 11639 20150303095844
+54.84.127.170 2 2 34281 20150317003746
+193.204.128.177 1 3 11639 20150324060249
+139.230.245.23 7 11 247646 20150317030657
+183.179.158.174 4 6 40603 20150316022447
+79.8.219.158 1 3 11639 20150301055554
+202.170.60.250 1 3 11639 20150304222255
+203.101.243.143 4 6 210487 20150315020127
+113.23.139.54 1 3 11639 20150315024503
+70.53.110.242 1 3 11639 20150326005610
+204.88.31.230 1 1 8102 20150306125747
+37.11.172.7 8 12 564750 20150308160743
+24.68.242.254 1 3 11639 20150306172540
+66.249.93.174 2 2 16204 20150323113435
+203.110.246.23 4 6 32671 20150326074737
+190.186.217.191 2 4 16395 20150326122748
+208.96.229.2 1 3 11639 20150306120138
+152.71.156.37 6 8 294014 20150320073920
+66.102.7.242 3 4 30240 20150324145944
+121.124.54.16 6 10 370658 20150315094824
+174.1.124.158 1 1 8102 20150301160504
+184.186.7.19 1 3 16297 20150305212638
+42.2.172.236 12 14 105879 20150318102413
+24.208.90.41 1 3 11639 20150301201155
+141.217.55.199 3 5 163615 20150325201211
+5.151.215.200 3 5 341503 20150306064310
+84.106.141.155 1 3 71745 20150315150443
+151.67.3.243 1 3 11639 20150324082810
+103.14.61.11 2 4 22300 20150316204108
+104.228.67.104 2 4 93266 20150312120413
+72.94.94.186 2 4 155513 20150321212958
+175.136.80.66 11 15 236371 20150327215911
+129.171.150.136 7 11 249353 20150327175625
+79.146.163.193 6 8 184575 20150308153941
+41.169.18.186 1 3 11639 20150326121929
+93.104.165.219 2 5 22002 20150312183134
+195.154.189.155 1 1 8102 20150306153052
+131.130.161.251 5 9 181322 20150312085532
+107.23.45.196 3 3 24306 20150308162629
+202.62.11.50 1 3 11639 20150301233726
+46.246.219.88 1 3 11639 20150326093503
+73.201.217.53 8 10 310218 20150326124641
+151.240.27.166 1 3 11639 20150321165340
+130.215.173.181 6 10 60804 20150325154919
+69.66.144.165 1 3 11639 20150301200938
+124.35.55.186 0 2 3537 
+24.226.214.18 3 7 205922 20150317085341
+185.82.216.119 1 1 8102 20150322233155
+98.222.43.225 1 3 11639 20150310214316
+220.181.108.152 1 1 8102 20150315215521
+115.134.111.224 1 1 10661 20150315011554
+69.204.134.38 1 3 11639 20150327203000
+108.9.27.18 4 8 36136 20150302092415
+79.40.42.56 1 3 11639 20150313095648
+151.0.124.172 1 3 11639 20150318051820
+193.146.46.254 6 10 366000 20150316062039
+146.182.9.9 1 3 16297 20150312132654
+139.194.171.32 3 5 84603 20150318095716
+69.35.195.47 4 8 217370 20150312125749
+213.47.217.101 1 1 8102 20150325082040
+160.96.212.146 1 1 10661 20150316032721
+64.54.15.150 4 8 219929 20150324144237
+223.255.231.150 2 4 19741 20150322193004
+174.7.166.210 4 8 222028 20150325224037
+84.38.48.38 2 4 16395 20150316044705
+117.217.202.59 1 3 11639 20150306103735
+14.139.212.103 4 6 51923 20150324041741
+54.80.216.82 3 9 38076 20150309201157
+104.154.82.13 1 1 8102 20150308102523
+144.76.155.8 2 2 151976 20150325121143
+129.59.230.88 1 3 11639 20150309225846
+104.197.31.158 1 1 8102 20150327112732
+54.86.66.252 1 1 8102 20150302153113
+150.70.97.116 1 1 8102 20150326183009
+46.185.237.135 1 3 11639 20150325195347
+118.102.197.66 1 3 11639 20150323203400
+66.249.83.192 1 1 8102 20150306165444
+202.46.53.76 1 1 8102 20150303224803
+68.232.20.246 1 3 11639 20150310141657
+93.43.1.196 1 3 11639 20150309171927
+5.179.68.47 2 4 155513 20150309073436
+161.76.22.9 1 3 11639 20150313133945
+222.76.100.149 1 3 11639 20150312093918
+119.154.45.53 1 1 143874 20150317020639
+5.158.32.183 2 4 19741 20150310114557
+59.167.113.186 3 5 168273 20150312205928
+147.188.21.27 10 14 459898 20150312131238
+107.77.76.91 5 7 43332 20150317193022
+104.160.52.216 10 14 782737 20150308012352
+89.143.81.156 1 3 11639 20150312140120
+67.193.80.23 2 4 19741 20150303212725
+61.135.190.103 3 3 24306 20150326121955
+137.147.16.124 1 3 11639 20150325054626
+54.198.96.122 3 7 30395 20150316210123
+151.77.190.110 1 3 11639 20150312010609
+178.148.193.16 1 3 11639 20150302135451
+158.37.10.206 1 3 11639 20150313074544
+128.194.189.127 8 12 544532 20150325124502
+134.124.119.111 1 3 11639 20150324124306
+98.250.228.85 4 6 213046 20150320201630
+187.201.224.17 1 3 71745 20150324042117
+105.6.221.20 1 3 11639 20150316133828
+5.81.76.213 1 3 11639 20150326200922
+128.173.168.64 2 4 19741 20150327213505
+104.197.27.235 1 1 8102 20150315113625
+68.46.8.247 12 16 286129 20150313121915
+132.3.33.78 0 1 1276 
+75.141.152.246 3 5 208290 20150324132413
+54.86.179.33 2 2 25520 20150314041609
+137.166.23.120 16 24 932747 20150311222702
+98.217.149.2 2 4 197629 20150324184956
+160.96.214.142 5 9 222126 20150317223442
+186.33.74.74 2 4 19741 20150309082528
+70.181.213.133 2 4 155513 20150306004603
+150.70.97.119 2 2 16204 20150326183007
+99.236.171.97 1 1 143874 20150327171016
+129.96.80.115 1 3 14198 20150323194217
+92.224.155.171 1 3 11639 20150322123624
+147.8.1.13 4 6 213833 20150317071316
+137.92.27.65 5 9 230130 20150312173020
+129.215.4.243 1 3 11639 20150318071619
+24.19.8.163 2 2 16204 20150309002435
+209.114.108.171 1 3 11639 20150305153413
+61.143.62.5 0 1 2261 
+66.249.81.249 2 4 24399 20150327122114
+54.161.157.53 4 12 291055 20150316000907
+82.145.208.241 1 3 11639 20150318095931
+73.50.129.238 1 3 16297 20150320103344
+134.249.140.212 3 3 24306 20150323173529
+103.246.92.242 3 7 36038 20150308011519
+162.129.251.217 1 3 11639 20150318110259
+41.234.27.231 10 12 89215 20150315152500
+41.196.76.186 1 1 8102 20150323172139
+170.140.105.66 1 3 11639 20150327105232
+54.80.220.231 2 2 254198 20150309200657
+177.22.144.84 4 8 214024 20150304153609
+24.41.176.242 1 3 11639 20150309134122
+104.194.100.234 1 3 11639 20150327110417
+106.76.234.93 1 1 8102 20150326221015
+54.164.70.200 1 1 21521 20150316235945
+192.99.33.150 3 3 64563 20150311054223
+203.110.243.23 11 13 588865 20150326023740
+180.180.88.64 4 8 44140 20150301204919
+68.90.16.2 4 6 277885 20150316081948
+80.212.225.165 4 6 189794 20150319114749
+101.175.208.83 1 3 16297 20150322021614
+134.115.178.21 1 1 8102 20150310071758
+41.109.243.216 7 11 513220 20150316061317
+187.120.193.110 1 3 11639 20150324125838
+193.194.74.19 0 1 2261 
+98.115.38.248 5 7 281254 20150303222639
+129.94.29.150 1 3 11639 20150303210416
+91.211.195.135 0 2 3537 
+171.214.203.13 1 1 8102 20150312002949
+141.201.227.46 1 3 11639 20150314110509
+147.8.110.85 1 1 8102 20150317023420
+60.242.79.62 3 5 202385 20150320075503
+223.255.231.136 3 7 31380 20150323191130
+193.62.190.117 2 4 33160 20150316102722
+84.121.191.244 2 4 19741 20150322034704
+92.148.108.68 6 8 367121 20150310120204
+88.167.83.38 3 5 27843 20150308103619
+151.230.71.210 3 5 32501 20150303093535
+101.162.177.68 4 8 277476 20150308073135
+182.64.230.7 2 4 19741 20150325091443
+54.204.242.214 1 1 8102 20150324084732
+89.164.161.230 1 1 10661 20150304032628
+80.180.16.170 6 10 370658 20150319083222
+128.95.32.177 2 2 16204 20150303175816
+129.22.124.104 4 6 213833 20150314111651
+87.8.54.48 1 3 11639 20150307040150
+98.168.250.53 5 7 46606 20150313170015
+31.209.157.140 1 3 11639 20150301143358
+119.147.146.189 4 4 210296 20150316082400
+78.130.111.204 1 3 11639 20150326122903
+84.105.110.236 1 3 11639 20150306073003
+192.190.204.186 8 12 622757 20150325230704
+109.149.248.104 5 7 40773 20150309050209
+193.191.133.1 6 10 415333 20150316054849
+216.182.113.113 5 9 232689 20150316154102
+52.0.71.184 2 2 148630 20150325215909
+220.181.125.21 1 1 8102 20150323042822
+86.26.4.108 4 6 276498 20150327110048
+183.82.104.141 2 4 155513 20150305045400
+98.193.158.202 1 3 11639 20150308145519
+173.56.104.76 1 3 11639 20150325230102
+203.106.159.221 2 4 375517 20150303071851
+186.93.218.219 3 5 202385 20150327173003
+90.194.248.169 2 4 19741 20150324043850
+2.80.79.114 1 3 11639 20150327155202
+144.91.55.150 10 14 451547 20150309084559
+42.60.186.30 1 3 11639 20150315103438
+1.39.62.200 1 3 11639 20150325024056
+189.61.157.54 2 4 19741 20150301105120
+159.178.42.74 1 3 11639 20150309200655
+210.212.230.198 1 3 11639 20150326153722
+150.70.97.96 3 3 160078 20150313093011
+180.190.211.74 1 3 11639 20150314202530
+156.22.9.252 5 9 405919 20150324191517
+54.174.22.212 1 1 8102 20150321004848
+109.128.253.118 2 4 197629 20150314072659
+89.160.180.71 4 8 39482 20150319071036
+62.98.35.202 2 4 24399 20150306023610
+185.15.24.118 1 1 8102 20150325064136
+128.172.245.5 4 8 395258 20150310165106
+131.123.61.3 2 4 24399 20150316104023
+175.98.102.133 2 2 76310 20150304212928
+41.191.221.2 1 3 11639 20150304132236
+54.165.75.170 1 1 8102 20150302153537
+71.249.254.87 1 3 11639 20150318120302
+70.73.200.21 8 14 268046 20150321145144
+117.120.18.135 3 5 205731 20150305225342
+130.208.240.3 9 13 222981 20150322104734
+70.166.216.186 2 4 19741 20150312191704
+67.176.169.236 1 3 25058 20150319212935
+82.5.210.52 1 3 11639 20150323150047
+74.52.245.146 2 2 16204 20150311212339
+75.72.159.30 2 4 19741 20150313110135
+188.143.115.175 4 8 217370 20150319131048
+166.64.3.2 6 12 377541 20150322173740
+177.73.240.68 1 3 11639 20150315192907
+218.102.108.25 2 4 22300 20150323082023
+92.38.28.215 1 1 8102 20150313043317
+76.104.192.209 8 8 64816 20150322151604
+70.63.84.228 1 3 11639 20150311134736
+198.161.231.10 3 5 205731 20150327175316
+86.152.96.80 1 3 14198 20150316082743
+71.61.47.83 11 15 825023 20150310234800
+179.176.194.141 1 3 11639 20150310145204
+144.76.61.6 1 1 8102 20150323165113
+82.25.209.160 8 14 437504 20150324050037
+96.44.20.203 4 8 219929 20150311102309
+5.15.243.50 16 22 559809 20150312145951
+82.8.146.27 1 3 11639 20150301104423
+129.100.253.79 3 5 27843 20150321201617
+209.190.223.134 1 3 11639 20150322235725
+95.151.153.175 3 5 205731 20150302075242
+195.154.241.109 4 4 32408 20150315102300
+107.77.90.114 2 4 19741 20150327183456
+166.137.139.75 3 7 31380 20150319090033
+132.245.92.132 1 1 8102 20150325155230
+14.139.243.10 3 7 209268 20150323053423
+42.60.12.94 2 2 16204 20150322232306
+118.136.168.140 6 8 386445 20150301021143
+5.39.93.201 8 8 64816 20150326182129
+157.56.1.120 1 3 71745 20150313021236
+114.124.24.159 2 4 16395 20150327202003
+178.137.165.247 4 4 32408 20150320051336
+104.197.28.181 1 1 8102 20150319112716
+199.247.177.53 2 4 24399 20150322234812
+14.139.185.2 9 15 74803 20150327012522
+158.36.170.151 4 8 38695 20150312045333
+158.227.0.240 1 3 11639 20150309111406
+1.39.60.123 1 3 11639 20150327022653
+211.72.12.139 2 3 18465 20150304212749
+39.47.147.90 3 5 160269 20150321062653
+218.240.45.68 1 1 8102 20150305202017
+182.56.84.142 1 3 11639 20150317064227
+125.99.181.204 1 3 11639 20150319042222
+1.39.34.24 2 4 19741 20150319031318
+85.250.81.14 2 6 197629 20150323021641
+78.144.154.44 5 7 44047 20150319022610
+130.189.10.63 1 3 11639 20150325125715
+72.71.136.56 6 8 386445 20150326173641
+50.26.30.91 2 4 19741 20150318203939
+203.87.61.134 2 4 197629 20150312211125
+187.186.189.197 1 3 11639 20150324011318
+82.24.70.11 1 3 11639 20150312075751
+198.82.200.126 2 4 197629 20150310153835
+148.197.125.42 17 23 588316 20150326144750
+61.135.190.222 2 2 16204 20150313175535
+132.3.33.80 1 3 11639 20150327091624
+61.135.190.101 1 1 8102 20150305042609
+200.10.20.4 1 3 11639 20150316155004
+189.69.32.23 1 3 11639 20150312152344
+189.241.45.192 1 3 11639 20150301095022
+182.56.99.198 2 4 19741 20150320113854
+77.75.77.200 1 3 14198 20150309184517
+128.184.188.30 1 1 8102 20150311194355
+74.116.168.57 1 3 11639 20150327112114
+220.181.108.154 1 1 8102 20150308113758
+104.197.24.220 1 1 8102 20150320102327
+194.176.105.148 2 5 82108 20150304100700
+174.127.81.3 8 10 378667 20150308110548
+71.63.234.104 3 5 177034 20150305203154
+97.121.15.208 5 9 243549 20150322183703
+200.158.74.122 1 2 10363 20150325205628
+99.231.103.70 4 6 213046 20150310100350
+141.165.54.138 3 5 210389 20150306144439
+199.30.16.176 0 1 2261 
+129.94.28.125 1 3 11639 20150302193950
+146.148.74.175 1 1 8102 20150318102545
+202.67.37.33 2 4 197629 20150319111328
+188.36.32.26 1 3 11639 20150304070608
+2.81.72.172 1 3 11639 20150310194850
+24.244.161.101 1 3 11639 20150307223950
+121.143.64.134 8 12 564750 20150309103444
+199.30.25.101 0 1 1276 
+173.34.49.228 17 21 825603 20150313094050
+190.144.211.65 2 4 19741 20150320124814
+95.211.186.159 5 5 40510 20150315153913
+203.116.206.254 13 17 909952 20150303215732
+130.123.108.22 1 3 71745 20150311230907
+117.198.103.48 1 1 8102 20150317004032
+50.56.160.132 9 11 471457 20150303131032
+124.182.109.176 1 3 11639 20150305000824
+220.181.132.200 1 3 11639 20150322110338
+97.77.73.202 1 3 11639 20150303113127
+187.192.127.204 1 3 11639 20150320131201
+64.199.163.5 3 7 209268 20150319145808
+71.231.19.71 2 4 24399 20150315180659
+208.71.27.101 2 4 19741 20150311134931
+66.102.7.249 0 1 2261 
+73.0.224.103 1 3 11639 20150319181753
+101.199.108.120 1 3 11639 20150309060443
+104.159.240.14 2 4 197629 20150302073956
+220.181.132.216 5 5 40510 20150322110156
+218.102.34.65 1 3 11639 20150310044131
+193.220.114.253 1 2 10363 20150306132302
+186.151.62.166 7 9 430671 20150312005744
+142.254.55.102 3 5 87949 20150324211700
+39.55.250.31 1 3 11639 20150307140128
+190.95.162.222 1 3 11639 20150318211047
+200.168.37.91 0 1 1276 
+24.122.166.135 6 10 468222 20150316154354
+49.151.43.149 3 5 27843 20150325225619
+122.252.230.178 1 3 11639 20150327021519
+216.56.5.131 2 4 155513 20150327152053
+152.71.207.141 4 8 164352 20150326083211
+70.91.224.114 4 4 29134 20150312182215
+114.177.62.123 1 3 11639 20150307014132
+66.207.141.235 10 20 438318 20150313142315
+148.231.125.2 1 3 11639 20150304164359
+202.125.207.143 3 5 265837 20150319142553
+187.176.107.244 1 3 11639 20150316170957
+91.140.14.161 10 14 483096 20150305124118
+192.122.237.248 5 7 231711 20150308162702
+129.22.124.53 1 3 11639 20150315100827
+54.163.2.118 2 2 16204 20150310144513
+62.24.252.133 2 2 76310 20150320104459
+198.232.186.10 3 5 30402 20150306144322
+183.60.35.93 1 1 185990 20150301212456
+1.39.60.43 1 3 11639 20150307101344
+111.95.144.173 4 4 52332 20150313003431
+54.198.129.121 3 3 83625 20150322192544
+175.159.67.84 2 4 19741 20150323025357
+1.39.63.145 2 4 24399 20150327124600
+194.176.105.141 17 29 741591 20150318133707
+23.95.43.111 1 1 8102 20150310134743
+101.63.190.34 1 3 11639 20150307072025
+54.167.25.185 1 3 11639 20150305032827
+73.204.99.26 3 7 209268 20150310110854
+85.241.252.225 4 6 35945 20150310053721
+190.142.188.31 9 15 536790 20150324162003
+59.125.219.193 4 10 179912 20150309045447
+66.119.41.34 1 1 8102 20150313151116
+101.220.6.37 5 7 37427 20150312110117
+99.252.116.43 1 3 11639 20150306211404
+144.118.155.238 1 3 11639 20150324131029
+107.155.70.195 1 3 11639 20150327143438
+107.152.128.28 1 1 21521 20150303052709
+137.132.250.14 4 10 32671 20150302025243
+157.181.129.246 1 3 11639 20150326170132
+76.182.98.4 6 12 244328 20150316080441
+211.25.200.66 2 4 19741 20150315225946
+187.179.22.133 1 3 11639 20150321193232
+95.128.246.45 1 1 8102 20150320061838
+5.149.254.83 1 1 8102 20150314023133
+119.236.179.114 7 7 301138 20150326231221
+71.166.178.149 6 10 240791 20150310151224
+199.30.25.7 0 2 3537 
+137.132.3.8 14 20 557883 20150319111339
+195.154.188.41 1 1 68208 20150321150057
+171.221.163.220 1 1 8102 20150326095619
+138.26.9.62 7 9 373911 20150320123526
+195.147.8.242 3 5 341503 20150313121732
+205.211.168.105 1 3 11639 20150316165134
+50.190.84.51 1 3 11639 20150319115920
+52.1.211.77 1 1 8102 20150314183022
+117.211.2.192 2 4 22300 20150314031348
+101.172.127.242 3 3 24306 20150315033234
+12.71.234.138 1 3 11639 20150307114835
+200.152.98.73 1 3 11639 20150312102434
+68.8.6.153 1 3 11639 20150305185923
+66.249.81.211 2 2 194092 20150308071054
+141.132.166.20 6 10 379122 20150323233537
+122.149.120.62 4 4 29134 20150323193254
+184.71.183.190 1 1 8102 20150302174349
+218.103.225.236 6 8 52149 20150310005013
+107.22.91.191 1 3 11639 20150311200247
+172.56.2.189 1 3 11639 20150324135022
+117.56.213.100 2 4 16395 20150309043036
+121.219.128.159 2 4 19741 20150318042133
+173.226.56.6 1 3 11639 20150326125337
+115.145.86.241 12 34 476649 20150315224828
+70.162.178.38 15 23 894460 20150310210559
+204.4.13.72 15 21 392615 20150312102857
+160.96.200.37 0 1 1276 
+208.38.11.15 2 4 33160 20150318223720
+52.1.202.13 1 1 8102 20150317215758
+84.241.195.43 3 5 341503 20150312083144
+54.152.230.75 1 1 12048 20150312225342
+61.143.62.4 0 1 1276 
+107.77.89.128 1 3 11639 20150314105313
+66.249.81.208 1 1 143874 20150318051544
+199.187.163.212 13 17 249556 20150319101500
+162.244.35.3 1 1 8102 20150319085850
+72.52.169.72 1 1 8102 20150308201754
+107.222.114.105 1 3 11639 20150302213331
+182.74.201.106 1 4 13900 20150320000112
+31.46.246.247 1 3 11639 20150320132505
+38.98.136.163 1 1 8102 20150317153416
+58.162.43.143 1 3 11639 20150326193018
+134.93.123.240 2 4 197629 20150303042419
+84.117.87.35 1 3 189527 20150306222729
+168.235.194.214 1 2 9378 20150318021932
+128.250.4.104 3 7 33939 20150319013122
+54.158.194.201 3 3 27465 20150309200652
+99.22.61.158 7 11 238402 20150309085421
+150.70.173.40 2 2 16204 20150313094054
+117.192.209.164 3 5 84603 20150310053441
+213.57.143.100 8 10 254265 20150318181916
+141.106.75.139 2 4 197629 20150320122621
+131.253.38.67 4 4 340 20150326232902
+52.16.142.153 1 1 8102 20150307195333
+186.80.64.62 1 3 11639 20150311235557
+154.58.98.251 2 4 197629 20150309140006
+183.60.70.29 1 1 185990 20150316101047
+130.74.232.202 4 8 219929 20150324124540
+67.87.29.135 3 5 341503 20150308192959
+91.121.71.86 1 3 11639 20150310033953
+98.87.98.146 2 4 197629 20150301164149
+174.6.37.32 2 4 155513 20150315223335
+217.196.236.225 2 4 197629 20150309094226
+160.96.212.141 7 11 253551 20150326033051
+173.255.114.110 1 1 8102 20150304102451
+161.67.17.22 1 3 11639 20150313073614
+37.152.195.25 1 3 11639 20150307084746
+182.66.22.179 1 3 11639 20150309104332
+190.43.70.105 1 3 11639 20150317125903
+76.20.123.227 6 10 414021 20150304213115
+178.131.210.181 1 3 11639 20150304122249
+62.33.244.157 3 3 24306 20150308055424
+131.247.199.214 6 10 547234 20150305114216
+125.86.102.252 3 5 383619 20150309030949
+98.159.211.154 2 4 19741 20150313075612
+128.218.141.209 2 4 19741 20150324185219
+71.227.147.224 1 3 11639 20150313000141
+129.215.5.255 1 3 11639 20150322191403
+191.177.33.253 1 3 11639 20150319180745
+166.64.1.2 12 16 656039 20150302234902
+95.45.254.50 15 23 522235 20150313132208
+1.164.122.26 4 6 35945 20150315013847
+107.15.60.75 6 8 289356 20150321174049
+188.3.128.237 2 4 19741 20150317170124
+36.82.140.114 1 3 11639 20150305021251
+74.94.46.2 1 3 11639 20150312120129
+104.197.17.5 1 1 8102 20150323112856
+128.218.94.153 3 5 341503 20150318203616
+97.90.52.66 4 8 175254 20150304154852
+59.60.117.185 1 1 21521 20150309151424
+137.82.171.114 20 26 1377481 20150319132223
+91.34.105.172 6 8 197237 20150306162959
+180.150.59.45 2 2 20862 20150320223553
+188.138.9.49 1 1 8102 20150326181123
+46.229.170.197 4 4 32408 20150323134930
+5.34.138.242 4 6 35945 20150310145530
+27.253.8.50 7 11 266258 20150322002115
+67.41.230.106 1 3 11639 20150323191006
+150.70.97.85 3 3 24306 20150326184046
+179.183.153.188 1 3 11639 20150312091620
+165.118.1.50 1 3 11639 20150311232156
+104.154.84.90 1 1 8102 20150326102545
+129.10.9.172 1 3 11639 20150324204218
+95.61.212.211 2 4 19741 20150316071150
+195.62.187.164 1 3 11639 20150306090721
+128.250.4.118 2 2 18763 20150323230757
+205.155.71.74 6 10 353786 20150303182034
+178.131.69.161 1 3 11639 20150301013836
+104.197.4.70 1 1 8102 20150302111321
+128.227.169.252 3 5 19741 20150310085638
+41.58.81.186 1 3 11639 20150319081530
+174.127.81.2 2 4 19741 20150307040556
+152.133.7.132 1 3 11639 20150324083648
+84.237.177.61 4 6 215145 20150326160943
+173.252.74.116 1 1 8102 20150302232730
+175.159.200.38 5 7 417900 20150310060758
+202.67.41.51 1 3 11639 20150302101431
+60.54.11.108 1 3 11639 20150316133328
+86.47.56.216 3 5 205731 20150305042139
+186.116.11.170 1 1 68208 20150301123557
+39.64.104.227 1 3 189527 20150316101036
+174.228.195.21 2 4 22300 20150311113535
+39.47.98.137 1 3 11639 20150327122105
+96.44.189.100 1 1 8102 20150323083528
+173.250.161.127 2 2 16204 20150313150256
+64.134.147.178 1 3 11639 20150307174254
+104.197.8.114 1 1 8102 20150310112729
+138.128.2.226 2 2 16204 20150308150905
+194.176.105.151 2 4 197629 20150323103934
+95.223.5.14 4 11 40794 20150308071330
+189.46.7.239 1 3 11639 20150314100533
+138.80.88.82 10 14 92752 20150326014855
+70.209.66.202 3 5 205731 20150317191457
+41.103.2.124 1 3 11639 20150303153340
+50.76.213.193 2 5 198905 20150325161853
+178.149.89.35 7 12 69395 20150323091346
+197.228.144.119 4 6 49364 20150308125912
+124.104.161.219 1 3 11639 20150323023808
+70.208.137.239 2 4 19741 20150312232219
+198.203.177.177 0 1 0 
+112.215.66.75 1 1 8102 20150325063842
+69.179.228.128 3 5 265837 20150304212326
+170.140.246.214 2 4 19741 20150323093352
+112.64.235.86 1 1 8102 20150320071529
+188.29.165.219 3 5 208290 20150318060717
+188.245.150.113 6 12 179435 20150322035525
+157.122.146.5 1 2 9378 20150304055607
+54.86.6.64 1 1 185990 20150325021845
+62.119.161.132 4 6 346259 20150311054955
+107.219.194.156 1 3 11639 20150323181807
+65.23.55.234 4 6 215145 20150325170714
+198.161.2.210 2 4 33160 20150310152555
+194.247.228.137 2 4 79847 20150320104427
+139.0.15.66 1 3 25058 20150317064945
+186.209.220.12 1 3 11639 20150312071820
+74.207.55.200 4 6 391721 20150310175059
+223.225.253.209 2 3 16204 20150324090715
+74.42.1.75 4 6 96051 20150311225458
+67.230.215.3 2 6 24399 20150327135609
+98.193.165.125 3 5 30402 20150318222937
+66.102.6.224 5 5 59142 20150325120512
+108.236.163.73 1 3 11639 20150311172408
+117.211.2.174 17 23 415579 20150323052409
+134.192.135.254 10 16 572737 20150323091215
+2.24.120.10 8 10 303001 20150312111438
+208.80.194.125 0 1 1276 
+198.7.239.20 4 6 354263 20150311094958
+187.109.145.230 1 3 11639 20150303090137
+64.60.120.29 3 5 205731 20150324223753
+148.246.0.14 1 3 11639 20150325211508
+160.198.12.163 1 3 11639 20150309010222
+46.161.41.199 5 5 291136 20150327101339
+195.240.146.92 1 3 11639 20150325095904
+212.97.80.70 1 3 11639 20150309131217
+36.81.74.164 8 12 396178 20150319115725
+114.79.13.45 2 4 19741 20150312230154
+155.205.208.220 1 3 11639 20150309234455
+14.139.236.98 1 3 11639 20150307195221
+54.84.61.61 1 1 10661 20150312221553
+192.99.9.164 2 2 16204 20150319143915
+121.54.32.164 1 3 14198 20150313112025
+96.246.155.28 1 3 14198 20150327005713
+134.114.220.136 2 4 155513 20150327135903
+104.154.54.6 1 1 8102 20150325102341
+152.11.248.109 11 13 449032 20150319182857
+54.172.100.139 1 1 185990 20150315230438
+172.56.5.209 2 4 24399 20150325142306
+134.124.8.114 1 3 11639 20150318111611
+188.166.43.228 1 1 8102 20150326200452
+123.125.82.35 1 1 8102 20150318230843
+115.145.86.246 2 6 26958 20150312015106
+104.197.10.204 1 1 8102 20150315103056
+39.47.122.115 5 7 172340 20150324133346
+152.8.74.220 8 12 626103 20150319123011
+76.19.47.29 1 1 8102 20150310035247
+204.17.204.128 1 1 143874 20150325094950
+122.184.55.66 1 1 8102 20150319074027
+104.197.21.74 1 1 8102 20150313102531
+71.13.148.61 2 4 155513 20150318111214
+149.130.195.87 1 3 11639 20150310165300
+137.110.242.111 1 3 11639 20150316161139
+120.15.41.104 1 1 68208 20150302094009
+192.114.71.13 1 1 143874 20150320112225
+68.145.113.247 4 8 219929 20150305233040
+54.158.247.155 3 3 204624 20150324100341
+52.0.193.98 1 1 8102 20150311101435
+190.58.249.11 1 3 11639 20150302171648
+90.176.94.141 1 3 14198 20150308155520
+186.108.160.63 1 3 11639 20150306094451
+121.123.157.114 1 3 14198 20150314121834
+186.206.173.68 1 3 11639 20150322072524
+186.84.195.88 8 14 609091 20150312115935
+177.35.199.208 1 1 8102 20150325124657
+173.233.209.239 3 5 29155 20150313130801
+184.106.10.128 1 1 8102 20150306132041
+2.102.58.58 3 7 209268 20150305072010
+1.51.206.191 1 1 185990 20150301034805
+132.234.251.230 2 4 22300 20150315210251
+76.187.156.108 1 3 11639 20150309234236
+95.92.36.135 2 4 19741 20150310134035
+184.153.251.85 1 3 11639 20150325212322
+108.179.181.84 2 2 16204 20150311112545
+200.138.221.130 4 6 35945 20150319101019
+190.128.140.150 1 3 11639 20150305080810
+203.185.62.70 19 23 927581 20150308235126
+174.21.100.184 4 6 35945 20150327140455
+202.83.100.20 4 8 39482 20150310023239
+138.162.140.54 0 2 3537 
+212.159.141.33 2 4 197629 20150326151602
+79.42.87.237 1 3 11639 20150327075330
+155.54.206.206 3 5 27843 20150323073914
+138.16.125.100 4 6 176375 20150317150742
+94.0.177.75 1 3 11639 20150326163336
+188.212.229.168 1 3 11639 20150318052242
+199.47.81.11 5 5 40510 20150327172601
+41.190.2.195 2 4 24399 20150320121920
+52.0.28.177 1 1 8102 20150320223718
+96.228.21.42 6 14 418536 20150320064501
+54.164.179.47 1 1 21521 20150310162132
+222.228.212.178 3 5 168273 20150321081715
+104.197.4.179 1 1 8102 20150303112721
+120.61.212.36 3 5 27843 20150324014207
+104.154.85.45 1 1 8102 20150311112653
+45.62.35.160 1 1 8102 20150317094322
+93.171.205.23 11 11 484124 20150321152438
+176.63.228.10 1 3 11639 20150315062549
+107.218.24.26 2 6 23278 20150305205427
+201.21.10.110 1 3 11639 20150320093543
+156.26.248.32 2 4 155513 20150311162843
+54.175.5.194 1 1 21521 20150323143754
+2.124.251.225 1 3 11639 20150311151441
+80.114.137.141 2 4 22300 20150327091619
+139.133.138.126 1 3 11639 20150326083145
+180.216.83.110 4 7 350881 20150302113210
+173.64.88.156 1 3 11639 20150303163949
+160.98.168.7 3 7 209268 20150305100549
+31.53.44.50 8 10 377952 20150313102112
+212.129.43.119 2 2 43042 20150302055247
+183.250.180.90 1 3 11639 20150308074512
+152.121.19.252 1 1 143874 20150317172109
+117.240.188.98 6 8 52149 20150310063425
+146.199.176.23 2 4 197629 20150325072416
+98.143.212.29 4 8 171908 20150322192308
+60.241.195.13 2 4 19741 20150304205538
+120.215.114.224 1 3 11639 20150323030909
+173.167.101.86 1 1 8102 20150312033033
+217.227.31.213 2 4 19741 20150327201500
+86.12.190.4 11 15 765632 20150312095848
+49.4.164.75 1 1 8102 20150327211227
+1.186.28.2 8 12 318413 20150303231353
+183.171.160.141 2 4 24399 20150306231105
+61.135.190.104 1 1 8102 20150325171005
+76.106.157.166 5 9 374663 20150306093441
+217.129.141.90 1 3 11639 20150305151500
+130.184.232.156 1 3 11639 20150317163031
+203.64.247.46 4 8 32790 20150304212946
+132.204.205.164 4 6 35158 20150304102428
+139.228.230.225 1 3 11639 20150304054159
+54.145.88.52 3 9 94236 20150322193533
+117.221.34.74 3 5 27843 20150315131636
+1.178.96.123 1 3 11639 20150315195649
+107.138.228.244 1 3 11639 20150305150910
+184.94.60.246 3 5 208290 20150317113643
+193.52.102.13 11 15 330844 20150327062835
+179.156.44.154 1 3 11639 20150311192503
+88.35.44.163 2 4 19741 20150318105019
+190.204.234.116 1 3 11639 20150311213629
+98.198.180.231 1 3 14198 20150302201022
+87.0.31.108 1 3 11639 20150318133432
+160.96.200.35 2 2 190746 20150323074143
+37.152.228.111 7 11 251821 20150310151031
+78.148.246.22 3 5 35060 20150302163032
+147.91.120.11 1 3 11639 20150320142502
+188.3.147.223 1 3 11639 20150309165814
+128.73.166.76 1 4 13900 20150320132553
+191.250.125.222 1 3 11639 20150320225614
+1.121.129.64 1 3 71745 20150323035159
+119.95.150.47 1 3 11639 20150326204159
+66.249.84.198 7 7 262550 20150326173907
+173.65.205.48 1 1 8102 20150322052932
+173.70.141.168 13 13 622474 20150321192309
+50.186.62.34 3 5 43821 20150301144207
+18.239.0.155 1 1 8102 20150326133112
+114.134.189.134 1 3 71745 20150305233939
+194.81.108.77 1 3 11639 20150309134304
+130.74.141.119 7 9 375295 20150324130259
+76.91.36.98 1 3 11639 20150318151910
+2.86.162.205 1 3 11639 20150316200352
+129.101.231.23 2 6 23278 20150304213428
+138.162.128.54 0 1 2261 
+85.55.202.157 1 3 11639 20150323172659
+110.159.145.248 8 10 372883 20150305072013
+176.14.53.248 1 4 13900 20150306162108
+136.159.89.81 4 6 185136 20150306130730
+216.56.161.194 1 3 11639 20150318110609
+132.209.150.108 2 4 13049 20150306150824
+178.32.5.32 1 1 8102 20150314122851
+142.54.184.181 2 2 16204 20150316191000
+5.170.68.22 1 3 11639 20150322074153
+192.197.205.95 6 8 546256 20150320172840
+112.198.83.140 9 13 435768 20150318190851
+82.25.132.189 2 6 23278 20150308162837
+188.166.61.174 1 1 8102 20150321191358
+96.227.84.148 7 11 476324 20150318201221
+128.187.204.59 9 13 392937 20150310200818
+5.9.156.154 1 1 8102 20150325114958
+62.210.170.27 1 1 8102 20150311042557
+180.75.138.177 3 5 163615 20150307010956
+150.252.42.180 2 4 24399 20150301164946
+165.91.58.90 1 3 11639 20150325124827
+122.176.133.212 1 3 11639 20150302054624
+138.49.48.112 7 9 62810 20150323174318
+104.197.26.195 1 1 8102 20150316113032
+91.121.15.68 1 3 11639 20150326182159
+75.68.82.240 2 2 16204 20150322161658
+152.26.193.39 1 3 11639 20150316104852
+66.249.84.192 3 3 211510 20150326155650
+182.18.179.174 1 3 11639 20150315120525
+172.13.153.214 2 4 24399 20150309134111
+175.140.130.240 1 3 11639 20150311223301
+5.23.87.189 1 3 11639 20150314102813
+214.28.226.253 11 13 419453 20150310105929
+206.87.222.32 1 3 11639 20150303124125
+148.202.104.174 4 6 92705 20150306153115
+141.165.46.161 1 3 11639 20150306094728
+67.230.220.98 7 11 319072 20150303093458
+180.254.83.61 4 4 25788 20150323101721
+68.114.81.6 1 1 8102 20150326170245
+99.249.129.74 2 4 22300 20150307234727
+134.84.64.3 6 8 237254 20150302150245
+182.56.194.203 3 5 27843 20150316022051
+140.166.180.96 5 7 223247 20150317102359
+62.99.77.165 2 2 16204 20150317122549
+186.70.139.78 4 8 217370 20150324222736
+23.16.167.49 2 2 194092 20150302054143
+179.163.161.110 1 3 11639 20150317215140
+73.162.192.149 2 6 23278 20150319072648
+75.64.184.53 8 10 491452 20150301225224
+183.171.169.16 1 3 11639 20150320123720
+78.40.168.160 11 15 423872 20150317122021
+72.237.20.231 6 10 54971 20150327132413
+162.237.208.197 7 9 294899 20150322114456
+146.176.197.196 4 8 217370 20150302105403
+118.209.26.127 6 10 258156 20150315173940
+138.80.88.234 10 12 446835 20150318033117
+78.13.252.15 1 3 11639 20150305125330
+31.46.141.38 6 12 237111 20150324125832
+140.112.140.84 3 5 32501 20150312030249
+64.203.243.226 9 13 546714 20150321104245
+88.207.60.32 3 5 341503 20150325044927
+45.56.105.219 9 9 72918 20150326164810
+99.90.160.43 1 3 16297 20150315131128
+178.121.223.225 1 1 8102 20150307051802
+187.107.49.244 1 3 11639 20150324205745
+189.38.70.30 1 3 11639 20150304121802
+109.224.166.238 8 12 664873 20150324122744
+105.184.98.167 5 9 222126 20150301120541
+98.229.157.230 2 4 19741 20150303083741
+109.163.234.5 1 1 8102 20150321111957
+54.80.114.50 4 4 272832 20150324100333
+161.200.203.253 2 4 19741 20150324033151
+174.69.17.246 1 1 143874 20150309140710
+46.103.239.206 8 12 544532 20150316075338
+59.60.119.14 1 1 21521 20150310205843
+71.17.234.26 2 4 19741 20150316230011
+86.11.170.247 1 3 11639 20150319052338
+128.250.4.116 3 5 205731 20150319195739
+138.87.170.71 4 8 222028 20150327101327
+203.110.246.25 4 6 228477 20150326010222
+49.144.75.20 2 6 23278 20150319162019
+68.118.118.226 1 3 11639 20150326134543
+199.30.25.125 0 1 2261 
+200.206.101.226 13 17 485379 20150309104136
+180.233.230.113 2 4 155513 20150309113134
+185.6.148.16 2 4 19741 20150326091550
+194.176.105.154 2 4 22300 20150319103505
+172.56.4.233 1 1 8102 20150327000028
+71.204.145.198 9 17 470748 20150304190208
+103.226.94.58 1 3 71745 20150315025713
+193.136.115.1 5 11 192011 20150312063410
+90.195.102.168 2 4 197629 20150319104552
+31.52.31.15 2 4 197629 20150312080544
+178.217.187.39 1 1 8102 20150327230653 20150327230653 /
+152.132.7.196 4 10 354263 20150306075903
+104.172.137.43 4 6 213833 20150320165257
+62.24.181.135 3 3 202194 20150306080142
+70.174.139.134 1 3 11639 20150307174311
+139.80.178.144 12 26 896200 20150323204401
+12.204.65.131 1 3 16297 20150304110955
+128.125.179.203 2 4 197629 20150324193716
+101.175.160.239 1 3 11639 20150311210402
+194.83.117.117 1 3 11639 20150325164235
+99.225.237.92 5 9 110249 20150320142121
+45.55.133.233 8 8 324046 20150327181847
+54.82.34.133 1 1 4756 20150316000300
+157.56.1.57 1 3 71745 20150307000139
+182.72.63.11 3 5 30402 20150302033212
+218.185.233.170 1 3 189527 20150321085701
+186.250.24.2 1 3 11639 20150317074142
+82.145.211.63 1 3 11639 20150302121632
+222.127.140.59 2 4 24399 20150317035518
+185.66.25.24 1 3 11639 20150303064005
+176.14.58.213 1 1 8102 20150310040559
+192.167.192.170 8 12 71890 20150325120131
+1.39.60.46 2 4 19741 20150324030035
+96.35.97.222 1 3 11639 20150307162317
+216.165.126.125 2 4 19741 20150305113107
+199.189.197.114 1 3 11639 20150305124831
+173.28.202.47 2 4 197629 20150307120433
+69.196.253.30 7 7 432910 20150315081704
+217.123.16.237 3 5 205731 20150313101743
+92.22.164.184 1 3 11639 20150306080111
+150.148.14.3 1 3 11639 20150302170118
+72.27.99.46 1 3 11639 20150325205106
+151.33.184.76 1 3 11639 20150321072540
+23.20.134.150 1 1 8102 20150309200444
+208.80.194.123 1 1 185990 20150317143929
+192.138.80.211 5 9 363803 20150311202535
+202.46.50.91 1 1 185990 20150304213903
+134.84.64.190 2 4 22300 20150319160018
+93.147.93.168 1 3 11639 20150317051233
+75.151.1.137 1 1 143874 20150311085113
+142.76.1.62 2 4 22300 20150325101531
+97.117.1.45 3 7 209268 20150321181441
+137.222.160.202 2 5 198905 20150325154408
+130.49.174.120 2 3 18763 20150312003419
+144.76.185.173 2 2 194092 20150325121143
+139.80.183.3 2 6 23278 20150323205654
+82.132.226.208 1 3 11639 20150316145114
+193.147.185.18 1 3 11639 20150313085622
+177.99.5.218 1 3 11639 20150324185348
+128.107.239.236 1 1 8102 20150302124634
+66.194.118.10 1 3 16297 20150309143147
+130.211.132.131 1 1 8102 20150320112751
+14.96.106.168 2 2 34281 20150317141844
+174.127.81.6 1 1 8102 20150308111202
+36.80.203.78 2 4 16395 20150309230751
+201.144.12.84 3 9 34917 20150304182303
+184.69.67.6 1 3 14198 20150310125435
+95.221.249.127 1 3 16297 20150305120345
+150.70.173.8 2 2 16204 20150326183847
+66.102.6.208 6 8 69796 20150325130407
+123.125.71.20 1 1 8102 20150308113702
+76.123.170.165 1 3 11639 20150301115323
+68.174.175.199 5 7 226593 20150308192739
+199.52.13.129 1 3 11639 20150312104736
+104.130.77.75 1 1 8102 20150301190704
+203.217.176.18 1 1 10661 20150301214451
+94.23.252.112 3 3 24306 20150303222959
+203.117.37.54 2 4 33160 20150303050842
+41.184.96.135 1 3 11639 20150313053602
+129.96.85.111 9 11 509627 20150316220022
+107.178.210.8 1 1 8102 20150324112853
+128.250.4.119 1 3 11639 20150322234539
+124.168.183.223 8 12 546606 20150304050720
+67.97.72.22 2 4 197629 20150313131214
+61.10.32.101 1 3 11639 20150312143101
+61.3.186.44 5 7 181131 20150304015559
+176.126.252.11 1 1 8102 20150323061905
+24.138.68.115 2 4 197629 20150305065422
+75.144.205.237 1 3 11639 20150325154913
+81.118.214.164 1 1 143874 20150327103403
+109.97.100.52 3 7 167152 20150310102751
+92.107.20.74 6 10 111659 20150306042642
+209.147.97.217 4 10 107783 20150311123909
+181.66.246.60 1 3 11639 20150314173520
+104.197.9.163 2 2 16204 20150302101638
+157.56.1.94 1 3 71745 20150303091728
+114.79.29.106 3 5 163615 20150315215313
+52.1.60.35 1 1 185990 20150315222638
+125.86.99.184 2 2 194092 20150323040319
+94.131.14.7 2 2 16204 20150310094547
+14.139.225.181 4 6 42375 20150303030151
+129.96.80.59 2 4 197629 20150310235002
+37.130.227.133 1 1 8102 20150326181123
+193.50.135.195 1 3 11639 20150306062723
+111.223.255.4 10 12 204769 20150309223716
+132.245.29.132 1 1 8102 20150327132524
+132.3.33.79 2 4 19741 20150327091624
+69.181.185.96 15 21 813912 20150324163009
+164.67.81.26 4 6 35945 20150323044016
+134.121.243.114 7 11 424682 20150302173910
+74.44.237.70 3 6 33777 20150326105329
+213.239.211.141 8 8 324046 20150323005521
+192.152.243.178 4 6 213833 20150302150530
+172.56.3.54 1 1 8102 20150326084935
+2.221.199.180 1 3 11639 20150318153156
+69.77.96.200 1 3 11639 20150325161102
+186.210.205.108 1 3 11639 20150317194250
+181.74.152.255 1 3 11639 20150307135124
+112.215.66.79 0 1 1276 
+172.245.142.126 1 1 21521 20150317133808
+82.145.218.134 1 3 11639 20150321040355
+173.167.246.226 1 3 11639 20150309230322
+54.173.203.166 2 2 34281 20150310165215
+1.39.63.78 1 1 8102 20150324125131
+88.8.117.26 1 3 11639 20150311093529
+193.61.160.88 1 3 11639 20150324095308
+150.203.197.103 1 3 11639 20150303184948
+128.193.8.164 1 3 11639 20150320165639
+157.127.239.146 3 5 205731 20150326152101
+201.95.31.165 1 3 11639 20150327140949
+134.192.250.68 1 3 11639 20150302170138
+64.72.85.86 2 4 24399 20150326123347
+174.6.168.45 1 3 11639 20150304102832
+54.158.250.183 1 1 8102 20150322192358
+157.56.1.80 1 3 71745 20150318222453
+41.160.80.2 1 1 4756 20150327152200
+180.246.208.139 4 6 96051 20150312042510
+54.220.26.254 1 3 11639 20150314170101
+144.76.30.242 1 1 8102 20150324063507
+152.132.10.137 3 5 92607 20150304155432
+146.243.57.205 2 4 19741 20150308135507
+194.66.175.91 2 2 16204 20150310111111
+52.1.34.131 1 1 68208 20150312221553
+108.73.14.229 2 4 22300 20150322194350
+223.17.94.241 1 3 16297 20150312142649
+177.18.24.173 1 3 11639 20150303190705
+160.131.76.175 4 6 349605 20150303144646
+89.178.57.177 1 5 15176 20150320012436
+52.1.124.59 1 1 21521 20150314041609
+208.46.162.109 7 11 551990 20150322143441
+198.244.96.73 1 1 8102 20150301005056
+132.3.25.80 2 5 320864 20150309122752
+119.237.8.163 9 13 473607 20150313001700
+176.9.50.43 1 1 12760 20150303072952
+50.51.221.88 1 1 143874 20150310112423
+85.243.234.72 1 3 11639 20150323082930
+52.1.234.89 2 2 154535 20150312225336
+204.8.9.98 3 5 210389 20150327135040
+79.173.201.79 1 3 11639 20150317110119
+146.182.18.18 4 6 307489 20150318061602
+130.79.1.101 3 5 27843 20150322104822
+115.70.201.250 11 13 405604 20150325221259
+140.142.205.80 3 5 205731 20150326145957
+84.97.180.204 1 3 11639 20150305133222
+193.146.103.205 1 3 11639 20150310052229
+137.44.97.251 1 3 11639 20150327093959
+41.150.16.230 1 3 71745 20150322004450
+190.234.25.159 6 10 56998 20150310191532
+210.55.186.165 1 3 11639 20150311175345
+173.14.101.1 3 5 205731 20150313144136
+88.198.68.140 1 1 8102 20150314125845
+101.127.169.37 2 4 197629 20150313071552
+67.188.230.23 1 3 11639 20150318035139
+70.90.133.62 7 11 243060 20150304213554
+128.135.189.64 2 4 19741 20150305121120
+209.147.118.123 1 1 143874 20150312110201
+130.159.225.162 1 3 11639 20150311085045
+37.175.73.37 3 5 24497 20150318055647
+86.157.25.124 5 7 40773 20150313132921
+94.64.213.148 1 3 11639 20150304125211
+108.171.130.176 1 1 143874 20150311132629
+139.86.9.83 3 5 32501 20150327031955
+107.208.171.74 3 5 168273 20150308005448
+141.217.86.234 1 1 8102 20150316095848
+128.250.4.108 1 1 12760 20150319011927
+78.158.11.226 4 4 34180 20150320210520
+138.162.128.52 1 2 9378 20150309165337
+146.201.199.245 1 3 11639 20150325144329
+167.193.134.61 3 7 202385 20150316084537
+85.115.54.180 8 12 249063 20150306061152
+130.215.123.78 2 4 16204 20150327152523
+82.113.184.150 1 3 11639 20150317070748
+193.1.45.254 9 15 320808 20150323122840
+80.192.35.190 6 8 184647 20150327134934
+62.210.254.239 1 1 8102 20150326041514
+66.249.82.224 2 4 19741 20150319124317
+208.102.16.125 4 8 214024 20150327144523
+202.42.255.254 1 1 185990 20150303224308
+104.197.27.132 1 1 8102 20150322102356
+125.70.121.165 1 1 8102 20150319094512
+108.47.117.65 5 9 288137 20150309180100
+109.246.123.208 1 3 11639 20150314144623
+36.86.220.8 1 3 11639 20150318021223
+117.206.1.63 1 3 11639 20150323105658
+66.249.93.170 1 1 185990 20150318103907
+186.116.44.32 1 3 11639 20150318004319
+75.109.165.13 3 5 341503 20150315064128
+175.111.91.124 1 3 11639 20150306231348
+86.183.71.197 3 5 32501 20150304051606
+179.215.156.175 1 3 11639 20150320133323
+213.55.79.193 1 3 11639 20150318085955
+188.67.227.85 2 4 197629 20150301012652
+79.150.255.138 2 4 19741 20150317090038
+101.167.224.99 1 2 10363 20150312201311
+155.52.208.86 1 3 11639 20150303122954
+143.239.9.1 3 7 31380 20150324123610
+82.170.110.172 1 3 11639 20150304113137
+194.79.81.150 1 3 11639 20150325170828
+50.197.39.62 3 5 166174 20150327134735
+64.229.181.65 1 3 11639 20150321115834
+187.75.42.30 1 3 11639 20150324114528
+72.37.249.92 6 8 291455 20150326111851
+146.182.18.47 1 3 11639 20150304144209
+66.249.81.246 1 1 8102 20150308071400
+23.251.148.95 1 1 8102 20150324102505
+193.205.233.25 1 3 11639 20150325055616
+79.42.236.178 1 3 11639 20150313142942
+129.89.73.193 2 4 19741 20150310153304
+134.173.213.180 2 2 16204 20150317133645
+144.126.16.147 1 1 8102 20150318122604
+194.6.233.33 2 2 16204 20150317164919
+112.209.2.118 1 3 25058 20150303085426
+146.148.37.84 1 1 8102 20150317112932
+49.149.96.132 3 5 168273 20150317132551
+113.23.139.50 2 4 19741 20150315125519
+177.193.100.72 1 3 11639 20150310154339
+92.53.28.135 1 3 11639 20150320192629
+132.183.13.3 3 5 208290 20150305155038
+5.151.3.32 1 3 11639 20150309013020
+129.118.141.56 7 11 76492 20150327122156
+109.246.122.238 1 3 11639 20150311195251
+177.10.23.86 1 3 11639 20150312212705
+71.163.83.41 1 3 11639 20150301145130
+152.132.10.194 1 3 14198 20150325150023
+76.167.210.11 1 3 11639 20150321192827
+112.151.167.17 1 3 11639 20150327094212
+66.249.81.252 3 3 24306 20150327065311
+137.229.164.206 1 3 11639 20150317191651
+24.141.115.154 4 4 210296 20150321195403
+85.247.79.183 1 3 11639 20150302050017
+187.104.151.165 1 3 11639 20150313112852
+93.127.146.139 1 1 21521 20150324230747
+112.209.200.246 2 4 16395 20150321041513
+108.84.50.224 2 4 155513 20150327140732
+89.180.110.134 1 3 11639 20150313115019
+131.174.194.158 4 6 391721 20150310061722
+119.15.100.75 2 6 23278 20150323234103
+182.186.38.190 1 3 16297 20150323144950
+24.220.21.228 3 3 29424 20150313111811
+192.34.58.199 8 8 324046 20150314124049
+218.103.212.80 2 4 19741 20150314123001
+128.250.4.112 7 15 240648 20150323230757
+24.157.135.21 3 5 202385 20150307091713
+160.96.200.36 2 2 194092 20150323073854
+197.228.16.200 2 4 19741 20150307053511
+69.243.71.144 1 3 11639 20150304214235
+128.138.64.136 7 11 431439 20150324152435
+182.56.123.53 5 7 226593 20150319085817
+152.130.7.195 2 2 16204 20150325133834
+213.74.185.30 1 3 11639 20150323042803
+131.128.36.109 3 5 205731 20150315152448
+36.72.14.135 2 4 21024 20150314225206
+160.198.203.225 1 3 11639 20150308212224
+97.125.127.124 1 3 11639 20150303131730
+73.36.139.39 1 3 14198 20150323224730
+2.123.159.156 1 3 11639 20150305192447
+90.192.142.74 5 7 253344 20150310075620
+124.170.91.176 4 8 277476 20150304013633
+95.246.64.18 1 3 11639 20150315141521
+114.37.31.74 16 18 447354 20150319131102
+130.211.141.162 1 1 8102 20150312112753
+69.59.114.167 3 5 299387 20150312112021
+150.70.97.122 1 1 8102 20150310033044
+129.120.2.133 1 3 11639 20150327153509
+172.56.3.2 1 1 8102 20150324233726
+189.62.132.242 3 5 160269 20150322141711
+61.135.190.221 1 1 8102 20150308114955
+54.92.233.67 1 1 8102 20150324082341
+82.13.114.218 1 3 11639 20150305080256
+157.56.1.37 2 6 143490 20150327215100
+120.56.186.45 2 4 19741 20150325102648
+31.205.139.7 4 6 35945 20150323115258
+174.102.76.61 2 4 19741 20150311203359
+108.179.128.7 2 2 16204 20150317153312
+158.227.141.56 2 4 19741 20150305102242
+187.198.112.123 2 4 19741 20150311123250
+69.197.186.210 1 1 185990 20150316111807
+45.55.133.231 8 8 324046 20150323163849
+203.2.35.101 2 4 155513 20150318225705
+72.177.165.244 3 5 210389 20150322045025
+103.245.88.249 2 4 24399 20150322001839
+174.68.87.147 10 10 682080 20150326002134
+191.250.168.97 1 3 11639 20150305191355
+5.28.8.10 8 10 511165 20150312100631
+112.71.211.131 1 3 11639 20150317102127
+140.226.169.99 5 7 218661 20150303101119
+211.26.36.74 3 5 210389 20150311225114
+172.2.109.225 1 3 11639 20150304204129
+66.249.86.33 6 8 58579 20150324222608
+54.80.220.111 5 5 341040 20150306090018
+81.144.138.34 9 9 332148 20150321101141
+24.106.10.198 1 3 11639 20150302090359
+146.176.240.67 2 4 22300 20150302100631
+115.115.222.123 1 1 68208 20150305025910
+152.16.51.172 7 9 310877 20150325143209
+66.249.82.216 1 1 8102 20150308074541
+205.175.124.250 6 8 51434 20150326161320
+112.211.161.75 4 6 341503 20150322103334
+132.248.60.107 4 6 354263 20150311193943
+50.77.236.81 3 7 31380 20150310114427
+150.214.66.176 7 17 218700 20150323063443
+5.160.59.99 1 3 11639 20150317025624
+140.142.143.211 1 1 8102 20150303170419
+198.49.125.36 12 18 472969 20150327145205
+86.40.131.98 9 13 495159 20150312060625
+181.114.170.40 2 4 16395 20150310153126
+152.132.9.196 1 3 11639 20150324154257
+112.209.151.190 7 9 375223 20150319104558
+112.215.66.77 1 1 8102 20150325063401
+130.88.88.136 4 6 346259 20150305035758
+64.22.249.253 2 6 143490 20150310140634
+209.147.118.14 1 1 8102 20150308162601
+66.30.66.96 3 5 208290 20150318140507
+189.110.152.151 1 3 11639 20150318180239
+173.13.78.218 5 7 184477 20150323110401
+106.68.57.234 2 4 22300 20150321235601
+108.245.18.53 1 3 16297 20150325202134
+140.237.3.20 2 2 33569 20150315154818
+143.160.252.27 1 3 189527 20150311063046
+1.36.232.111 3 5 27843 20150314123102
+54.209.60.63 7 7 126024 20150323104602
+194.82.172.24 4 8 209268 20150303084713
+128.100.208.148 3 5 210389 20150318093341
+63.66.64.246 1 3 11639 20150326151236
+130.104.82.166 6 10 234886 20150303062458
+128.107.239.234 2 2 16204 20150301231901
+50.168.155.11 5 7 206350 20150311233919
+61.135.190.102 1 1 8102 20150314155743
+54.172.202.148 1 1 8102 20150315014413
+64.139.240.204 1 3 11639 20150324082250
+90.200.92.169 4 8 42041 20150326000934
+157.242.203.159 4 6 218491 20150309182631
+131.136.242.1 1 3 11639 20150312135459
+69.58.178.57 9 9 332148 20150308192709
+70.181.232.238 2 4 155513 20150301190727
+144.37.113.195 1 3 11639 20150302113832
+193.140.103.198 1 1 8102 20150303044149
+85.220.54.254 5 9 282232 20150322143355
+174.65.119.208 2 4 19741 20150301152109
+68.201.96.124 1 3 11639 20150305114310
+93.171.43.25 1 1 8102 20150324114944
+208.90.57.196 2 2 16204 20150309180645
+150.182.159.254 3 5 35060 20150306123318
+208.61.250.70 1 3 11639 20150309112413
+73.180.8.67 1 3 11639 20150326011103
+86.46.192.40 2 4 197629 20150317145103
+24.250.239.241 2 4 24399 20150316100504
+206.168.43.173 1 1 8102 20150303093359
+95.62.80.25 1 1 8102 20150314153105
+14.139.108.210 2 4 26958 20150314145648
+193.174.25.30 1 3 71745 20150326052857
+137.110.55.194 4 8 214024 20150325182448
+31.221.101.228 1 3 11639 20150318085206
+121.72.166.164 2 4 197629 20150323213759
+176.15.142.185 1 4 13900 20150323095901
+146.176.131.104 5 7 176545 20150319085559
+69.12.90.210 1 1 21521 20150320160837
+54.158.255.253 4 4 276907 20150316000318
+150.252.42.67 5 9 288137 20150315190532
+86.128.157.49 1 3 16297 20150305063839
+129.120.246.11 4 8 219929 20150320102020
+104.154.88.97 1 1 8102 20150321112915
+152.26.228.76 1 3 11639 20150320102427
+58.170.95.145 2 4 33160 20150304182542
+157.27.144.115 6 8 181301 20150307054528
+69.41.14.215 1 3 11639 20150307162532
+54.88.212.8 1 1 8102 20150302112021
+129.133.94.75 6 8 90862 20150303103702
+192.31.106.36 1 1 143874 20150306122052
+198.111.71.10 2 6 23278 20150324140010
+75.159.107.235 6 8 294801 20150308162505
+50.160.190.215 1 3 11639 20150320151437
+218.102.111.198 10 12 642641 20150326083923
+172.56.10.147 6 8 51434 20150317145028
+161.23.131.27 1 3 11639 20150310124257
+180.153.214.182 1 1 185990 20150323032811
+138.80.88.208 20 24 550781 20150326183912
+67.240.59.64 1 3 11639 20150318131610
+24.22.251.235 1 3 11639 20150314180437
+103.231.241.108 4 6 312147 20150317002332
+186.251.2.157 1 3 11639 20150311081924
+182.66.47.130 1 3 11639 20150306035958
+54.196.58.242 2 6 23278 20150316210121
+99.8.73.35 10 10 81020 20150323175835
+174.129.174.205 1 1 8102 20150325200210
+8.39.228.15 4 8 222028 20150303214920
+90.197.67.91 2 4 19741 20150311083812
+92.217.6.16 8 10 445990 20150323142015
+193.171.200.108 5 9 222126 20150309064726
+216.43.24.18 2 4 155513 20150310113030
+109.175.143.69 1 3 11639 20150317201108
+162.209.98.69 1 1 4756 20150310174325
+203.6.77.2 2 4 211048 20150304193458
+117.193.246.11 3 3 164736 20150308015846
+52.1.148.60 1 1 8102 20150321005114
+132.3.9.79 3 5 32501 20150310012024
+202.170.60.249 1 1 68208 20150304224544
+201.47.77.91 1 3 11639 20150326182435
+207.55.61.160 1 3 11639 20150315234349
+104.236.58.4 1 1 8102 20150308001923
+114.79.36.23 1 2 9378 20150314232529
+124.150.24.125 1 3 11639 20150309010257
+66.134.49.98 4 8 48798 20150319160214
+24.176.243.210 1 1 8102 20150324154815
+209.147.118.252 0 2 3537 
+50.37.75.246 1 3 11639 20150317135530
+82.1.89.217 3 5 210389 20150321184033
+188.32.129.237 7 11 438866 20150303025102
+107.32.37.78 1 3 11639 20150303001411
+65.51.18.79 4 8 357800 20150322123511
+82.80.249.173 10 12 479559 20150320112224
+76.84.186.69 5 9 403360 20150302155422
+89.31.57.5 1 1 8102 20150324204411
+72.194.132.130 1 3 11639 20150305130105
+151.48.24.209 2 4 155513 20150324062118
+1.187.231.32 1 3 11639 20150309110205
+112.209.169.89 1 3 11639 20150323115628
+76.5.31.45 1 3 11639 20150313223655
+178.137.164.47 2 2 16204 20150319234348
+189.30.104.34 1 3 11639 20150325153712
+173.255.165.68 10 14 469677 20150323011740
+210.227.116.237 2 4 16395 20150325055647
+104.197.16.39 1 1 8102 20150327102451
+52.0.124.192 1 1 21521 20150314033805
+88.7.77.139 6 8 226691 20150301073154
+84.46.247.86 10 16 342100 20150306112443
+195.195.4.180 2 6 23278 20150327132513
+5.187.172.250 6 10 408116 20150314172808
+101.87.233.137 2 4 24399 20150319085130
+73.31.165.54 1 3 11639 20150309155120
+114.77.47.55 1 3 25058 20150319182256
+109.214.59.214 13 17 428619 20150327201350
+67.84.182.74 1 3 11639 20150303230724
+89.135.4.208 1 3 11639 20150315143913
+54.174.19.54 1 1 185990 20150325025650
+130.123.103.11 4 8 214024 20150317231141
+192.173.4.208 8 12 461721 20150306070852
+193.219.57.125 1 3 11639 20150309105538
+72.13.163.16 1 3 11639 20150313174934
+69.195.46.114 3 5 90508 20150320141113
+204.62.116.69 3 5 177034 20150302145042
+203.106.154.217 2 2 29623 20150317022054
+191.184.198.151 5 9 180010 20150324145931
+36.248.169.15 1 1 21521 20150319015846
+210.122.170.6 5 13 218661 20150325030702
+69.85.215.55 4 8 42041 20150317143101
+198.27.69.229 4 4 32408 20150326214502
+86.6.140.99 3 7 91486 20150326083016
+132.3.25.78 1 4 12915 20150309122652
+201.59.146.242 1 1 8102 20150316134035
+89.142.35.170 1 3 25058 20150307042641
+60.250.7.34 1 3 11639 20150310053423
+113.28.75.102 6 10 426106 20150322232708
+146.232.197.34 2 4 19741 20150317074619
+104.197.5.82 1 1 8102 20150305113030
+72.148.107.128 1 3 11639 20150310195049
+130.56.52.88 2 4 197629 20150303061827
+190.25.119.25 10 12 564416 20150310111321
+41.138.212.29 1 3 11639 20150309075936
+132.204.249.235 4 6 32671 20150326111045
+95.149.51.236 1 3 11639 20150303122227
+191.5.176.76 1 3 11639 20150305110410
+151.65.145.128 6 8 195138 20150302111152
+149.142.103.148 2 6 23278 20150325132914
+162.242.246.241 2 2 16204 20150315020350
+90.196.197.92 1 2 10363 20150304034051
+189.40.89.212 1 3 11639 20150310214733
+62.24.222.131 3 3 31523 20150302163103
+124.13.33.102 1 3 11639 20150321070225
+132.3.9.80 1 3 11639 20150310012003
+124.104.99.195 1 3 16297 20150318050719
+103.255.170.2 1 3 25058 20150322011341
+129.93.4.33 3 7 209268 20150302101002
+208.68.20.176 12 16 619041 20150325134959
+104.228.106.165 1 3 71745 20150314193741
+72.67.93.164 2 6 23278 20150317114750
+87.224.85.198 2 4 22300 20150326042300
+14.203.11.231 5 9 466025 20150316000452
+191.243.244.4 1 3 11639 20150302122156
+207.231.32.33 5 9 234788 20150320142917
+203.213.34.114 6 10 374004 20150318181532
+41.86.56.186 1 3 11639 20150312112756
+104.154.74.44 1 1 8102 20150317102605
+54.172.125.176 2 2 155922 20150312221553
+159.225.155.25 5 7 362365 20150323205438
+124.190.28.176 4 6 215145 20150320030415
+104.197.8.159 1 1 8102 20150318112927
+110.44.99.2 1 3 11639 20150312214024
+177.92.33.149 1 3 11639 20150323195037
+68.88.75.53 12 15 590657 20150309010857
+194.150.177.249 1 3 8102 20150303103139
+66.249.83.165 1 1 8102 20150317235321
+111.68.103.103 1 3 8293 20150302014046
+24.94.18.184 8 12 446968 20150309161115
+45.62.35.171 1 1 21521 20150314230401
+84.57.12.12 9 11 210265 20150312185820
+198.177.94.250 1 3 11639 20150314103953
+112.198.77.234 1 3 11639 20150301072230
+1.39.63.154 3 5 30402 20150306090446
+24.226.253.199 3 7 88140 20150317130525
+193.136.77.125 5 9 109002 20150325114740
+162.213.151.2 2 4 24399 20150302124950
+188.166.5.209 1 1 8102 20150316031724
+54.185.30.113 1 3 11639 20150319152841
+152.16.98.95 2 6 23278 20150324153933
+37.126.21.35 1 3 11639 20150327175847
+50.16.150.93 2 2 198038 20150322192458
+195.103.156.195 1 3 11639 20150305060340
+176.14.47.18 1 3 11639 20150322223433
+128.172.245.6 1 3 11639 20150302171729
+129.70.120.185 3 5 43821 20150317112543
+84.88.226.250 1 3 11639 20150327070438
+68.63.122.76 2 4 155513 20150301223358
+166.216.165.35 1 3 14198 20150326092751
+61.135.190.100 1 1 8102 20150319124934
+93.70.185.163 1 3 11639 20150315114436
+150.214.67.251 3 5 220375 20150324115835
+54.175.116.239 1 1 185990 20150318213344
+2.139.211.189 3 5 27843 20150312073427
+204.239.148.2 9 11 391499 20150325183847
+99.249.175.90 2 4 19741 20150326200501
+190.189.138.163 11 13 470296 20150322184926
+76.106.4.127 4 6 218491 20150301123418
+199.30.25.237 0 1 2261 
+209.21.112.19 5 7 242571 20150318121148
+152.23.64.244 3 5 210389 20150305145709
+103.17.76.7 2 6 83384 20150318015417
+207.195.39.190 1 3 11639 20150318162328
+134.124.93.197 8 12 550437 20150309110731
+54.166.10.185 2 6 261272 20150309201238
+89.206.118.52 5 7 223247 20150302083605
+112.215.66.74 0 1 2261 
+188.77.229.180 4 6 174276 20150301070812
+91.240.227.153 7 7 367446 20150302062238
+170.223.207.15 1 3 11639 20150325134421
+66.102.6.216 5 7 59006 20150324232851
+61.135.190.219 4 4 32408 20150322192112
+152.131.10.130 5 13 363803 20150324184619
+49.146.251.207 2 4 19741 20150303080952
+183.60.70.30 1 1 171192 20150309032840
+69.85.215.140 3 5 27843 20150303141639
+202.46.61.123 1 1 143874 20150305225118
+194.83.163.223 2 4 19741 20150313090806
+152.23.142.81 9 13 275242 20150327180434
+88.231.90.94 1 3 11639 20150304114401
+157.56.1.81 1 3 71745 20150321003106
+150.70.173.46 2 2 16204 20150316211056
+82.145.210.46 1 3 11639 20150302153906
+125.99.181.143 3 5 27843 20150319083636
+128.250.4.115 2 2 151976 20150319001335
+14.192.213.142 1 3 11639 20150327153441
+204.44.126.219 1 1 21521 20150320232054
+104.197.10.63 1 1 8102 20150306112835
+157.56.1.29 1 3 71745 20150325004252
+201.174.18.134 13 15 87905 20150317150410
+126.5.215.134 1 3 14198 20150309083719
+2.231.53.108 2 4 155513 20150305154237
+150.43.37.14 8 12 442397 20150312032408
+180.214.232.91 1 3 11639 20150314131057
+189.217.205.85 1 3 11639 20150310171956
+138.80.0.10 6 10 240791 20150321060102
+128.250.0.90 1 3 11639 20150303201139
+205.169.14.150 1 3 11639 20150318144128
+203.57.172.18 12 16 654495 20150323044606
+94.52.74.43 2 4 79847 20150304081525
+143.110.133.172 4 6 218491 20150303123155
+38.106.151.34 1 3 11639 20150303154406
+210.125.229.2 2 4 155513 20150325033241
+132.3.25.79 5 9 524334 20150309122752
+17.152.227.21 1 1 8102 20150323063457
+144.126.16.144 5 7 244670 20150316180246
+67.193.214.63 5 7 218589 20150312161331
+129.110.170.227 3 7 38597 20150327141232
+94.30.88.113 1 1 4756 20150326151628
+160.96.214.141 5 9 581248 20150316032511
+189.124.37.136 1 3 11639 20150323202703
+177.206.154.54 1 3 11639 20150309114222
+179.9.174.18 1 3 11639 20150322103823
+172.245.66.44 1 1 21521 20150317151240
+61.135.190.224 1 1 8102 20150318160931
+151.26.78.144 1 3 11639 20150326112124
+79.206.151.87 1 3 11639 20150314152800
+54.173.15.208 1 1 21521 20150323141220
+66.249.82.208 2 2 194092 20150324221406
+79.2.35.238 1 3 11639 20150305035611
+186.58.85.196 1 3 11639 20150319150557
+104.154.90.187 1 1 8102 20150325112812
+66.249.93.229 1 1 8102 20150318104044
+128.248.41.66 4 6 394280 20150305133637
+96.227.124.38 1 1 8102 20150327210420
+147.8.65.30 10 12 84557 20150317072641
+123.126.113.104 1 3 11639 20150316214046
+194.81.106.242 1 3 11639 20150313081623
+79.8.218.223 1 3 11639 20150322132309
+109.193.248.71 4 6 346259 20150318104329
+148.251.124.42 1 1 143874 20150304092755
+39.34.146.115 1 3 11639 20150308061616
+93.191.248.128 1 3 11639 20150319103139
+14.106.167.104 2 4 13049 20150301111248
+104.154.91.104 1 1 8102 20150314113327
+70.187.191.38 2 4 375517 20150317121451
+192.188.53.215 7 11 289543 20150307154821
+89.153.193.253 1 3 11639 20150308085606
+110.149.139.80 3 5 32501 20150316214749
+141.30.146.72 4 6 207141 20150304073534
+61.143.62.3 1 2 10363 20150301230429
+189.46.89.73 2 4 19741 20150319100844
+144.76.201.69 4 4 285046 20150325121143
+203.255.30.194 1 3 11639 20150327083643
+167.154.149.115 1 3 11639 20150310143217
+71.249.131.138 2 4 22300 20150327121310
+54.175.229.207 3 3 83625 20150325222945
+68.7.107.11 1 3 11639 20150302225829
+192.73.11.11 3 7 387156 20150326162808
+66.249.84.204 2 4 29057 20150324231026
+177.200.1.246 1 3 11639 20150321095637
+128.186.62.133 4 8 277476 20150325105557
+150.131.70.72 4 10 220907 20150305202256
+112.198.79.96 1 3 11639 20150308042307
+54.158.235.4 1 3 11639 20150309201236
+80.213.189.137 1 3 11639 20150308055456
+54.161.247.124 1 3 11639 20150326181113
+113.23.139.49 3 3 24306 20150318225407
+68.59.22.80 4 8 224587 20150327113532
+50.166.151.216 2 4 197629 20150305220920
+99.241.166.231 6 10 421535 20150305131507
+171.66.219.134 3 5 202385 20150310180215
+77.147.42.167 5 9 44238 20150323113426
+98.198.45.48 2 4 24399 20150313233437
+132.229.244.58 4 6 32671 20150303045312
+115.66.92.193 2 2 16204 20150304115742
+180.178.173.80 1 3 11639 20150308064509
+50.144.0.138 1 1 8102 20150316211046
+137.166.85.90 6 8 253145 20150322185129
+64.202.161.41 4 4 32408 20150310174250
+71.104.200.108 2 4 197629 20150311231742
+144.76.64.115 2 2 16204 20150318053923
+93.49.3.188 1 3 11639 20150317053819
+100.34.58.230 3 5 202385 20150302134928
+61.78.108.78 3 7 31380 20150310202303
+108.39.106.235 1 3 11639 20150327202202
+130.195.253.68 5 7 44047 20150324201818
+104.197.12.22 1 1 8102 20150311102335
+138.162.140.55 1 1 12048 20150325165801
+82.208.202.37 2 4 19741 20150305083422
+216.232.131.246 1 3 11639 20150309040034
+129.72.181.224 1 3 11639 20150301195926
+142.158.254.202 0 2 0 
+66.102.7.235 1 1 8102 20150315074645
+80.101.94.236 4 6 35945 20150303150108
+125.86.100.82 2 2 194092 20150320101502
+149.172.254.7 6 8 553770 20150309074222
+36.81.152.242 1 3 11639 20150324082542
+99.8.73.13 4 4 32408 20150302202951
+171.64.44.46 2 4 19741 20150310144305
+129.94.28.14 10 14 566641 20150309030707
+138.245.1.1 4 6 92705 20150316083008
+128.187.117.143 6 8 289356 20150323152052
+179.8.197.188 1 3 11639 20150322170322
+143.89.188.5 1 3 11639 20150310214140
+207.239.38.18 8 14 257973 20150327165520
+50.241.136.241 1 1 143874 20150302124729
+71.105.37.55 2 4 197629 20150314145239
+165.214.12.76 5 7 44047 20150319171943
+119.94.246.204 3 5 210389 20150304050859
+185.27.10.7 7 9 617733 20150310043703
+125.26.250.45 3 5 45920 20150318235232
+94.52.74.135 1 1 143874 20150305090646
+74.192.8.56 3 5 210389 20150304201541
+124.187.5.3 1 3 11639 20150313041327
+216.113.160.77 1 1 8102 20150319140410
+193.61.118.252 9 13 691052 20150310032420
+54.163.103.240 1 1 8102 20150325193254
+198.23.71.86 1 3 11639 20150319141918
+91.177.252.150 1 3 11639 20150324155920
+81.246.120.34 1 3 11639 20150319085605
+98.164.6.90 4 10 43019 20150323213752
+108.223.192.15 1 3 11639 20150306152808
+193.220.114.206 0 1 1276 
+206.211.150.253 4 6 354263 20150316153803
+78.38.150.27 1 3 11639 20150302033344
+189.29.20.142 1 3 11639 20150311100824
+24.6.196.141 11 15 539931 20150323025328
+54.205.243.225 1 3 11639 20150316000410
+122.149.120.76 4 6 366783 20150323062239
+49.148.36.145 4 6 216392 20150302051834
+122.173.169.158 2 4 197629 20150327140647
+167.206.228.210 5 7 40701 20150311101457
+81.193.5.119 6 6 358926 20150312184212
+189.36.161.92 1 3 11639 20150312212511
+220.181.132.198 1 3 11639 20150311060548
+130.115.72.160 5 9 405919 20150320060003
+37.59.123.142 1 1 8102 20150323180729
+123.239.54.211 1 3 11639 20150307104523
+80.193.128.200 11 15 659103 20150303114610
+193.136.53.223 4 6 524147 20150311124749
+54.234.248.154 2 6 205112 20150322192851
+69.219.225.11 2 4 79847 20150314152238
+172.56.15.72 2 4 197629 20150304224031
+123.125.71.113 1 1 8102 20150315215303
+5.2.1.92 2 4 19741 20150317053146
+82.69.227.62 1 3 11639 20150312134946
+189.68.176.201 1 3 11639 20150312201451
+192.167.156.43 1 3 71745 20150324070943
+209.147.118.171 1 2 12922 20150311115331
+210.0.178.23 8 10 252211 20150317225444
+182.118.20.147 1 1 8102 20150312092652
+107.3.25.235 1 3 25058 20150306165454
+104.154.77.241 1 1 8102 20150319102344
+142.167.134.33 17 23 878883 20150318221646
+91.146.53.61 1 1 8102 20150321043034
+66.249.93.166 1 1 185990 20150323113447
+2.185.240.101 4 8 217370 20150308134401
+50.197.84.25 3 5 27843 20150304170944
+129.120.240.144 3 7 33939 20150325203938
+85.113.55.152 2 2 16204 20150322183743
+198.30.60.35 1 3 11639 20150317134142
+41.206.50.242 1 3 25058 20150324113013
+2.39.173.192 1 3 25058 20150327190709
+23.233.232.3 0 2 3537 
+123.126.68.36 1 1 8102 20150323042819
+104.130.192.107 1 1 8102 20150304080616
+104.50.114.76 1 3 11639 20150303192536
+220.245.167.217 4 8 337582 20150327001439
+202.28.119.43 2 4 19741 20150303214945
+76.103.44.188 6 12 246427 20150313042527
+150.165.134.191 1 3 11639 20150327170228
+27.55.231.220 1 3 11639 20150325192834
+198.76.89.10 1 3 11639 20150316160323
+64.250.97.18 1 3 11639 20150305132251
+178.162.193.31 1 1 143874 20150301134646
+129.171.249.147 3 5 29155 20150321191742
+61.238.7.246 5 7 44047 20150314122936
+54.174.30.175 3 3 77720 20150312225341
+161.130.25.60 5 13 119422 20150302225943
+81.145.165.209 2 5 82108 20150319114642
+76.119.233.41 5 11 233667 20150313063611
+198.211.113.92 8 8 324046 20150303001151
+114.79.33.23 0 1 2261 
+24.117.133.128 2 4 24399 20150326010028
+67.234.12.201 3 5 163615 20150322160507
+31.184.238.103 14 14 128280 20150311070610
+1.39.35.235 1 3 11639 20150325021008
+152.2.101.46 4 6 31789 20150302144635
+193.147.19.20 2 6 23278 20150306071707
+69.63.236.145 6 10 368559 20150315113917
+136.206.221.175 1 3 11639 20150316104355
+141.217.214.230 10 14 824853 20150327112741
+52.1.226.89 1 1 8102 20150311041037
+220.181.132.194 1 3 11639 20150320130544
+139.133.137.96 1 3 11639 20150326122846
+100.8.218.240 3 5 210389 20150315111048
+65.55.210.97 0 1 2261 
+24.215.140.154 1 3 11639 20150323222630
+50.204.182.62 5 7 402382 20150302215826
+187.112.238.80 1 3 11639 20150321005035
+203.106.214.136 6 8 72785 20150316100840
+217.12.204.117 1 1 8102 20150324051730
+129.81.131.208 1 3 11639 20150317164456
+23.21.37.147 2 5 21017 20150326181119
+199.30.25.75 0 1 2261 
+54.184.240.115 1 1 8102 20150319152827
+130.56.53.104 5 7 90769 20150309074606
+62.117.203.50 1 3 11639 20150327124436
+187.121.138.34 1 3 11639 20150314163227
+193.60.68.139 2 4 160171 20150303150215
+107.130.145.100 6 13 512490 20150317143808
+139.80.180.70 2 4 197629 20150305224542
+79.115.83.148 6 8 373026 20150326033419
+14.96.33.46 2 4 19741 20150305233025
+109.43.2.149 1 3 71745 20150313143521
+90.199.113.224 2 4 19741 20150315054807
+134.173.199.136 2 2 16204 20150326145138
+104.37.187.136 1 1 8102 20150318113323
+36.86.234.67 1 3 11639 20150303011659
+66.212.182.168 3 5 205731 20150323161520
+196.41.100.218 2 4 22300 20150309033900
+202.93.168.54 1 3 11639 20150303231713
+147.188.244.135 1 3 11639 20150314104046
+190.45.68.31 1 3 11639 20150301233209
+199.30.25.93 0 1 1276 
+39.47.173.34 4 4 25788 20150324152151
+5.0.163.127 5 9 517451 20150305151904
+24.170.198.68 5 7 281254 20150302174910
+203.96.43.223 1 3 11639 20150301025539
+115.186.159.177 12 16 104298 20150325023626
+46.4.113.114 1 1 8102 20150318000814
+157.157.71.107 1 3 11639 20150314104104
+152.11.248.127 2 4 168932 20150324130645
+71.86.24.105 6 8 65568 20150310120259
+129.67.13.108 2 4 19741 20150309063601
+165.230.139.45 5 9 70319 20150320110617
+146.86.199.254 2 4 79847 20150306131910
+60.242.142.75 4 8 217370 20150315010344
+74.204.141.53 2 4 197629 20150305212515
+84.90.139.106 1 3 11639 20150312084046
+134.173.218.11 2 2 16204 20150303144118
+149.171.105.230 2 4 24399 20150309174648
+129.101.241.29 5 7 282041 20150305164455
+86.153.32.172 2 4 139953 20150322134016
+82.57.71.13 1 3 11639 20150326042005
+177.40.168.255 1 3 11639 20150326225144
+71.119.107.107 6 6 48612 20150321172217
+192.67.133.200 2 4 24399 20150305154458
+128.195.194.194 11 15 815425 20150309184757
+54.152.129.226 1 1 8102 20150324071136
+180.76.4.252 1 1 8102 20150315192810
+141.236.4.30 4 8 179912 20150316110043
+54.81.191.39 1 1 8102 20150316000102
+24.125.6.24 3 5 561507 20150310192113
+134.7.248.130 15 16 261137 20150310171536
+194.225.57.25 2 4 155513 20150308041945
+194.176.105.145 3 7 209268 20150326100019
+104.197.17.83 1 1 8102 20150316102708
+147.8.65.18 5 9 345684 20150306040556
+95.220.150.128 1 3 16297 20150306051639
+54.173.207.177 2 2 371980 20150312032431
+86.186.160.233 6 14 240648 20150316172346
+174.239.229.108 1 3 11639 20150324172050
+159.118.23.98 4 6 35945 20150301214447
+60.240.29.163 1 3 11639 20150316233903
+182.65.22.230 7 11 404286 20150301225114
+173.247.20.120 1 1 8102 20150301203152
+78.46.72.141 1 1 8102 20150319152839
+203.253.204.174 1 3 11639 20150318001723
+62.210.125.157 2 2 43042 20150323204514
+104.154.58.108 1 1 8102 20150326112926
+73.39.140.71 11 15 538047 20150301175112
+38.124.166.133 1 1 8102 20150312162356
+104.154.83.233 1 1 8102 20150321102437
+99.188.230.142 2 4 197629 20150311090801
+125.63.15.194 2 4 24399 20150302164413
+147.8.65.3 1 1 8102 20150317215320
+125.70.123.116 1 1 8102 20150304070146
+64.69.91.210 1 1 8102 20150314112335
+107.130.244.73 2 4 24399 20150321215313
+89.164.134.70 8 10 435499 20150304031355
+198.2.36.58 1 3 11639 20150304162220
+211.72.12.140 6 7 47854 20150304213145
+78.92.31.96 1 3 11639 20150312150939
+122.61.180.17 3 5 208290 20150323174006
+72.51.192.9 1 3 11639 20150305163224
+108.184.143.226 1 3 11639 20150323201210
+108.250.144.252 1 3 11639 20150314195444
+71.58.165.148 1 3 11639 20150322171840
+158.132.233.220 1 3 11639 20150317004732
+128.118.22.38 3 5 341503 20150318165201
+54.173.15.229 1 1 12760 20150310165211
+125.164.110.157 3 5 168273 20150323050221
+132.209.11.3 4 8 35349 20150318105148
+186.95.233.90 1 3 11639 20150307142615
+104.197.4.207 2 2 16204 20150307112905
+138.162.140.53 2 5 23576 20150325165838
+188.76.180.2 1 3 11639 20150308063339
+101.160.53.169 11 13 717651 20150301182548
+208.80.192.33 1 1 8102 20150312081127
+131.123.61.1 2 4 24399 20150316104102
+31.52.106.35 1 1 8102 20150313102420
+37.59.55.128 8 8 324046 20150309061432
+152.132.10.72 3 9 208290 20150327140842
+177.126.93.240 1 3 11639 20150315125726
+160.80.58.180 2 4 197629 20150302094012
+71.46.246.100 1 3 11639 20150309081219
+80.229.167.30 1 3 11639 20150326161407
+143.239.178.148 2 4 24399 20150303052827
+39.41.209.213 1 3 8293 20150309115926
+193.171.69.65 6 8 235295 20150309041121
+212.198.163.158 3 7 91486 20150324160937
+76.183.88.229 1 1 8102 20150314201414
+158.74.35.8 2 4 189527 20150309163643
+201.234.181.230 12 18 463611 20150319123946
+143.176.114.135 8 10 614520 20150320165633
+14.1.200.188 1 3 25058 20150313214105
+112.64.235.252 1 1 8102 20150324071525
+223.62.202.36 3 7 28034 20150312014628
+223.136.16.206 9 11 79014 20150321120027
+65.79.32.187 4 6 199035 20150326183953
+193.194.74.16 1 2 9378 20150304034656
+130.34.173.69 9 13 434981 20150304235719
+67.251.219.79 4 6 38504 20150308172510
+119.147.146.192 1 1 8102 20150316225353
+109.84.227.81 1 3 11639 20150327074606
+150.70.97.84 1 1 8102 20150313093317
+216.163.188.222 1 1 8102 20150317000404
+64.19.30.14 5 7 187036 20150324064838
+174.31.55.44 1 3 11639 20150304044028
+49.183.58.72 1 3 11639 20150318213409
+152.3.43.194 1 3 11639 20150303193300
+204.187.72.4 16 20 746766 20150313092039
+108.62.82.111 1 1 21521 20150309041454
+208.69.133.20 6 8 189305 20150312135033
+182.185.91.163 7 9 78788 20150312131325
+76.90.213.176 1 1 143874 20150314231341
+204.93.117.117 4 6 276498 20150316225523
+144.131.34.61 1 3 11639 20150312211119
+129.10.18.64 1 3 11639 20150326134124
+112.215.66.68 1 1 8102 20150325063356
+54.81.40.150 1 3 8293 20150316000923
+173.73.206.153 1 3 11639 20150326173741
+213.172.110.58 8 12 459675 20150326111339
+161.76.22.41 6 16 79716 20150321055822
+117.211.83.19 3 5 30402 20150317064344
+91.121.83.118 8 8 64816 20150327041639
+2.100.16.24 1 3 11639 20150319143204
+111.68.60.147 1 3 11639 20150308055519
+207.219.118.34 3 7 44799 20150323161946
+170.222.100.210 1 3 11639 20150327131506
+188.226.165.36 1 1 8102 20150310133140
+92.90.16.90 1 3 11639 20150310052127
+148.251.69.136 6 6 554804 20150325121143
+1.123.159.173 1 3 11639 20150325004653
+41.222.245.13 2 4 19741 20150316165341
+159.118.185.132 1 3 11639 20150315212251
+139.137.128.45 1 3 11639 20150306114452
+84.101.32.124 9 9 401012 20150319133602
+158.132.233.61 6 8 52149 20150324042338
+24.139.56.237 1 3 11639 20150312214033
+104.154.73.0 1 1 8102 20150301101744
+89.210.163.255 3 5 27843 20150324063337
+216.165.126.117 1 3 11639 20150310162535
+138.57.212.10 3 3 206852 20150326093019
+59.146.9.195 1 3 11639 20150313024956
+160.198.12.239 1 3 11639 20150309082542
+203.106.214.25 1 3 11639 20150321211607
+88.198.56.239 2 2 16204 20150321211859
+168.131.65.62 1 3 11639 20150320092013
+54.173.122.175 1 1 185990 20150318205549
+160.96.200.34 3 5 87949 20150323074145
+177.141.79.128 2 4 16395 20150325171838
+119.160.117.225 1 3 11639 20150321093741
+86.135.83.32 5 7 233810 20150306084845
+204.13.200.200 6 19 72095 20150316205451
+82.46.210.105 2 4 22300 20150323074348
+188.82.198.133 1 3 11639 20150312153114
+50.242.90.68 1 3 11639 20150315213527
+70.208.147.122 1 1 8102 20150325203930
+49.182.39.175 6 8 184647 20150319003338
+98.119.221.153 4 6 221050 20150314170804
+199.71.174.200 11 23 1606353 20150325092716
+23.24.143.78 1 3 11639 20150316182917
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20150301 134 221 5569609 60
+20150302 209 371 8903283 91
+20150303 234 381 10271940 82
+20150304 222 378 9767905 86
+20150305 169 309 8831852 78
+20150306 136 250 4950356 71
+20150307 72 138 2219014 42
+20150308 189 290 7001696 64
+20150309 312 517 13001128 117
+20150310 286 458 12430669 110
+20150311 143 255 6115342 71
+20150312 302 488 11581253 102
+20150313 203 344 6298930 82
+20150314 94 166 2881967 56
+20150315 141 256 5494847 71
+20150316 199 351 9064926 85
+20150317 250 406 8192843 99
+20150318 191 325 7419388 87
+20150319 258 393 9809537 84
+20150320 154 259 6492202 66
+20150321 141 206 5339457 58
+20150322 194 314 8352452 74
+20150323 308 488 12498184 109
+20150324 213 388 9106357 102
+20150325 249 435 9732912 111
+20150326 247 403 8088008 105
+20150327 241 430 8666094 98
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 20
+5mn-15mn 176
+15mn-30mn 78
+30s-2mn 247
+2mn-5mn 163
+0s-30s 1519
+30mn-1h 57
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/ 2498 20173980 1772 1196
+/cd-risc/userguide.shtml 640 118811630 51 183
+/index.shtml 469 3613492 97 211
+/cd-risc/requestform.shtml 428 5448520 64 173
+/cd-risc/faq.shtml 343 3624740 57 148
+/cd-risc/translations.shtml 291 1383996 30 51
+/cd-risc/bibliography.shtml 285 19439280 66 108
+/cd-risc/request-form.pdf 244 34961382 44 113
+/cd-risc/termsofservice.shtml 162 3486402 63 60
+/cd-risc/requestform.php 67 11390 5 0
+/BingSiteAuth.xml 4 340 4 4
+/cd-risc/privacypolicy.shtml 56 674688 5 11
+// 1 8102 1 1
+/cd-risc/ 1 0 1 0
+http://connordavidson-resiliencescale.com 1 8102 1 1
+END_SIDER

@@ -1,0 +1,55 @@
+<!--#include virtual="/cd-risc/header.shtml"-->
+
+<!--#include virtual="/cd-risc/navigation.shtml"-->
+
+<!-- ======== Main Content ======== -->
+<div id="content">
+
+<h1>User Guide</h1>
+
+
+<br>
+The full user's guide provides comprehensive information on scale administration, 
+psychometric validity, reliability and factor analysis studies, as well as details 
+on translations. Selected parts of the manual appear below. The full document 
+is provided with the scale after the agreement and project outline forms have 
+been returned.
+<br><br>
+Mean scores for the CD-RISC scales in different populations are given in tables 1-10.   
+<br><br>
+
+
+<!--#include virtual="/cd-risc/tables/table1-html.shtml"-->
+<br /><br />
+<!--#include virtual="/cd-risc/tables/table2-html.shtml"-->
+<br /><br />
+<!--#include virtual="/cd-risc/tables/table3-html.shtml"-->
+<br /><br />
+<!--#include virtual="/cd-risc/tables/table4-html.shtml"-->
+<br /><br />
+<!--#include virtual="/cd-risc/tables/table5-html.shtml"-->
+<br /><br />
+<!--#include virtual="/cd-risc/tables/table6-html.shtml"-->
+<br /><br />
+<!--#include virtual="/cd-risc/tables/table7-html.shtml"-->
+<br /><br />
+<!--#include virtual="/cd-risc/tables/table8a-html.shtml"-->
+<br /><br />
+<!--#include virtual="/cd-risc/tables/table8b-html.shtml"-->
+<br /><br />
+<!--#include virtual="/cd-risc/tables/table9-html.shtml"-->
+<br /><br />
+<!--#include virtual="/cd-risc/tables/table10-html.shtml"-->
+<br /><br />
+<!--"end content"-->
+</div>
+
+
+<!--#include virtual="/cd-risc/footer.shtml"-->
+
+<!--"end Wrapper"-->
+</div>
+
+
+</body>
+</html>

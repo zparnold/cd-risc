@@ -1,0 +1,17 @@
+	<% 
+	Dim strFileName 
+	Dim dtmLastModified 
+	Dim dtmLastModifiedDate 
+	Dim dtmLastModifiedTime 
+	strFileName = Request.ServerVariables("SCRIPT_NAME") 
+	strFileName = Replace(strFileName, "/", "\") 
+	strFileName = Server.MapPath(strFileName) 
+	Set objFileSystemObject = Server.CreateObject("Scripting.FileSystemObject") 
+	Set objFile = objFileSystemObject.GetFile(strFileName) 
+	dtmLastModified = objFile.DateLastModified 
+	Set objFile = Nothing 
+	Set objFileSystemObject = Nothing 
+	dtmLastModifiedDate = FormatDateTime(dtmLastModified, 1) 
+	dtmLastModifiedTime = FormatDateTime(dtmLastModified, 3) 
+	Response.Write(dtmLastModifiedDate) 
+	%>

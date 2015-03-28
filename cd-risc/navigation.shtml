@@ -1,0 +1,48 @@
+<!-- ======== Navigation ======== -->
+
+<div id="navigation">
+
+<script type="text/javascript">
+
+<!--
+sfHover = function() {
+	var sfEls = document.getElementById("navbar").getElementsByTagName("li");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" hover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" hover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover); 
+//-->
+
+</script>
+
+
+<ul id="navbar">
+	<li><a href="http://www.cd-risc.com/index.shtml">Intro</a></li>
+	<li><a href="/cd-risc/userguide.shtml">User Guide</a></li>
+	<li><a href="/cd-risc/translations.shtml">Translations</a></li>
+	<li><a href="/cd-risc/bibliography.shtml">Bibliography</a></li>
+	<li><a href="#">Obtain CD-RISC</a>
+	  <ul>
+		  <li><a href="/cd-risc/requestform.shtml">Submit Online Request Form</a></li>
+		  <li><a href="/cd-risc/request-form.pdf" target="_blank">Download Request Form</a></li>
+		</ul>
+	</li>
+	<li><a href="#">Legal</a>
+	  <ul>
+		  <li><a href="/cd-risc/privacypolicy.shtml">Privacy Policy</a></li>
+		  <li><a href="/cd-risc/termsofservice.shtml">Terms of Service</a></li>
+		</ul>
+	</li>
+	<li><a href="/cd-risc/faq.shtml">FAQ</a></li>
+</ul> 
+
+
+<br id="end navigation" />
+</div>
+

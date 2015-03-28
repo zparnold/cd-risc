@@ -1,0 +1,283 @@
+<!--#include virtual="/cd-risc/header.shtml"-->
+
+<!--#include virtual="/cd-risc/navigation.shtml"-->
+
+<!-- ======== Main Content ======== -->
+
+
+<div id="content">
+
+<h1>Submit Online Request Form</h1>
+
+
+<form name="frm" action="/cd-risc/requestform.php" method="post" onsubmit="return validate(frm)">
+
+<table  border="0" cellspacing="0" cellpadding="0">  
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+In order to obtain the scale, please complete and submit the project information 
+form.  
+On the basis of this information we will send an agreement which describes 
+terms of use and payment details. Once this has been completed, the scale and user's manual 
+will be promptly forwarded. 
+		</td>
+  </tr>
+  <tr>
+    <td><hr size="1" noshade></td>
+  </tr>  
+	<tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+     &nbsp;
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><table width="81%" border="0" cellspacing="6" cellpadding="0">
+      <tr>
+        <td class="text"><div align="left">Name of Principal Investigator/Project Director/Clinician</div></td>
+        <td valign="top"><input type="text" name="rf_name"></td>
+        <td class="text" id="sirname"><div align="left">SIR Name</div></td>
+				<td valign="top"><input id="sirname" type="text" name="rf_sirname"></td>
+      </tr>
+      <tr>
+        <td class="text"><div align="left">Department/Organization</div></td>
+        <td valign="top"><input type="text" name="rf_dept"></td>
+        <td class="text" id="companyname"><div align="left">Company</div></td>
+				<td valign="top"><input id="companyname" type="text" name="rf_companyname"></td>
+      </tr>
+      <tr>
+        <td><div align="left"></div></td>
+        <td valign="top" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td valign="top"><div align="left">Street Address</div></td>
+        <td valign="top" colspan="3"><textarea name="rf_address" cols="45" rows="5"></textarea></td>
+      </tr>
+      <tr>
+        <td><div align="left"></div></td>
+        <td colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td valign="top"><div align="left">City, State/Province Zip/Postal Code</div></td>
+        <td valign="top" colspan="3"><textarea name="rf_citystatezip" cols="45" rows="5"></textarea></td>
+      </tr>
+      <tr>
+        <td class="text"><div align="left">Country</div></td>
+        <td valign="top" colspan="3"><input type="text" name="rf_country"></td>
+      </tr>
+      <tr>
+        <td class="text"><div align="left">Telephone</div></td>
+        <td valign="top"><input type="text" name="rf_telephone"></td>
+        <td class="text" id="cellphone"><div align="left">Cell #</div></td>
+				<td valign="top"><input id="cellphone" type="text" name="rf_cellphone" value="none"></td>
+      </tr>
+      <tr>
+        <td class="text"><div align="left">Fax</div></td>
+        <td valign="top" colspan="3"><input type="text" name="rf_fax"></td>
+      </tr>
+      <tr>
+        <td><div align="left">email</div></td>
+        <td valign="top" colspan="3"><input type="text" name="rf_email"></td>
+      </tr>
+			<tr>
+			  <td><div class="formindent1">1.	Organization Type:  Select the category that 
+best describes the type or primary purpose of your organization.</div></td>
+			  <td valign="top" colspan="3"><select name="rf_purpose">
+						<option value="">Please Select an Organization Type:</option>
+						<option value="Medical Group">Medical Group</option>
+						<option value="Hospital">Hospital</option>
+						<option value="Academic Center">Academic Center</option>
+						<option value="Private Foundation">Private Foundation</option>
+						<option value="Insurance Company/Health Plan">Insurance Company/Health Plan</option>
+						<option value="Government Agency">Government Agency</option>
+						<option value="Consulting Firm">Consulting Firm</option>
+						<option value="Pharmaceutical Company">Pharmaceutical Company</option>
+						<option value="Other">Other</option>
+						</select>
+      	</td>
+      <tr>
+        <td valign="top"><div class="formindent2">**If you selected Organization Type "Other", Please Explain:</div></td>
+        <td valign="top" colspan="3"><textarea name="rf_purpose_explain" cols="45" rows="5"></textarea></td>
+      </tr>
+			<tr>
+			  <td valign="top"><div class="formindent1">2.	Please briefly describe the project in which you plan to use the CD-RISC:</div></td>
+				<td valign="top" colspan="3"><textarea name="rf_project_description" cols="45" rows="5"></textarea></td>
+		  </tr>
+			<tr>
+			  <td valign="top"><div>3.	Number of subjects in sample</div></td>
+				<td valign="top" colspan="3"><input type="text" name="rf_sample_size"</td>
+		  </tr>
+			<tr>
+			  <td valign="top"><div class="formindent1">4.	Number of times the CD-RISC will be administered to each subject:</div></td>
+				<td valign="top" colspan="3"><input type="text" name="rf_times_administered"</td>
+		  </tr>
+			<tr>
+			  <td valign="top"><div>5.	Project duration:  </div></td>
+				<td valign="top" olspan="3"><input type="text" name="rf_project_duration"</td>
+		  </tr>
+			<tr>
+			  <td valign="top"><div>6.	Method of assessment (e.g., mail survey, internet): </div></td>
+				<td valign="top" colspan="3"><input type="text" name="rf_assessment_method"</td>
+		  </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><input type="submit" name="Submit" value="Submit">
+            <input type="reset" name="Submit" value="Clear"></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</form>
+	<script language="javascript">
+	function validate(frm) {
+		var msg = "Please complete the following fields:\n";
+		var badFields = "";
+		
+				if (frm.rf_name.value.length == 0) {
+					badFields = badFields + "  - Name of Principle Investigator...Clinition\n";
+				}
+  			if (frm.rf_dept.value.length == 0) {
+					badFields = badFields + "  - Department/Organization \n";
+				}
+ 				if (frm.rf_address.value.length == 0) {
+					badFields = badFields + "  - Street Address \n";
+				}
+				if (frm.rf_citystatezip.value.length == 0) {
+					badFields = badFields + "  - City State Zip \n";
+				}
+				if (frm.rf_country.value.length == 0) {
+					badFields = badFields + "  - Country \n";
+				}
+				if (frm.rf_telephone.value.length == 0) {
+					badFields = badFields + "  - Telephone \n";
+				}
+				if (frm.rf_email.value.length == 0) {
+					badFields = badFields + "  - Email \n";
+				}
+				if (frm.rf_purpose.value.length == 0) {
+					badFields = badFields + "  - Organization Type \n";
+				} else {
+					if (frm.rf_purpose.value == "Other") {
+					   if (frm.rf_purpose_explain.value.length == 0) {
+						    badFields = badFields + "  - Other Organization Explaination \n";
+						 }
+					}
+			  }
+
+				if (frm.rf_project_description.value.length == 0) {
+					badFields = badFields + "  - Project Description \n";
+				}
+				if (frm.rf_sample_size.value.length == 0) {
+					badFields = badFields + "  - Sample Size \n";
+				}
+				if (frm.rf_times_administered.value.length == 0) {
+					badFields = badFields + "  - Times Administered \n";
+				}
+				if (frm.rf_project_duration.value.length == 0) {
+					badFields = badFields + "  - Project Duration \n";
+				}
+				if (frm.rf_assessment_method.value.length == 0) {
+					badFields = badFields + "  - Assessment method \n";
+				}
+
+		if (badFields.length != 0) {
+			alert(msg + badFields);
+			return false;
+		}
+
+		if (frm.rf_email.value.length > 0) {
+			if (emailCheck(frm.rf_email.value)) {
+		     if (frm.rf_sirname.value.length == 0) {
+				    frm.rf_sirname.value = "y";
+		     }
+         return true;
+			}
+			else {
+			   return false;
+			}
+		} else {
+			return true;
+		}
+	}
+
+	function emailCheck(emailStr) {
+		var emailPat=/^(.+)@(.+)$/;
+		var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]";
+		var validChars="\[^\\s" + specialChars + "\]";
+		var quotedUser="(\"[^\"]*\")";
+		var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
+		var atom=validChars + '+';
+		var word="(" + atom + "|" + quotedUser + ")";
+		var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
+		var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$");
+		var matchArray=emailStr.match(emailPat);
+
+		
+		if (matchArray==null) {
+			alert("Email address seems incorrect (check @ and .'s)");
+			return false;
+		}
+
+		var user=matchArray[1];
+		var domain=matchArray[2];
+
+		if (user.match(userPat)==null) {
+    			alert("The username doesn't seem to be valid.");
+			return false;
+		}
+
+		var IPArray=domain.match(ipDomainPat);
+		if (IPArray!=null) {
+	  		for (var i=1;i<=4;i++) {
+			    if (IPArray[i]>255) {
+		        	alert("Destination IP address is invalid!");
+				return false;
+	 	   		}
+    			}
+    			return true;
+		}
+
+		var domainArray=domain.match(domainPat);
+		if (domainArray==null) {
+			alert("The domain name doesn't seem to be valid.");
+    			return false;
+		}
+
+		var atomPat=new RegExp(atom,"g");
+		var domArr=domain.match(atomPat);
+		var len=domArr.length;
+		if (domArr[domArr.length-1].length<2 || domArr[domArr.length-1].length>3) {
+		   alert("The address must end in a three-letter domain, or two letter country.");
+   			return false;
+		}
+
+		if (len<2) {
+   			var errStr="This address is missing a hostname!";
+			alert(errStr);
+   		return false;
+		}
+ 		return true;
+	}
+</script>
+
+<!--"end content"-->
+</div>
+
+
+<!--#include virtual="/cd-risc/footer.shtml"-->
+
+<!--"end Wrapper"-->
+</div>
+
+
+</body>
+</html>

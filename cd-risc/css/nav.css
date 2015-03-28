@@ -1,0 +1,47 @@
+#navbar {
+	margin: 0;
+	padding: 0 0 0 200px; /*indent navigation*/
+	text-align: left;
+  height:  20px; /*overall height of navigation bar*/
+	font-size:			12px; /*size of navigation text*/
+	z-index:200;
+	background-color: #666666; /*needed for either side of nav bar*/
+	}
+#navbar li {
+	list-style: none;
+	float: left; }
+#navbar li a {
+	display: block;
+	padding: 3px 8px;
+	background-color: #666666;
+	color: #fff;
+	text-decoration: none; } 
+#navbar li ul {
+	display: none; 
+	width: 10em; /* Width to help Opera out */
+	background-color: #666666; /* need this for ie7 so the dropdown does not disappear */
+/*	background-color: #69f;*/
+}
+#navbar li:hover {position:relative; z-index:300;}
+#navbar a:hover {position:relative; z-index:300; color:#000; border:0;}
+ 
+#navbar li:hover ul, #navbar li.hover ul {
+  z-index:500;
+	display: block;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+}
+#navbar li:hover li, #navbar li.hover li {
+  z-index:300;
+	float: none; }
+#navbar li:hover li a, #navbar li.hover li a {
+  z-index:300;
+	background-color: #666666;
+	border-bottom: 1px solid #fff; /*border the drop down bottom*/
+	color: #fff; } /*original color of drop down is white*/
+#navbar li li a:hover {
+	background-color: #666666;
+	color: #000; /*change drop down to black on hover*/
+} 
+

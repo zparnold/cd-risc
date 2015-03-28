@@ -1,0 +1,42 @@
+<!--#include virtual="/cd-risc/header.shtml"-->
+
+<!--#include virtual="/cd-risc/navigation.shtml"-->
+
+<!-- ======== Main Content ======== -->
+<div id="content">
+
+<h1>Translations of the CD-RISC</h1>
+
+
+<br>
+Approved translations of the CD-RISC currently exist in the following languages:
+<br><br>
+Afrikaans, Arabic, Bahasa Indonesian, Bahasa Malaysian, Chinese (Taiwan and Peoples Republic), Creole, 
+Dutch, Farsi, Finnish, French (France, Belgium), German, Greek, Hebrew, Hindi, 
+Hungarian/Magyar, Italian, Japanese, Kiswahili, Korean, Lithuanian, Norwegian, 
+Portuguese (Europe, Brazil), Quechua, Russian, Serbian, Spanish (Europe, Caribbean, South America), 
+Swedish, Telugu, Thai, Turkish, Urdu.
+<br><br>
+<i>
+(<b>Please Note:</b> We are aware of some unauthorized translations of the CD-RISC. 
+To minimize further use of these, any person who is considering either the use 
+of a translation or the creation of a new translation is requested to contact 
+either Dr. Connor or Dr. Davidson. We cannot vouch to the accuracy, validity or 
+reliability of these unauthorized translations, some of which have been taken 
+directly from the publication by Davidson and Connor (2003) which does not 
+provide the complete scale).
+</i>
+<br /><br />
+
+<!--"end content"-->
+</div>
+
+
+<!--#include virtual="/cd-risc/footer.shtml"-->
+
+<!--"end Wrapper"-->
+</div>
+
+
+</body>
+</html>

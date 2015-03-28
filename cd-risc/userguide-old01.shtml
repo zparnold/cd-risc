@@ -1,0 +1,40 @@
+<!--#include virtual="/cd-risc/header.shtml"-->
+
+<!--#include virtual="/cd-risc/navigation.shtml"-->
+
+<!-- ======== Main Content ======== -->
+<div id="content">
+
+<h1>User Guide</h1>
+
+
+<br>
+The full user's guide provides comprehensive information on scale administration, 
+psychometric validity, reliability and factor analysis studies, as well as details 
+on translations. Selected parts of the manual appear below. The full document 
+is provided with the scale after the agreement and project outline forms have 
+been returned.
+<br><br>
+General population scores for the three CD-RISC versions are shown in table 1, 
+and the scores in samples with posttraumatic stress disorder (PTSD) are 
+summarized in table 2.  
+<br><br>
+
+<!--<img src="/cd-risc/images/table1.png" alt="COOS Text Image" width ="100%" height="800">-->
+<center><img src="/cd-risc/images/table1b.png" alt="COOS Text Image" width="60%" height="400"></center>
+<br /><br />
+<center><img src="/cd-risc/images/table2b.png" alt="COOS Text Image" width="60%" height="400"></center>
+<br /><br />
+
+<!--"end content"-->
+</div>
+
+
+<!--#include virtual="/cd-risc/footer.shtml"-->
+
+<!--"end Wrapper"-->
+</div>
+
+
+</body>
+</html>

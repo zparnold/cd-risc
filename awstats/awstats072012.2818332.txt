@@ -1,0 +1,1644 @@
+AWSTATS DATA FILE 6.7 (build 1.892)
+# If you remove this file, all statistics for date 201207 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2538                
+POS_VISITOR 31374               
+POS_DAY 52971               
+POS_DOMAIN 3407                
+POS_LOGIN 3640                
+POS_ROBOT 3795                
+POS_WORMS 4462                
+POS_EMAILSENDER 4593                
+POS_EMAILRECEIVER 4736                
+POS_SESSION 53848               
+POS_SIDER 54060               
+POS_FILETYPES 4871                
+POS_OS 5039                
+POS_BROWSER 5234                
+POS_SCREENSIZE 5951                
+POS_UNKNOWNREFERER 6025                
+POS_UNKNOWNREFERERBROWSER 7145                
+POS_ORIGIN 7519                
+POS_SEREFERRALS 7666                
+POS_PAGEREFS 7875                
+POS_SEARCHWORDS 10745               
+POS_KEYWORDS 16187               
+POS_MISC 2200                
+POS_ERRORS 17991               
+POS_CLUSTER 3496                
+POS_SIDER_404 18118               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120801003722 1 0 24712502733686
+FirstTime 20120701051847
+LastTime 20120731233416
+LastUpdate 20120802023622 1 0 0 0 0
+TotalVisits 841                 
+TotalUnique 529                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 553                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 266 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 59 94 1705314 112 112 618091
+1 75 116 2448468 29 29 784328
+2 88 130 2284328 70 72 718842
+3 24 34 541176 55 55 535402
+4 43 70 1017218 49 49 539199
+5 69 130 1724217 46 48 730164
+6 55 94 1397112 46 49 723727
+7 58 102 1842004 45 45 583772
+8 70 120 2884987 41 41 776611
+9 152 241 4042977 130 130 1321606
+10 119 188 2859552 50 52 458795
+11 115 196 2231362 57 57 639187
+12 92 152 2285130 38 40 1196398
+13 103 164 3158356 40 42 580897
+14 98 165 2923828 38 38 801720
+15 145 227 4371240 50 50 622296
+16 105 176 3305162 65 69 950948
+17 77 125 2005742 43 44 516203
+18 67 107 2078227 44 44 665792
+19 62 98 1884560 41 42 524429
+20 78 117 2139801 47 52 620087
+21 47 74 1254153 49 50 795946
+22 82 131 2349916 44 44 620998
+23 80 125 2261095 495 495 1044655
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1963 3176 54995925
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+\wbot[\/\-] 173 4365139 20120731201545 0
+yandex 169 2551932 20120731165941 0
+googlebot 101 3553758 20120731215631 0
+baiduspider 94 1265718 20120731233423 0
+spider 45 618709 20120731204405 0
+infobot 44 1194388 20120728113750 0
+slurp 9 33504 20120724100502 0
+robot 8 251134 20120726232247 0
+powermarks 6 115272 20120728142500 0
+surveybot 6 46626 20120727064044 0
+commons\-httpclient 2 82936 20120715200453 0
+y!j 1 7771 20120713042701 0
+msiecrawler 2 15542 20120725093847 0
+netcraft 1 7771 20120706152408 0
+nutch 1 7771 20120716063731 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 1181 1772707 0 0
+php 39 6735 0 0
+png 32 776343 0 0
+html 541 4196340 0 0
+shtml 1288 34863518 0 0
+pdf 95 13380282 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 14
+winxp 814
+winlong 211
+winnt 1299
+win2000 25
+win98 11
+linuxubuntu 2
+linuxfedora 16
+linux 27
+macosx 546
+winme 2
+win95 6
+linuxcentos 6
+win2003 60
+Unknown 151
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 47
+msie6.0 195
+firefox3.6.24 5
+firefox14.0 3
+firefox5.0 1
+firefox4.0.1 12
+firefox10.0 10
+firefox3.6.11 2
+curl 1
+firefox3.5.3 16
+firefox3.6.26 6
+msie8.0 433
+firefox6.0.2 13
+firefox13.0.1 184
+netscape0.91 2
+msie7.0 238
+firefox9.0.1 29
+msie5.0 4
+wget 2
+msie9.0 468
+Unknown 11
+firefox11.0 18
+netscape 1
+firefox3.6.7 1
+msie5.01 1
+opera 108
+firefox3.5.16 11
+firefox10.0.6 10
+firefox2.0.0.6 1
+msie5.5 31
+firefox7.0.1 1
+firefox12.0 48
+firefox3.6.23 1
+firefox3.0.5 1
+netscape0.6 2
+firefox3.5.5 5
+mozilla 147
+firefox14.0.1 58
+firefox5.0.1 13
+firefox3.6.28 9
+firefox6.0 9
+netscape4.0 1
+firefox3.6.18 3
+firefox1.5.0.11 4
+firefox10.0.2 9
+firefox8.0.1 24
+safari 1015
+firefox10.0.5 9
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 17
+Mozilla/0.91_Beta_(Windows) 20120727162531
+- 20120723224635
+Mozilla/0.6_Beta_(Windows) 20120710090258
+Wget/1.9_cvs-stable_(Red_Hat_modified) 20120705035422
+Mozilla/4.0_(compatible;_Synapse) 20120730020920
+Mozilla/5.0_(compatible;_Add_Catalog/2.1;) 20120730194913
+Mozilla/4.0_(compatible;_Blog_Search;) 20120731064322
+Microsoft_Office_Protocol_Discovery 20120712115323
+Mozilla/4.0 20120718021504
+Mozilla/5.0_(compatible;_Ezooms/1.0;_ezooms.bot@gmail.com) 20120730160227
+YahooCacheSystem 20120730111857
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20120728101152
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20120715102225
+Mozilla/4.0_(compatible;) 20120726015443
+Mozilla/5.0_(BlackBerry;_U;_BlackBerry_9780;_en-US)_AppleWebKit/534.8__(KHTML,_like_Gecko)_Version/6.0.0.448_Mobile_Safari/534.8_ 20120723191135
+Mozilla/5.0_(compatible;_Dataprovider_Site_Explorer;_http://www.dataprovider.com/) 20120717225959
+Mozilla/5.0_(compatible;_news_bot_/2.1) 20120731164233
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+- 20120723224635
+YahooCacheSystem 20120730111857
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20120728101152
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20120715102225
+Microsoft_Office_Protocol_Discovery 20120712115323
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 458 477
+From1 0 0
+From2 434 434
+From3 307 317
+From4 764 1948
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+google 414 414
+baidu 1 1
+search 7 7
+yandex 2 2
+ask 1 1
+yahoo 9 9
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 90
+http://www.bing.com/search 19 19
+http://rieltor-pro.ru 14 14
+http://www.good-zone.ru 12 12
+http://www.design-interiors.com.ua 8 8
+http://housemilan.ru/news.php 8 8
+http://zontcentrum.ru 8 8
+http://www.facebook.com/l.php 7 7
+http://seocountry.net 6 6
+http://www.supertova.com 6 6
+http://download-fruitninja.ru 6 6
+http://joomlasecret.ru 4 4
+http://homepage.maroderi.ru 2 2
+https://viewhue.com 4 4
+http://housemilan.ru 2 2
+http://muzforum.bleachforum.ru 2 2
+http://m.facebook.com/l.php 1 1
+http://ngps1.ru 2 2
+http://translate.googleusercontent.com/translate_c 5 15
+http://vonblogs.net 2 2
+http://prateh.ru 2 2
+http://video.cosmosonline.ru 2 2
+http://www.artparquet.ru 4 4
+http://bgestates.webtalk.ru 2 2
+http://prian.bb24.ru 2 2
+http://goshara.ru 4 4
+http://www.sexlifetube.com 4 4
+http://rokada-spb.ru 2 2
+http://eurasia.msk.ru 2 2
+http://flashhome.bbrpg.ru 2 2
+http://206.188.193.41/index.shtml 1 1
+http://www.rus-dom.net 2 2
+http://axolotls.ru 4 4
+http://206.188.193.41/cd-risc/faq.shtml 1 1
+http://metagames.bbfast.ru 2 2
+http://www.sax-sex.com.ua 4 4
+http://notify.bluecoat.com/notify-Notice-AUP-NEW 1 1
+http://www.simferopol.info 4 4
+http://gameeet.4bb.ru 2 2
+http://gilina.ru 4 4
+http://oilcity-rb.ru 4 4
+http://y-xaxa.com 2 2
+http://boardmusc.clanboard.ru 2 2
+http://ourgames.webtalk.ru 2 2
+http://girlsgogames.maroderi.ru 2 2
+http://i.maxthon.cn 1 1
+http://gazetart.su 2 2
+http://bimatoprost-careprost.com.ua 2 2
+http://shopozona.ru 4 4
+http://music.utrolive.ru/news.php 2 2
+http://muz1.ibord.ru 2 2
+http://zayceva.net 4 4
+http://avena.com.ua 6 6
+http://geeknation.ru 4 4
+http://pansion.tv 2 2
+http://les-ru.com 2 2
+http://www.internetparket.ru 4 4
+http://zel-klimat.ru 4 4
+http://thesportlive.ru 4 4
+http://mazzay.by 4 4
+http://206.188.193.41/cd-risc/bibliography.shtml 1 1
+http://goodreplicawatchesstore.com 1 1
+http://fingerfate.net 2 2
+http://androidmaniy.ru 2 2
+http://dlm.dn.ua 2 2
+http://medtablet.net 4 4
+http://igroflot.3bb.ru 2 2
+http://minimelody.sims2rpg.ru 2 2
+http://www.outcomesdatabase.org/node/550 1 1
+http://translate.google.com.br/translate_p 2 2
+http://ovesti.ru 6 6
+http://muscpesn.topbb.ru 2 2
+http://kituramicenter.ru 6 6
+http://eko-plastic.ru 2 2
+http://www.velomagazin.com.ua 4 4
+http://mmoanons.ru 4 4
+http://sova72.maminforum.com 2 2
+http://films.utrolive.ru 2 2
+http://www.videomastera.ru 4 4
+http://guildoftraders.ru 6 6
+http://realtyestate.rolebb.ru 2 2
+http://kinoevro.com 4 4
+http://bulgaria.bbeasy.ru 2 2
+http://nashe.pogovorim.su 2 2
+http://games.utrolive.ru/news.php 2 2
+http://gmbox.fludilka.su 2 2
+http://game01.owitch.ru 2 2
+http://rielt.goodbb.ru 2 2
+http://ofira.ru 2 2
+http://206.188.193.41/cd-risc/requestform.shtml 1 1
+http://kasomin.myhost21.com/lumaba19-6846.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 129
+connor-davidson+resilience+scale 40
+connor+davidson+resilience+scale 39
+cd-risc 31
+connor-davidson+resilience+scale+cd-risc 7
+resilience+scale 6
+cd+risc 5
+connor+davidson+resilience+scale+scoring 5
+connor-davidson+resilience+scale+questionnaire 4
+connor+davidson+resilience+scale+questionnaire 4
+chrome 3
+the+connor-davidson+resilience+scale+cdrisc+usa%2fenglish 1
+cd-risc+depression 2
+item+connor+%26+davidson+2003 1
+connor%e2%80%90davidson+resilience+scale 1
+resilience+scale+scoring%2fconner+and+davidson%2f+women+with+posttraumatic+stress+disorder+ptsd 1
+connor%e2%80%93davidson+resil-+ience+scale 1
+connor+e+davidson+resilience+scale 2
+resiliency+scale+cd-risc 2
+scoring+the+coomnor+davidson+resilience+scale 1
+instrument+of+resilience+scales+connor-davidson 1
+connor-davidson+resiliency+scale 1
+copyright+of+cd-resilience+scale 1
+effect+of+resilience+on+self+esteem+and+well+being 1
+connor-davidson+resilience+scale+or+the+resilience+scale+for+adults 1
+connor+davidson+resilience+scale+subscales%3f 1
+connor+davidson+resilience+scale+for+children 1
+cd-risc+questionnaire 1
+psychometric+properties+of+brief+perceived+resilience+scale 1
+reliability+of+resilience+scale 1
+stress+resiliency+scale+for+soldiers+pdf 1
+connor+davidson+resilience+scale+25+item 1
+http+//www.connordavidson-resiliencescale.com/ 2
+resilience+scale+user+s+guide 1
+connor-davidson+resilience+scale+connor+%26+davidson+2003 1
+the+connor-davidson+resilience+scale 3
+resiliency+connor+davidson+pdf 1
+business+resilience+scale 1
+the+connor-davidson+resilience+scale+cd-risc+dimensionality+and+age-related+measurement+invariance+with+australian+cricketers+pdf 1
+connor+k.m.+davidson+j.+r.t.+2003+.+development+of+a+new+resilience+scale+the+connor-davidson+resilience+scale+cd-risc+.+depression 1
+10-item+connor-davidson+resilience+scale+10-item+cd-risc 1
+jonathan+davidson+cd-risc+website 1
+resilience+scale+for+adults+scale+risc 1
+cdrs+connor+davidson+reliability 1
+cd-risc+10 3
+connor+scale 2
+cd+risc+questionnaire 1
+connor-davidson+resilience+scales 1
+connor-davidson+resilience+scale+cd-risc+connor+%26+davidson+2003 1
+cd-risc+scale 3
+connor+davidson+resilience+scale+cd+risc 2
+connordavidson-resiliencescale 1
+connor-davidson+resilience+scale+cd-risc. 1
+resilience+to+depression+questionnaire 1
+dissertaion+and+psychometric+properties+of+the+connor-davidson+resilience+scale 1
+quistionare+of+cd-risc 1
+connor+k.+m.+davidson+j.+r.+t.+%26+lee+l-c.+2003+.+spirituality+resilience+and+anger+in+survivors+of+violent+trauma+a+communitysurvey.+journal+of+traumatic+stress+16+487%e2%80%93494. 1
+questionnaire+on+cross+cultural+resillience 1
+connor+and+davidson+reslience+scale 1
+connor+davidson+resilience+scale+10 1
+resilience+measuring+questionnaire+download 1
+conno+davidson+resilience+scale 1
+connor+%26+davidson+resilience+scale 1
+connor-+davidson+resilience+scale+cdrisc 1
+connor+davidson+resilience+scale+. 1
+resilience+scale+survey 1
+connor+davidson+resilience 1
+davidson+mh+recovery+scale 1
+ptsd+epidemiology+in+athletes 1
+connor+davidson+resillience+scale+severity 1
+resilience+scale+scoring%2fconner+and+davidson 1
+resilience+scale+for+adults+scoring 1
+cd+risc+form 1
+resilience+scale+for+adults+risc 1
+connor-davidson+resilience+scale+manual 2
+steinhardt+y+dolbier+evaluation+of+a+resilience 1
+the+resilience+scale+user+s+guide 1
+connor-davidson+resilience+scale+download 1
+cd-risc2+scoring 1
+the+connor+davidson+resilience+scale 1
+jonathan+davidson+connor+davidson+resilience 1
+connor-davidson+resilience+scale+cd-risc+download 1
+bounce+back+resiliency+scoring 2
+resilience+scale+for+work 1
+the+connor-davidson+resilience 1
+purpose+of+the+connor-davidson+resilience+scale 2
+cd+risc+2 2
+resilience+scale+for+adults+download 1
+connor%e2%80%93davidson+resilience+scale 2
+resilience+scale+connor+davidson 1
+connor+davidson+resilience+scale+pdf 2
+cd-risc-10 2
+connor+resilience 1
+connor+davidson+resilience+scale+items 2
+connor-davidson+resilience+scale+purchase 2
+cdrisc+items 1
+scoring+cd+connor+resilience+scale 1
+10+items+cd+risc 1
+davidson+2003+resilience 1
+cd+risc+scale 1
+description+of+the+cd-risc 3
+connor-+davidson+measure+of+resilience+author+s+contact+info 1
+administration+of+the+connor+davidson+resilience+scale 1
+the+connor-davidson+resilience+scale+cd-risc 2
+connor+davidson+resilience+scale+email 1
+resiliece+scale 1
+resilience+questionnaire+in+urdu 1
+connor+davidson+reslience+scale 1
+connor-davidson+resilience+scale+items 1
+steinhardt+dolbier+ppt 1
+development+of+a+new+resilience+scale+the+cornnor-davidson+resilience 2
+the+resilience+scale 1
+cd-risc+2 1
+connor-davidson%e2%80%99resilience+scale+2003 1
+the+connor-davidson+resilience+test 1
+connor+%26+davidson+2003 1
+dissertations+on+resilience+and+childhood+trauma 1
+contacting+the+resilience+scale 1
+gucciardi+d.+f.+jackson+b.+coulter+t.+j.+%26+mallett+c.+j.+2011+.+the+connor-davidson+resilience+scale+cd-risc 1
+connor+davidson+resilience+scale+questions 2
+connor+davidson+resilience+scale+10+item 1
+cdrisc 1
+connor-davidson+resilience 1
+10+item+connor-davidson+resilience+scale+cd-risc 1
+conner+davidson+resilence+scale 1
+validated+scales+resilience+cross+cultural 1
+connor+davidson+scale 1
+conor+davidson+autism 1
+development+of+a+new+resilience+scale+the+connor-davidson+resilience+scale+cd-risc 1
+conner-davidson+resilience+scale 3
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 165
+scale 203
+resilience 202
+davidson 94
+connor 87
+connor-davidson 83
+cd-risc 65
+the 27
+of 21
+risc 15
+cd 14
+conno 1
+form 1
+chrome 3
+%26 7
+communitysurvey. 1
+email 1
+y 1
+davidson%2f 1
+business 1
+steinhardt 2
+16 1
+resilence 1
+e 2
+j. 4
+measurement 1
+dimensionality 1
+properties 2
+resil- 1
+ptsd 2
+and 8
+scoring 11
+jackson 1
+download 4
+ience 1
+cd-resilience 1
+conner-davidson 3
+author 1
+jonathan 2
+being 1
+childhood 1
+cdrs 1
+k. 1
+cd-risc. 1
+anger 1
+//www.connordavidson-resiliencescale.com/ 2
+gucciardi 1
+survivors 1
+t. 2
+usa%2fenglish 1
+resiliency 7
+traumatic 1
+dissertaion 1
+mh 1
+recovery 1
+a 6
+copyright 1
+2 3
+urdu 1
+http 2
+reslience 2
+in 3
+user 2
+connordavidson-resiliencescale 1
+d. 1
+coomnor 1
+pdf 5
+guide 2
+psychometric 2
+s 3
+autism 1
+development 4
+women 1
+depression 4
+severity 1
+mallett 1
+invariance 1
+c. 1
+resiliece 1
+back 2
+well 1
+epidemiology 1
+coulter 1
+reliability 2
+manual 2
+australian 1
+trauma 2
+children 1
+conor 1
+posttraumatic 1
+on 3
+age-related 1
+connor%e2%80%90davidson 1
+description 3
+contacting 1
+perceived 1
+adults 5
+connor- 2
+10 7
+with 2
+bounce 2
+measuring 1
+brief 1
+conner 1
+to 1
+journal 1
+info 1
+connor-davidson%e2%80%99resilience 1
+soldiers 1
+487%e2%80%93494. 1
+effect 1
+ppt 1
+purchase 2
+m. 1
+instrument 1
+work 1
+cornnor-davidson 2
+cd-risc-10 2
+scales 3
+dissertations 1
+lee 1
+test 1
+website 1
+cross 2
+self 1
+item 4
+athletes 1
+cultural 2
+10-item 2
+or 1
+violent 1
+new 4
+b. 1
+evaluation 1
+25 1
+stress 3
+dolbier 2
+for 8
+r. 1
+validated 1
+questions 2
+quistionare 1
+questionnaire 14
+cricketers 1
+esteem 1
+spirituality 1
+administration 1
+purpose 2
+resillience 2
+contact 1
+l-c. 1
+disorder 1
+f. 1
+survey 1
+. 5
+2011 1
+scoring%2fconner 2
+subscales%3f 1
+cdrisc 4
+r.t. 1
+connor%e2%80%93davidson 3
+cd-risc2 1
+measure 1
+k.m. 1
+items 5
+2003 8
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 7 2218
+206 39 2651678
+400 1 226
+404 1040 598000
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 325
+//phpdb/scripts/setup.php 2 -
+//phpMyAdmin-2.5.5-pl1/index.php 2 -
+//sqlweb/scripts/setup.php 1 -
+//%0D/scripts/setup.php 2 -
+//phpMyAdmin-2.11.1/scripts/setup.php 2 -
+//phpMyAdmin3/scripts/setup.php 2 -
+//dbAdmin2/scripts/setup.php 1 -
+//phpMyAdmin-3.0.1.0-english/scripts/setup.php 2 -
+//phpMyAdmin-2.7.0-pl2/scripts/setup.php 2 -
+//cpadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.6.2-pl1/scripts/setup.php 2 -
+//phpMyAdmin-2.6.4-pl2/scripts/setup.php 2 -
+//phpMyAdmin-2.6.0-beta1/scripts/setup.php 2 -
+//bkup/phpmyadmin/scripts/setup.php 2 -
+//phpmanager/scripts/setup.php 2 -
+//phpMyAdmin-2.7.0-pl1/scripts/setup.php 2 -
+//PMA/scripts/setup.php 2 -
+//phpMyAdmin-2.9.1/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.1/scripts/setup.php 2 -
+//81/phpmyadmin/scripts/setup.php 2 -
+//admn/scripts/setup.php 2 -
+//phpmyadmin1/scripts/setup.php 2 -
+//phpadmin/index.php 2 -
+//phpMyAdmin-2.5.5/index.php 1 -
+//xampp/phpmyadmin/index.php 2 -
+//webdb/scripts/setup.php 2 -
+//admm/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0-rc1/scripts/setup.php 2 -
+//phpMyAdmin-2.7.6/scripts/setup.php 2 -
+//_admin/scripts/setup.php 1 -
+//backup/phpmyadmin/scripts/setup.php 2 -
+/cd-risc/index-test.shtml 34 http://www.connordavidson-resiliencescale.com/cd-risc/requestform.php
+//phpMyAdmin-2.4.6/scripts/setup.php 2 -
+//phpMyAdmin-2.8.9/scripts/setup.php 2 -
+//phpMyAdmin/%0D/scripts/setup.php 1 -
+//bbs/data/scripts/setup.php 1 -
+//phpMyAdmin-2.5.2/scripts/setup.php 2 -
+//webadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.11.9.0-english/scripts/setup.php 2 -
+//phpMyAdmin-2.5.1/scripts/setup.php 2 -
+//phpMyAdmin-2.7.9/scripts/setup.php 2 -
+//phpMyAdmin-2.3.7/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0-rc2/scripts/setup.php 2 -
+//databaseadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.4.0/scripts/setup.php 2 -
+//phpMyAdmin-3/scripts/setup.php 2 -
+//admin/pma/scripts/setup.php 1 -
+//pma2/scripts/setup.php 2 -
+//phpMyAdmin-2.6.0/scripts/setup.php 2 -
+//phpMyAdmin-2.11.10/scripts/setup.php 2 -
+//phpmyadmin/index.php 4 -
+//pma2005/scripts/setup.php 2 -
+//cpanelmysql/scripts/setup.php 2 -
+//phpMyAdmin-2.5.6-rc1/scripts/setup.php 1 -
+//backup/phpMyAdmin/scripts/setup.php 1 -
+//phpMyAdmin-2.7.3/scripts/setup.php 2 -
+//pma2009/scripts/setup.php 2 -
+//phpMyAdmin-2.11.8.0-english/scripts/setup.php 2 -
+//administrator/components/com_joommyadmin/phpmyadmin/scripts/setup.php 1 -
+//sl2/data/scripts/setup.php 2 -
+//phpmyadmin/%0D/scripts/setup.php 2 -
+//Admin/scripts/setup.php 2 -
+//admin/mysql/scripts/setup.php 2 -
+//forum/phpmyadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.6.2/scripts/setup.php 1 -
+//admin/phpmyadmin/index.php 2 -
+//mysql/index.php 2 -
+//phpMyAdmin-2.4.5/scripts/setup.php 2 -
+//pma3/scripts/setup.php 2 -
+//phpMyAdmin-2.11.5.0-all-languages/scripts/setup.php 2 -
+/robots.txt 390 -
+//phpMyAdmin-2.8.1-rc1/scripts/setup.php 2 -
+//php-myadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.11.9.3-english/scripts/setup.php 1 -
+//phpMyAdmin-2.7.8/scripts/setup.php 2 -
+//adminmysql/scripts/setup.php 2 -
+//phpMyAdmin-2.11.7.1-english/scripts/setup.php 2 -
+//_pHpMyAdMiN/scripts/setup.php 2 -
+//phpMyAdmin-2.11.6.0-all-languages/scripts/setup.php 1 -
+/CD-RISC/REQUEST-FORM.PDF 2 -
+//phpMyAdmin-3.1.3.0-english/scripts/setup.php 2 -
+//PHPMYADMIN/scripts/setup.php 2 -
+//phpMyAdmin-2.6.0-beta2/scripts/setup.php 2 -
+//phpMyAdmin-2.5.5-rc1/scripts/setup.php 2 -
+//_PHPMYADMIN/scripts/setup.php 2 -
+//phpMyAdmi/scripts/setup.php 2 -
+//php-my-admin/scripts/setup.php 2 -
+//sql/scripts/setup.php 2 -
+//phpMyAdmin-2.11.8/scripts/setup.php 2 -
+//phpMyAdmin-2.5.9/scripts/setup.php 2 -
+//phpMyAdmin-2.7.1/scripts/setup.php 2 -
+//phpMyAdmin-2.8.0-rc1/scripts/setup.php 2 -
+//phpMyAdmin-2.11.8.0-all-languages/scripts/setup.php 1 -
+//phpmyadmin3/scripts/setup.php 2 -
+//pHpMyAdMiN/scripts/setup.php 2 -
+//phpMyAdmin-2.4.3/scripts/setup.php 1 -
+//phpMyAdmin-2.3.5/scripts/setup.php 1 -
+//phpMyAdmin-2.11.7/scripts/setup.php 1 -
+//phpMyAdmin-2.8.5/scripts/setup.php 2 -
+//MySQLAdmin/scripts/setup.php 1 -
+//phpMyAdmin-2.5.6/index.php 2 -
+//phpMyAdmin-2.5.7-pl1/scripts/setup.php 2 -
+//phpMyAdmin-2.2.3/scripts/setup.php 2 -
+//_phpMyAdmin/scripts/setup.php 2 -
+//admin/scripts/setup.php 2 -
+/cd-risc/index.shtml 13 http://www.connordavidson-resiliencescale.com/cd-risc/requestform.php
+//phpMyAdmin-2.11.9.3-all-languages/scripts/setup.php 2 -
+//phpMyAdmin-2.5.5-rc1/index.php 2 -
+//cpanelsql/scripts/setup.php 2 -
+//phpMyAdmin-2.3.4/scripts/setup.php 2 -
+//p/m/a/scripts/setup.php 2 -
+//cpanelphpmyadmin/scripts/setup.php 2 -
+//phpmy/scripts/setup.php 2 -
+//phpMyAdmin-2.11.5.0-english/scripts/setup.php 2 -
+//phpMyAdmin-2.5.3/scripts/setup.php 2 -
+//phpMyAdmin-2.7.5/scripts/setup.php 2 -
+//Admin/phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.5.7-pl1/index.php 2 -
+//phpMyAdmin-2.8.0.4/scripts/setup.php 2 -
+//phpMyAdmin-2.5.5-pl1/scripts/setup.php 1 -
+//phpMyAdmin-2.7.0/scripts/setup.php 2 -
+//phpMyAdmin-4/scripts/setup.php 2 -
+//phpMyAds/scripts/setup.php 1 -
+//phpMyAdmin-2.5.5-rc2/scripts/setup.php 2 -
+//phpMyAdmin-2.6.1-pl1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.8/scripts/setup.php 2 -
+//mysqladminconfig/scripts/setup.php 1 -
+//phpMyAdmin-3.1.1.0-all-languages/scripts/setup.php 2 -
+//phpMyAdmin-2.11.9.2-english/scripts/setup.php 2 -
+//pHpMy/scripts/setup.php 2 -
+//phpMyAdmin-2.11.11-all-languages/scripts/setup.php 2 -
+//php/scripts/setup.php 1 -
+//phpMyAdmin-2.8.3/scripts/setup.php 2 -
+//phpMyAdmin-2.5.4/scripts/setup.php 2 -
+//cpdbadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-pl3/scripts/setup.php 2 -
+//phpMyAdmin-2.5.6-rc2/scripts/setup.php 2 -
+//phpMyAdmin-3.1.0.0-all-languages/scripts/setup.php 1 -
+//phpMyAdmin-2.2.3/index.php 2 -
+//phpMyAdmin-3.1.2.0-english/scripts/setup.php 2 -
+/cd-risc/administrator/index.php 19 -
+//phpMyAdmin-3.0.1.0-all-languages/scripts/setup.php 2 -
+//phpMyAdmin-2.6.6/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4-pl4/scripts/setup.php 2 -
+//websql/index.php 2 -
+//PMA2/scripts/setup.php 1 -
+//wp-phpmyadmin/scripts/setup.php 2 -
+//db/index.php 2 -
+//phpMyAdmin-2.11.5/scripts/setup.php 1 -
+//admin/phpMyAmdin/scripts/setup.php 2 -
+//phpmyad/scripts/setup.php 2 -
+//phpMyAdmin-2.3.2/scripts/setup.php 2 -
+//phpMyAdmin-2.5.6-rc2/index.php 2 -
+//phpMyAdmin-2.4.1/scripts/setup.php 1 -
+//phpMyAdmin-2.8.4/scripts/setup.php 2 -
+//web/phpMyAdmin/index.php 2 -
+//phpMyAdmin-2.8.0-beta1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.4-pl1/scripts/setup.php 1 -
+//myadmin/index.php 2 -
+//padmin/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.2/scripts/setup.php 2 -
+//phpMyAdmin-2/scripts/setup.php 1 -
+//phpMyAdmin-2.4.2/scripts/setup.php 2 -
+//MyAdmin/scripts/setup.php 2 -
+//phpMyAdmin-2.6.1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.2-beta1/scripts/setup.php 1 -
+//phpMyAdmin-2.5.1/index.php 2 -
+//phpMyAdmin-2.2.6/scripts/setup.php 2 -
+//phpMyAdmin-2.6.0-pl1/scripts/setup.php 2 -
+//phpMyAdmin/index.php 4 -
+//cpphpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.11.9.1-all-languages/scripts/setup.php 2 -
+//web/index.php 2 -
+//phpMyAdmin-2.7.0-beta1/scripts/setup.php 2 -
+//phpMyAdmin-2.6.1-rc2/scripts/setup.php 2 -
+//admin/pma/index.php 2 -
+//phpMyAdmin-3.0.0.0-all-languages/scripts/setup.php 1 -
+//index.php 2 -
+//phpMyAdmin/%20/scripts/setup.php 2 -
+//database/scripts/setup.php 2 -
+//pma/index.php 2 -
+//phpMyAdmin-2.6.0-alpha2/scripts/setup.php 2 -
+//phpMyAdmin-2.11.9.4-all-languages/scripts/setup.php 2 -
+//phpMyAdmin-2.11.3-all-languages/scripts/setup.php 2 -
+//pmadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.11.6.0-english/scripts/setup.php 2 -
+//phpMyAdmin-2.8.0/scripts/setup.php 2 -
+//phpMyAdmin-3.1.1.0-english/scripts/setup.php 1 -
+//mysql-admin/scripts/setup.php 1 -
+//phpmyadmin.old/scripts/setup.php 2 -
+//phpMyAdmin-2.6.9/scripts/setup.php 2 -
+//phpMyAdmin-3.1.3.0-all-languages/scripts/setup.php 2 -
+//phpm/scripts/setup.php 1 -
+//web/phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.3.6/scripts/setup.php 2 -
+//phpMyAdmin-2.11.7.1-all-languages/scripts/setup.php 2 -
+//phpMyAdmin-2.4.8/scripts/setup.php 2 -
+//htdocs/scripts/setup.php 2 -
+//phpMyAdmin-2.6.3-rc1/scripts/setup.php 2 -
+//pma/scripts/setup.php 2 -
+//bkup/phpMyAdmin/scripts/setup.php 2 -
+//wp-content/plugins/wp-phpmyadmin/wp-phpmyadmin/phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.6.4-rc1/scripts/setup.php 2 -
+//phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.8.2/scripts/setup.php 2 -
+//phpMyAdmin-2.6.5/scripts/setup.php 2 -
+//pma/%20/scripts/setup.php 2 -
+//phpMyAdmin-2.8.6/scripts/setup.php 1 -
+//phpMyA/scripts/setup.php 2 -
+//phpMyAdmin-2.6.2-rc1/scripts/setup.php 2 -
+//mysqladmin/scripts/setup.php 2 -
+//mysqladmin/index.php 2 -
+//phpMyAdmin-2.11.2/scripts/setup.php 2 -
+//SSLMySQLAdmin/scripts/setup.php 2 -
+//phpMyAdmin-2.11.4.0-english/scripts/setup.php 2 -
+//sql/phpmyadmin/scripts/setup.php 1 -
+//sqladmin/scripts/setup.php 2 -
+//myadmin/scripts/setup.php 1 -
+//phpmyadmin1/index.php 2 -
+/crossdomain.xml 3 -
+//phpMyAdmin-2.6.3-pl1/scripts/setup.php 1 -
+//phpAdmin/scripts/setup.php 2 -
+//dbadmin/scripts/setup.php 2 -
+//~/phpmanager/scripts/setup.php 2 -
+//phpMyAdmin-2.7.4/scripts/setup.php 2 -
+//phpMyAdmin-2.6.0-pl2/scripts/setup.php 2 -
+//phpmyadmin2/index.php 2 -
+//phpMyAdmin-2.11.7.0-english/scripts/setup.php 2 -
+//phpMyAdmin-2.8.0.3/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-rc1/scripts/setup.php 2 -
+//phpMyAdmin-2.5.6-rc1/index.php 2 -
+//typo3/phpmyadmin/index.php 2 -
+//phpMyAdmin-2.11.3/scripts/setup.php 2 -
+//phpMyAdmin-2/index.php 2 -
+//phpMyAdmin-2.6.0-rc2/scripts/setup.php 2 -
+//phpMyAdmin-2.7.2/scripts/setup.php 2 -
+//phpMyAdmin-2.6.0-alpha/scripts/setup.php 1 -
+//phpMyAdmin-2.8.7/scripts/setup.php 2 -
+//phpMyAdmin-2.3.9/scripts/setup.php 1 -
+//admin/index.php 2 -
+//mysqlmanager/scripts/setup.php 2 -
+/sitemap.xml 3 -
+//phpMyAdmin-2.11.9.0-all-languages/scripts/setup.php 2 -
+//scripts/setup.php 2 -
+//phpMyAdmin-2.11.8.1-all-languages-utf-8-only/scripts/setup.php 1 -
+//PMA3/scripts/setup.php 2 -
+//phpMyAdmin-2.8.1/scripts/setup.php 2 -
+//pMA/scripts/setup.php 2 -
+//phpMyAdmin-2.11.4/scripts/setup.php 2 -
+//phpmya/scripts/setup.php 2 -
+//phpMyAdmin-3.0.0-rc1-english/scripts/setup.php 2 -
+//phpMyAdmin-2.3.0/scripts/setup.php 1 -
+//phpadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.4.7/scripts/setup.php 2 -
+//phpMyAdmin-2.11.1-all-languages/scripts/setup.php 2 -
+//phpMyAdmin-2.10.0/scripts/setup.php 2 -
+//apache-default/phpmyadmin/scripts/setup.php 1 -
+//httpdocs/scripts/setup.php 1 -
+//phpMyAdmin-2.3.1/scripts/setup.php 2 -
+//cpadmindb/scripts/setup.php 2 -
+//phpMyAdmin-2.6.7/scripts/setup.php 2 -
+//PMA2005/scripts/setup.php 1 -
+//phpMyAdmin-2.3.3/scripts/setup.php 2 -
+//phpMyAdmin-2.3.8/scripts/setup.php 2 -
+//phpMyAdmin1/scripts/setup.php 2 -
+//phpMyAdmin-2.7.7/scripts/setup.php 2 -
+//wp-phpmyadmin/phpmyadmin/scripts/setup.php 2 -
+//admin/sql/scripts/setup.php 2 -
+//phpMyAdmin-2.11.7.0-all-languages/scripts/setup.php 2 -
+//phpMyAdmin-2.5.7/index.php 2 -
+//phpMyAdmin2/scripts/setup.php 2 -
+//sql/phpMyAdmin/scripts/setup.php 1 -
+//web/scripts/setup.php 2 -
+//phpMyAdmin-2.11.9.2-all-languages/scripts/setup.php 1 -
+//phpMyAdmin-2.8.8/scripts/setup.php 2 -
+//roundcube/scripts/setup.php 1 -
+//sqlmanager/scripts/setup.php 2 -
+//phpMyAdmin-2.11.6/scripts/setup.php 2 -
+//SQL/scripts/setup.php 2 -
+//phpMyAdmin-2.5.8/scripts/setup.php 2 -
+//websql/scripts/setup.php 2 -
+//mydatadmin/scripts/setup.php 2 -
+//phpmyadmin2/scripts/setup.php 2 -
+//dbadmin/index.php 2 -
+//phpMyAdmin-3.1.2.0-all-languages/scripts/setup.php 2 -
+//vhcs2/tools/pma/scripts/setup.php 2 -
+//phpMyAdmin-2.5.5/scripts/setup.php 2 -
+//xampp/phpmyadmin/scripts/setup.php 2 -
+//php-my-admin/index.php 4 -
+//phpMyAdmin-2.11.9.5-all-languages/scripts/setup.php 2 -
+//Admin/phpMyAdmin/scripts/setup.php 2 -
+//_phpmyadmin/scripts/setup.php 2 -
+/muieblackcat 4 -
+//phpMyAdmin-2.6.0-rc3/scripts/setup.php 2 -
+//blog/phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.6.1-rc1/scripts/setup.php 2 -
+//phpMyAdmin-2.5.4/index.php 2 -
+//db/scripts/setup.php 1 -
+//3rdparty/phpMyAdmin/scripts/setup.php 2 -
+//php/phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-3.0.0.0-english/scripts/setup.php 2 -
+//phpMyAdmin-2.11.9.1-english/scripts/setup.php 2 -
+/cd-risc/index.php 1 -
+//phpMyAdmin-2.11.9.4-english/scripts/setup.php 1 -
+//phpMyAdmin-2.6.3/scripts/setup.php 1 -
+//phpMyAdmin-2.11.4.0-all-languages/scripts/setup.php 1 -
+//PMA2009/scripts/setup.php 2 -
+//phpMyAdmin-2.5.0/scripts/setup.php 2 -
+//admin/phpmyadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.5.5-rc2/index.php 2 -
+//phpMyAdmin-2.5.6/scripts/setup.php 2 -
+//phpMyAdmin-2.6.1-pl2/scripts/setup.php 1 -
+//phpMyAdmin-2.5.5-rc1config/scripts/setup.php 1 -
+//typo3/phpmyadmin/scripts/setup.php 2 -
+//phpMyAdmin-2.2.6/index.php 2 -
+//phpMyAdmin-2.6.1-pl3/scripts/setup.php 2 -
+//phpmyad-sys/scripts/setup.php 1 -
+//phpMyAdmin/scripts/setup.php 2 -
+//mysql/scripts/setup.php 2 -
+//phpMyAdmin-2.4.9/scripts/setup.php 2 -
+//phpMyAdmin-2.4.4/scripts/setup.php 2 -
+/termsofservice.shtml 2 -
+//phpMyAdmin-2.11.9/scripts/setup.php 2 -
+//phpMyAdmin-2.9.2/scripts/setup.php 2 -
+//phpMyAdmin-3.1.0.0-english/scripts/setup.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 553
+68.146.73.171 91 117 731987 20120729225340
+72.148.107.128 61 93 942716 20120729175102
+178.137.129.128 48 48 1171472 20120730095910
+95.168.172.156 44 44 1797804 20120731212024
+109.120.157.179 36 36 822038 20120730194913
+213.110.133.221 34 34 859870 20120731064322
+82.208.219.144 29 67 1567747 20120719130751
+143.89.190.35 22 24 584809 20120718045111
+93.170.1.53 22 22 509810 20120731090915
+130.184.210.219 20 32 545043 20120716161011
+2.136.215.203 1 3 71569 20120717143919
+142.150.100.87 1 3 11308 20120730153326
+69.64.58.188 1 1 7771 20120703194521
+101.167.1.215 2 4 52636 20120718090632
+150.70.172.200 1 1 7771 20120710024314
+220.181.141.70 4 4 167187 20120720000907
+176.92.108.59 1 3 11168 20120718054100
+94.175.100.222 1 3 71569 20120724090752
+71.238.66.40 1 3 11168 20120713103100
+77.237.176.230 1 3 11168 20120717013004
+76.230.138.85 1 3 11168 20120711190512
+82.48.93.226 1 3 11168 20120710114332
+97.242.102.10 3 7 124485 20120730112020
+65.52.108.21 1 3 44865 20120708071341
+67.55.106.140 1 1 7771 20120727050951
+146.57.249.81 1 3 44865 20120719172402
+208.80.194.143 5 5 364178 20120724001945
+202.156.10.227 1 3 15362 20120720080118
+198.54.202.210 2 2 68346 20120709160329
+182.118.22.214 1 1 41468 20120706122117
+2.176.28.26 2 4 52636 20120715135354
+70.119.217.108 5 9 110650 20120721191537
+173.194.99.18 1 1 7771 20120723224627
+130.15.122.203 4 6 95874 20120717192405
+193.137.201.81 7 13 224401 20120710094813
+101.109.21.228 2 4 23133 20120719052731
+85.59.64.215 1 4 12444 20120720122249
+201.165.130.13 1 3 11481 20120708150631
+150.70.64.195 3 3 53715 20120731171818
+37.63.134.31 6 8 217726 20120702164416
+116.202.13.40 2 4 23226 20120722222231
+202.46.57.143 1 1 21438 20120727030255
+131.158.186.123 6 8 174836 20120710094211
+90.153.11.196 3 11 70183 20120703052717
+75.252.81.195 2 4 79340 20120707162512
+66.208.57.206 7 23 117531 20120727121851
+83.170.99.222 2 2 82936 20120717155906
+148.238.251.1 1 3 11168 20120702125303
+174.252.116.27 4 8 102879 20120708082153
+145.253.118.83 6 10 144536 20120720043736
+69.123.146.44 4 8 98279 20120725095021
+77.100.39.123 1 3 11168 20120722041523
+174.255.34.176 3 7 90821 20120724150636
+95.236.246.26 2 4 19252 20120706132218
+117.211.84.74 4 6 38768 20120707203358
+157.150.192.237 1 3 11168 20120716122858
+132.3.21.68 1 3 11168 20120718080454
+150.70.172.110 4 4 152199 20120718071825
+1.72.6.34 1 3 44865 20120716200301
+88.3.43.105 5 7 35960 20120723024601
+157.55.17.77 1 3 10568 20120701142621
+71.118.154.43 4 6 35169 20120729171941
+180.153.228.14 0 1 1276 
+82.45.135.163 1 3 11168 20120723105342
+69.42.65.250 1 3 11168 20120727050952
+220.181.51.80 1 1 7771 20120723153734
+50.96.188.130 1 3 11168 20120711115032
+74.125.16.91 1 1 7771 20120729100423
+201.161.169.254 0 2 3397 
+95.16.61.226 1 3 11168 20120711185112
+166.216.128.155 2 6 26530 20120709144723
+94.7.221.157 1 3 11168 20120711073806
+220.255.1.24 1 1 8084 20120708093001
+160.83.42.135 1 3 71569 20120723071317
+46.229.160.208 1 1 143874 20120704124054
+71.137.200.32 1 3 11168 20120720013510
+206.53.152.171 1 3 11168 20120723191133
+192.87.23.66 1 3 10568 20120702065716
+96.251.79.235 1 3 11168 20120707164658
+193.106.136.41 2 2 82936 20120708001417
+82.5.198.49 9 13 250085 20120722185721
+62.24.181.134 4 4 88190 20120708153845
+112.211.214.79 2 4 19392 20120731200048
+192.167.111.105 1 3 11308 20120731043638
+138.77.2.133 1 3 11481 20120725022253
+223.196.107.141 1 3 11168 20120718103138
+72.193.75.178 4 8 111946 20120715125619
+159.117.1.13 7 16 276091 20120719173706
+14.139.62.113 1 3 11168 20120712053414
+161.116.208.110 1 3 11308 20120731093937
+156.145.192.131 9 12 301126 20120724110647
+131.130.161.113 1 3 11168 20120709101548
+112.64.235.245 1 1 7771 20120718021504
+209.74.66.197 4 8 31171 20120711125951
+59.95.4.99 3 3 12406 20120704040520
+205.193.94.40 1 4 13289 20120723093426
+173.163.140.161 9 15 307957 20120724135047
+180.193.195.7 1 3 11168 20120728020325
+121.245.130.8 2 4 19079 20120731064846
+220.181.51.74 1 1 7771 20120706060323
+27.252.143.175 1 3 11168 20120725234226
+82.149.8.122 5 9 56319 20120704114052
+37.152.170.53 2 4 23446 20120726090624
+112.202.130.238 10 14 521055 20120730100258
+31.204.128.51 16 16 636700 20120714064729
+138.119.115.147 4 6 52748 20120720133758
+31.58.202.87 1 3 38168 20120703050314
+220.255.1.45 1 1 12058 20120731211830
+112.210.157.191 2 6 65724 20120704095621
+96.25.148.117 6 11 145462 20120704095435
+79.127.46.185 1 3 44865 20120713143606
+155.205.201.45 4 6 204734 20120731165817
+152.130.7.135 4 10 175497 20120720154843
+2.193.192.157 5 8 178316 20120723052438
+82.128.4.3 3 5 167100 20120720130242
+180.153.228.18 0 3 4673 
+220.255.1.39 1 1 12058 20120731214719
+142.239.254.20 7 11 275869 20120719134357
+152.130.15.14 2 7 80616 20120710083856
+120.149.144.38 1 3 11168 20120707205456
+128.82.44.233 3 7 90508 20120718120723
+112.160.105.192 5 15 133117 20120729162332
+90.202.210.148 2 4 79340 20120724064521
+193.106.136.33 2 2 82936 20120717032339
+94.23.220.161 2 2 151645 20120729134855
+178.137.82.160 3 3 53700 20120717104139
+208.54.80.135 1 1 68172 20120714223429
+134.60.192.14 1 3 11168 20120709094202
+65.192.185.2 1 3 11308 20120731165509
+136.159.159.150 4 8 187961 20120719151046
+12.71.182.66 4 6 99482 20120718175426
+76.21.33.5 6 10 314612 20120705230755
+222.153.223.110 1 1 7771 20120709013956
+124.13.149.198 6 8 152915 20120715104814
+137.53.249.130 3 5 87424 20120719195112
+220.255.1.187 0 1 2261 
+129.186.191.220 2 4 18939 20120725134310
+157.55.17.88 1 3 24835 20120722095453
+76.73.3.18 1 1 7771 20120718135355
+158.227.77.6 1 3 11481 20120706083813
+2.91.232.196 1 1 7771 20120723211223
+60.50.255.42 4 6 132866 20120709222300
+173.74.47.225 1 3 11168 20120702231220
+150.70.75.29 3 3 23939 20120719144607
+199.87.130.130 1 1 7771 20120710123626
+180.153.228.13 0 1 1276 
+103.10.66.1 6 8 145426 20120726145039
+2.185.38.242 7 9 285013 20120705192310
+108.59.48.2 0 1 2261 
+128.220.159.2 3 5 223214 20120724144537
+117.239.75.228 1 3 71569 20120719024616
+220.255.2.173 1 1 4476 20120712073005
+220.255.1.70 2 2 33496 20120731104643
+202.176.202.135 2 4 23133 20120711012102
+203.97.113.95 7 9 107601 20120709044256
+173.48.250.84 1 3 11168 20120705233758
+65.96.147.68 1 3 11168 20120711140739
+74.125.179.92 1 1 143874 20120709091646
+136.159.134.60 2 4 15542 20120704214044
+129.176.151.24 3 11 49518 20120728124714
+14.98.60.163 12 16 408111 20120730163134
+220.255.2.210 1 1 143874 20120708093020
+182.118.22.229 1 1 8084 20120721220916
+157.55.17.92 1 3 7873 20120713134745
+130.0.233.68 6 6 248808 20120731164233
+121.209.233.205 2 4 113037 20120719210124
+1.78.13.248 1 3 11168 20120717110925
+69.58.178.58 9 9 183203 20120718021740
+76.87.94.3 3 5 223354 20120731163327
+141.116.212.23 3 5 83816 20120716120434
+98.209.172.221 5 7 182642 20120709165306
+164.107.154.210 2 4 23226 20120721090116
+132.170.253.255 4 6 235272 20120706143629
+157.55.112.241 1 3 15362 20120711193009
+202.124.110.209 3 7 100495 20120702174015
+65.52.111.75 1 3 44927 20120729070947
+124.168.77.240 1 3 11308 20120730120542
+186.79.228.236 1 3 44865 20120708232909
+210.24.145.235 2 4 155042 20120710220013
+216.7.247.160 1 3 38168 20120702153457
+2.185.36.120 3 5 23398 20120704071509
+80.58.205.46 0 2 3397 
+220.255.2.228 0 2 3397 
+176.251.196.23 10 14 271093 20120718093325
+130.154.0.250 2 4 18939 20120702130832
+89.110.244.227 3 5 181349 20120730180105
+150.216.216.150 1 3 11168 20120724100423
+8.21.4.254 1 1 7771 20120702130827
+49.144.187.225 2 4 215583 20120730091731
+140.226.169.99 5 7 242950 20120713170805
+152.76.1.244 8 12 450367 20120710022406
+159.117.1.11 1 1 143874 20120709214745
+188.158.30.191 1 3 10881 20120701154828
+72.94.249.38 1 1 7771 20120731042617
+180.191.163.117 1 3 15517 20120729012223
+76.1.148.83 2 5 52636 20120719224150
+152.16.51.172 15 19 451585 20120709180047
+98.126.191.170 2 2 15542 20120723000043
+199.19.249.196 6 6 247324 20120725041123
+180.215.186.49 2 4 79480 20120731015345
+60.231.5.1 3 3 83714 20120706230511
+59.177.173.114 1 3 44865 20120723061427
+79.51.242.250 6 8 308233 20120725162252
+65.52.111.216 1 3 45005 20120730044040
+96.252.175.126 2 4 52636 20120716222538
+203.35.115.211 2 6 79391 20120704065057
+188.110.127.118 1 3 11168 20120718061530
+173.194.99.21 1 1 7771 20120711214550
+180.153.240.70 7 7 159995 20120713131429
+99.108.101.12 4 8 98592 20120711181230
+180.247.169.133 1 3 11168 20120720215135
+142.58.123.228 5 9 114624 20120709221047
+130.149.228.5 1 1 68172 20120719235727
+76.165.76.117 1 3 11308 20120730123530
+209.129.161.251 1 3 11168 20120723161616
+82.192.74.235 10 10 186687 20120717203429
+66.220.149.251 1 1 12058 20120728101152
+132.198.8.111 1 1 68172 20120706154629
+213.55.176.183 1 3 11168 20120702154125
+153.103.190.11 4 8 98279 20120713102501
+220.181.51.76 1 1 7771 20120714172248
+58.11.131.31 1 3 11168 20120723034558
+155.58.2.158 3 5 87111 20120724160845
+203.173.156.163 6 11 223533 20120706153706
+202.156.10.14 2 2 287748 20120708085902
+180.149.53.102 4 6 83990 20120714024454
+141.132.103.131 4 6 129032 20120731003734
+203.34.41.42 5 9 110650 20120712225658
+220.255.1.62 1 1 7771 20120722012013
+195.198.247.224 2 5 19079 20120730111334
+97.93.139.255 6 14 181016 20120713131440
+132.212.81.199 11 15 431373 20120706122046
+38.96.141.82 3 5 87111 20120725231627
+155.58.210.15 10 14 333871 20120725160344
+203.51.55.134 2 4 79340 20120728045914
+130.154.3.250 4 7 91587 20120709180831
+207.46.199.15 1 3 44865 20120709235055
+94.23.225.68 3 3 295519 20120723063757
+108.66.160.167 10 16 286023 20120709155819
+83.43.198.146 1 3 11168 20120725034047
+31.191.103.37 4 8 94984 20120721121458
+60.50.251.83 7 8 205457 20120717112123
+65.52.108.22 1 3 11621 20120729181649
+212.116.164.2 1 3 11168 20120722072652
+114.44.218.90 1 1 7771 20120719235514
+124.185.157.75 2 4 79340 20120725062238
+132.183.13.166 1 3 11168 20120705110652
+68.174.28.52 1 2 68172 20120707145934
+174.252.100.63 1 3 71569 20120710071320
+220.255.2.230 0 1 1276 
+77.227.26.234 3 5 23400 20120704055122
+98.139.241.243 1 1 7771 20120730111857
+210.175.193.110 2 4 19252 20120707211212
+61.194.37.177 2 2 15542 20120703010140
+222.153.223.98 1 1 12058 20120709014036
+14.97.172.121 1 3 11168 20120713091912
+202.46.52.138 1 1 41468 20120727030251
+207.38.20.163 2 2 75943 20120705230542
+103.246.38.196 5 5 47336 20120711012101
+152.131.8.133 1 3 11168 20120710111556
+89.129.57.149 7 11 292384 20120709070913
+202.46.52.132 1 1 11965 20120727030249
+101.109.35.135 1 3 7771 20120719233641
+186.159.42.80 4 6 171576 20120711150247
+150.212.62.145 3 7 90788 20120730165017
+152.91.9.9 2 4 113037 20120711004829
+83.231.218.1 1 3 11168 20120706061801
+193.106.136.57 4 4 31710 20120723093047
+38.100.21.18 8 10 178829 20120715154354
+124.120.226.132 2 6 22460 20120729100405
+50.99.61.234 7 9 137680 20120724155333
+220.255.1.47 1 1 7771 20120731080111
+65.52.108.182 1 3 7873 20120715022007
+202.156.10.228 8 14 211335 20120708085836
+180.3.207.182 2 2 12560 20120713234258
+98.250.30.176 1 3 11168 20120728130407
+76.209.128.109 3 5 83816 20120725152711
+220.181.51.75 1 1 7771 20120710144251
+180.214.233.33 1 2 8084 20120725174640
+136.159.160.253 1 1 7771 20120703150011
+89.165.18.186 3 5 83816 20120716032747
+76.98.14.107 8 10 157658 20120718150326
+136.159.181.126 1 3 11481 20120713111452
+222.153.223.102 0 2 3397 
+66.127.213.134 4 8 98279 20120718163646
+69.164.111.198 2 4 155042 20120710190220
+182.118.22.204 1 1 7771 20120720044513
+41.244.146.148 1 3 44865 20120711063707
+50.73.100.9 11 15 426172 20120723185907
+124.6.181.189 2 4 155042 20120721011204
+220.255.2.209 0 1 1276 
+119.235.53.34 6 9 81417 20120708094621
+107.22.139.218 2 6 22336 20120720000030
+113.92.47.239 4 8 174294 20120719205421
+220.181.127.14 4 4 31084 20120707155302
+137.110.242.39 7 9 269712 20120705154716
+128.62.147.186 1 3 38168 20120702164823
+152.42.195.144 3 5 87424 20120724112559
+184.6.134.42 1 3 11308 20120730234818
+71.221.116.216 2 4 155042 20120704020234
+41.177.78.10 4 8 235272 20120728080738
+202.176.202.137 0 2 2121 
+113.203.164.205 2 4 155182 20120731154203
+209.89.16.68 2 4 23226 20120723235343
+151.141.143.52 11 16 384182 20120711081731
+151.95.22.42 2 4 49341 20120712054656
+220.255.1.19 1 1 4476 20120731102222
+121.44.46.45 1 3 11168 20120715072042
+183.14.87.10 1 3 11168 20120722204344
+152.131.10.130 2 6 79340 20120720181251
+208.115.111.70 5 5 59912 20120726153951
+208.80.194.142 3 3 27600 20120724001851
+220.255.1.82 1 1 68172 20120731214537
+203.21.26.66 1 3 11168 20120709193904
+208.90.56.152 1 1 7771 20120719192804
+193.169.86.29 1 1 41468 20120730020920
+143.54.100.88 2 4 16097 20120731220136
+220.135.15.137 1 3 44865 20120705193412
+196.25.255.195 0 1 2121 
+178.194.212.215 4 8 94984 20120726051024
+220.255.1.129 1 1 7771 20120704072303
+59.95.47.14 9 17 205303 20120701054048
+136.159.160.252 1 2 7771 20120706142925
+220.255.1.46 2 2 72648 20120731211914
+69.58.178.59 8 8 175432 20120715102256
+58.163.175.192 1 3 11168 20120704202342
+74.51.149.173 4 8 102706 20120730215606
+196.25.255.210 2 2 24116 20120709155452
+193.106.136.45 14 14 111298 20120731065823
+130.102.158.19 2 6 56033 20120718224201
+74.125.44.94 1 1 7771 20120709091507
+70.36.139.168 7 9 136462 20120723154644
+207.38.20.167 1 1 7771 20120705230757
+220.255.1.241 0 1 2261 
+150.70.172.208 2 2 15542 20120718071659
+78.148.130.65 5 9 136452 20120708153818
+220.255.1.65 1 1 7771 20120731211901
+49.245.174.32 2 4 79480 20120731040956
+212.143.186.36 7 11 315427 20120718053937
+76.176.6.220 3 5 35424 20120731233416
+203.6.69.2 2 4 52636 20120726015552
+195.195.43.248 1 3 11168 20120727051849
+92.249.127.111 2 2 82936 20120720191808
+97.65.87.2 2 4 79402 20120729150650
+50.75.18.30 1 3 11168 20120709142814
+220.255.2.235 0 1 1276 
+219.89.29.246 2 4 18939 20120709181322
+67.165.142.180 2 4 155042 20120713165738
+198.228.196.173 2 4 155042 20120709121511
+130.95.177.42 1 3 11168 20120723001044
+138.5.57.96 1 3 11168 20120713145803
+184.60.33.72 12 18 202360 20120708003101
+213.55.176.68 2 6 21736 20120703073525
+74.162.129.43 1 3 44865 20120719154123
+166.147.123.153 3 5 87424 20120706100451
+174.29.68.6 5 7 35782 20120731004052
+65.183.139.145 3 8 211310 20120706114905
+107.0.124.61 2 6 18939 20120718145000
+144.92.3.97 2 6 56033 20120705134926
+173.51.253.56 1 1 7771 20120719125018
+91.125.169.149 2 4 155182 20120731162100
+131.231.68.150 8 12 178032 20120706072357
+50.13.23.95 6 10 310638 20120716110208
+205.155.71.74 7 11 226062 20120710142341
+94.98.247.20 1 1 7771 20120723224635
+69.28.58.35 1 1 7771 20120705035422
+24.125.148.122 2 4 19252 20120719192108
+74.76.145.3 6 10 174535 20120709103004
+76.107.6.129 20 32 755152 20120727184621
+65.52.111.78 1 3 15455 20120714024832
+202.176.202.136 1 2 9047 20120709044803
+75.243.70.168 1 3 11168 20120718203427
+157.55.112.228 1 3 14762 20120701112324
+103.246.36.212 3 3 57323 20120706020112
+128.143.185.98 8 12 148622 20120705104527
+122.164.249.69 3 7 27092 20120730081302
+71.62.246.240 1 3 15362 20120705125829
+220.255.1.16 1 1 12058 20120731080120
+220.255.1.83 1 1 12058 20120731080259
+106.79.179.96 1 2 7771 20120720233917
+99.26.94.6 2 4 155042 20120712152451
+173.176.116.45 14 20 378336 20120711205434
+193.106.136.62 6 6 114646 20120721112335
+82.128.53.16 2 4 79340 20120709082423
+218.102.106.201 4 6 201871 20120703133205
+74.125.16.80 2 2 75943 20120729100553
+203.167.220.180 1 3 11308 20120731190018
+75.216.35.202 10 13 232609 20120708123352
+95.97.132.126 2 4 52636 20120724093222
+202.195.133.244 7 15 263498 20120718020347
+134.192.135.254 10 15 249968 20120731151915
+74.255.173.98 1 5 14565 20120716102000
+24.132.83.110 5 7 371564 20120708083952
+188.227.189.86 6 8 249892 20120704072806
+193.63.235.247 1 3 11168 20120719083815
+187.90.144.108 0 2 3397 
+207.38.20.159 1 1 12058 20120705230607
+63.197.43.3 1 3 11481 20120724175232
+85.4.236.141 8 24 86944 20120704050507
+203.109.170.141 3 5 196510 20120725013640
+65.52.111.250 1 2 70293 20120724050238
+95.123.222.209 1 3 11168 20120724141602
+220.255.1.213 0 1 2121 
+194.176.105.139 8 14 259766 20120724074422
+180.190.28.28 2 2 24116 20120729012643
+193.106.136.53 4 4 139084 20120703174020
+114.79.29.142 1 3 38168 20120704004213
+189.111.32.26 7 9 349388 20120707230532
+205.152.158.201 3 7 170497 20120710133520
+122.57.228.45 2 2 287748 20120704235429
+223.255.229.15 2 4 18939 20120722102535
+182.118.22.212 1 1 12058 20120721215916
+207.46.204.203 1 3 11168 20120708004054
+8.30.81.10 4 8 98716 20120729133856
+203.8.131.32 2 4 79340 20120722231206
+192.189.236.20 4 8 95335 20120731150455
+220.255.1.49 1 1 21438 20120731104637
+157.55.99.201 1 3 11168 20120704144531
+76.177.196.188 2 4 79340 20120709132127
+136.169.10.10 1 1 7771 20120717123355
+24.121.33.166 1 3 11168 20120702230853
+142.68.161.221 3 7 150909 20120713180734
+180.191.75.206 1 3 15517 20120728184723
+89.110.245.116 0 4 7074 
+74.125.16.90 1 1 7771 20120729095532
+220.255.2.242 0 2 3397 
+180.153.228.17 0 2 2121 
+67.226.141.129 2 4 23226 20120724180748
+74.125.16.93 1 1 4476 20120729100457
+122.110.177.220 2 4 18339 20120702023707
+24.125.47.1 1 3 11168 20120716081606
+123.243.184.10 2 4 19079 20120731060913
+107.9.200.5 6 12 280850 20120725221036
+71.56.37.173 10 12 386681 20120723231228
+108.59.48.1 4 5 97361 20120731115135
+184.22.211.146 1 1 68172 20120722094913
+210.195.119.122 5 9 68203 20120703034321
+74.125.18.160 1 1 11965 20120713101921
+180.153.228.12 0 2 4242 
+208.80.194.144 6 6 371949 20120724010746
+66.83.49.138 4 8 231298 20120712110701
+149.3.87.224 2 2 15855 20120727065720
+208.80.194.140 2 2 19829 20120724010112
+117.193.109.47 1 3 11168 20120726092942
+220.255.2.247 1 1 143874 20120731212404
+112.198.82.178 1 3 44865 20120712222710
+188.158.43.194 1 3 11168 20120717101331
+150.70.172.106 2 2 151645 20120719144416
+85.59.166.197 5 7 269158 20120710142008
+193.0.212.119 16 16 126840 20120730234534
+144.107.180.108 2 4 23366 20120730022323
+220.181.51.79 1 1 7771 20120723153734
+65.52.111.71 1 3 44865 20120728104657
+174.255.33.73 1 3 10881 20120701140848
+182.185.182.140 2 4 15644 20120711042240
+24.62.203.62 4 8 94984 20120708105124
+141.214.17.4 1 3 11308 20120731143403
+2.136.155.241 1 3 71569 20120712140804
+64.231.16.147 1 3 11168 20120710084745
+24.222.80.106 7 11 62168 20120724164545
+188.2.25.158 1 4 12444 20120706090532
+38.100.21.15 9 11 186600 20120717092852
+182.178.247.161 1 3 37568 20120702025256
+208.115.113.155 1 2 9047 20120710045704
+8.28.16.254 11 11 263389 20120729150650
+82.192.74.244 8 8 137448 20120717225959
+92.74.122.202 2 4 52636 20120720022022
+159.71.254.248 1 1 143874 20120709173245
+203.87.152.21 8 11 138904 20120717102013
+132.198.8.76 3 7 77782 20120702200420
+202.32.104.8 1 3 11168 20120704020053
+2.176.222.45 1 3 11168 20120711150136
+222.127.223.75 4 8 158960 20120730091917
+184.19.72.21 1 3 38168 20120703090057
+193.106.136.35 8 8 331744 20120714141937
+76.125.241.161 1 3 11168 20120717210211
+98.172.190.178 7 11 215561 20120706132330
+134.174.189.136 3 7 30420 20120709170455
+208.242.14.200 2 4 79340 20120727124445
+196.25.255.214 1 2 9047 20120709154737
+177.42.240.251 0 2 3397 
+220.255.1.67 1 1 8084 20120731214606
+203.26.122.12 1 3 24835 20120706020057
+208.84.184.239 1 3 11168 20120712131055
+222.153.223.107 2 2 15855 20120709014130
+150.70.97.43 1 1 7771 20120728131048
+220.255.2.156 1 1 41468 20120712072959
+137.110.242.16 18 26 660908 20120712162635
+220.255.2.100 2 2 20142 20120712073203
+220.181.51.83 1 1 7771 20120714172248
+220.255.1.214 0 1 2261 
+24.126.151.200 2 4 23226 20120723231912
+107.9.204.241 11 15 368354 20120726130735
+131.217.35.33 1 3 11308 20120729233254
+24.255.0.48 4 9 104687 20120717231402
+190.135.11.237 1 3 10881 20120701140030
+42.109.91.142 3 5 75943 20120731093624
+24.4.135.47 1 3 11168 20120713201455
+161.7.117.216 1 3 11168 20120726113407
+208.115.113.86 8 8 316540 20120730160227
+193.171.69.65 6 8 303946 20120718082322
+75.145.243.54 7 9 263185 20120716133055
+122.57.240.56 3 5 167007 20120716070310
+174.255.33.81 1 3 71569 20120713194024
+150.70.75.37 5 5 72865 20120728124917
+67.220.101.136 2 2 15542 20120713153053
+202.176.202.133 1 4 11168 20120706021659
+150.70.172.105 4 4 125182 20120725015707
+180.190.28.219 5 7 115514 20120728102415
+117.211.83.245 1 3 11481 20120716051736
+69.170.189.90 1 3 11168 20120709115824
+138.130.229.114 3 7 208998 20120702061209
+203.198.149.77 10 16 155952 20120704052113
+220.255.2.237 0 1 1276 
+141.214.17.200 1 3 10568 20120702105957
+82.9.42.167 1 3 11168 20120704202600
+82.20.35.147 1 3 11168 20120715075714
+186.255.45.164 1 3 11168 20120706174111
+182.71.56.154 1 3 11168 20120727000937
+202.176.202.138 1 3 14610 20120709221639
+167.177.39.6 7 13 134766 20120710134912
+157.55.112.219 1 3 11481 20120709004515
+208.57.247.160 2 4 155042 20120712165415
+198.54.202.214 1 1 7771 20120709155238
+74.125.16.87 1 1 7771 20120729095559
+146.203.130.204 6 10 144536 20120718172925
+124.124.234.170 4 6 102867 20120714023928
+78.105.134.161 5 7 99671 20120716113757
+68.146.32.159 3 3 23313 20120701123315
+112.160.104.246 8 10 316178 20120722091550
+58.161.168.198 1 3 11308 20120731205517
+220.255.1.89 2 2 53526 20120731211948
+147.188.21.131 1 3 11168 20120725054748
+74.125.16.215 1 1 4476 20120729100545
+69.28.58.9 1 1 34771 20120702163806
+203.6.146.5 4 8 102188 20120706020112
+72.94.249.37 1 1 7771 20120701204657
+64.56.90.157 2 4 155042 20120724193715
+220.255.1.75 1 1 8084 20120731080216
+14.96.69.63 1 3 7873 20120710142729
+213.55.176.66 2 6 22336 20120704073739
+121.222.3.26 2 4 23226 20120702231852
+220.255.1.68 1 1 7771 20120731211818
+128.120.105.30 1 3 11168 20120719172609
+62.24.181.135 1 1 41468 20120708153849
+59.95.16.106 8 8 226698 20120703222507
+118.209.213.229 4 6 34794 20120703050913
+165.86.81.20 6 10 175214 20120716200501
+84.88.158.192 7 11 123210 20120719061017
+212.159.16.138 1 3 11481 20120717090500
+84.194.92.200 1 3 11168 20120712102152
+58.163.175.187 1 3 11168 20120712174452
+161.64.29.125 1 3 11168 20120709004839
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20120701 26 48 416122 17
+20120702 68 126 1595782 37
+20120703 72 111 1676197 27
+20120704 69 122 1993067 32
+20120705 68 107 2353999 23
+20120706 72 119 2113923 36
+20120707 32 49 930028 15
+20120708 71 110 2329399 31
+20120709 106 178 3103930 49
+20120710 84 136 3005823 34
+20120711 58 100 1421706 34
+20120712 62 111 1956986 36
+20120713 47 89 1538001 29
+20120714 28 45 978372 13
+20120715 38 58 989923 12
+20120716 88 147 2928849 29
+20120717 74 109 1712937 25
+20120718 128 192 3566971 42
+20120719 63 111 2164490 32
+20120720 41 73 1132975 23
+20120721 34 46 688359 14
+20120722 47 72 1109049 20
+20120723 67 103 1599756 25
+20120724 105 156 3395342 33
+20120725 68 108 2114303 22
+20120726 36 59 816219 12
+20120727 36 48 607982 19
+20120728 49 75 948576 21
+20120729 59 95 1032212 25
+20120730 68 113 2235062 25
+20120731 99 160 2539585 49
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 54
+0s-30s 614
+30s-2mn 87
+2mn-5mn 50
+15mn-30mn 19
+30mn-1h 15
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/ 539 4188569 430 222
+/cd-risc/bibliography.shtml 293 11902335 134 143
+/cd-risc/userguide.shtml 249 15696668 41 78
+/index.shtml 210 1631910 115 144
+/cd-risc/faq.shtml 191 1544044 38 84
+/cd-risc/requestform.shtml 153 1844874 28 53
+/cd-risc/translations.shtml 98 438495 12 24
+/cd-risc/request-form.pdf 95 13380282 16 42
+/cd-risc/termsofservice.shtml 39 836082 8 11
+/cd-risc/privacypolicy.shtml 35 418775 13 18
+/cd-risc/requestform-test.shtml 8 103231 0 0
+/cd-risc/translations-test.shtml 2 8952 0 0
+// 1 7771 1 1
+/cd-risc/userguide-test.shtml 7 313748 1 1
+/cd-risc/bibliography-test.shtml 3 124404 0 2
+/cd-risc/requestform.php 34 5886 4 18
+/cd-risc/requestform-test.php 5 849 0 0
+/cd-risc/css/ 1 0 0 0
+END_SIDER
