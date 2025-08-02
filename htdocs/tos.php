@@ -1,0 +1,478 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>CD-RISC: Obtain CD-RISC</title>
+
+    <!-- favicon -->
+    <link rel="icon" type="image/png" href="images/temp/favicon.png">
+
+    <!-- Bootstrap CSS -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Plugins CSS -->
+    <link href="plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="plugins/owl-carousel/owl.carousel.css" rel="stylesheet">
+    <link href="plugins/owl-carousel/owl.transitions.css" rel="stylesheet">
+    <link href="plugins/owl-carousel/owl.theme.css" rel="stylesheet">
+    <link href="plugins/lightbox/css/lightbox.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="css/style-theme.css" rel="stylesheet">
+    <!-- <link href="css/style-theme.min.css" rel="stylesheet"> -->
+    <link href="css/style-colours.css" rel="stylesheet">
+    <!-- <link href="css/style-colours.min.css" rel="stylesheet"> -->
+    <link href="css/style-mixedcolours.css" rel="stylesheet">
+    <!-- <link href="css/style-mixedcolours.min.css" rel="stylesheet"> -->
+    <!-- loader -->
+    <link href="css/loader.css" rel="stylesheet">
+    <script src="plugins/pace/pace.min.js"></script>
+
+    <!-- Custom Theme CSS -->
+    <link href="css/styles.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-159396644-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-159396644-1');
+    </script>
+</head>
+<body class="background-light twlsky-blue twlsky-mixedcolours isolated-sections loader-bar">
+
+    <!-- Page Outer Container -->
+    <div class="outer-container clearfix">
+
+        <?php require('nav.php');?>
+
+        <!-- =========== Page Body Inside Content =========== -->
+        <div class="inside-body-content-container clearfix">
+
+            <!-- =========== Section 1: Top Banner =========== -->
+            <div id="top-banner" class="container-fluid horizontal-section-container clearfix">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <img src="images/temp/banner-5.jpg" alt="Landscape, wind turbines" class="full-width-image">
+                    </div><!-- .col-xs-12 -->
+                </div><!-- .row -->
+            </div>
+            <!-- End: Section 1: Top Banner -->
+            <!-- =========== Section: Breadcrumbs =========== -->
+            <div id="breadcrumbs-container" class="container-fluid horizontal-section-container hidden-xs clearfix">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <ol class="breadcrumb">
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="#">Legal</a></li>
+                            <li class="active"><a href="#">Terms of Service</a></li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+            <!-- End: Section: Breadcrumbs -->
+            <!-- =========== Section 2 =========== -->
+            <div class="container-fluid horizontal-section-container clearfix">
+                <div class="row">
+
+                    <div class="col-sm-3">
+
+                        <!-- Sidebar Menu -->
+                        <div id="sidebar-menu" class="section-container sm-extra-top-padding clearfix">
+
+                            <a href="#" class="section-header">
+                                <h5 class="text">Legal</h5>
+                            </a><!-- .section-header -->
+
+                            <div class="section-content clearfix">
+
+                                <ul class="sidebar-menu">
+                                    <li class="menu-item"><a href="privacy-policy.php">Privacy Policy</a></li>
+                                    <li class="menu-item active"><a href="tos.php">Terms of Service</a></li>
+                                </ul><!-- .sidebar-menu -->
+
+                            </div><!-- .section-content -->
+
+                        </div><!-- .section-container -->
+                        <!-- End: Sidebar Menu -->
+
+                    </div><!-- .col-sm-3 -->
+
+                    <div class="col-sm-9">
+                        <!-- Main Page Content -->
+                        <div id="main-page-content" class="section-container main-page-content clearfix">
+
+                            <div class="section-content clearfix">
+
+                                <h1 class="page_title">Connor-Davidson Resilience Scale: Terms of Service</h1>
+
+                                <b>
+Drs. Connor and Davidson ("C-D") provide online services to visitors to our website at 
+www.CD-RISC.com, www.connordavidson-resiliencescale.com and any derivative, 
+co-branded or successor site as C-D may make available from time to time ("C-D Website").  
+This Terms of Service Agreement (the "Agreement") sets forth the terms and 
+conditions that govern your use of the C-D Website.  C-D reserves the right, 
+at any time and at its sole discretion, to update, revise or otherwise modify 
+the terms and conditions of the Agreement without notice to you.  
+By accessing or using the C-D Website, you are agreeing that you have read 
+and accept the following terms and conditions.
+</b>
+<br /><br />
+
+1.  DESCRIPTION OF C-D TECHNOLOGY.
+<br /><br />
+C-D provides visitors to the C-D Website with access to its online services 
+(along with all related intellectual property rights, the "C-D Technology").  
+<br /><br />
+
+2.  REGISTRATION AND YOUR OBLIGATIONS.
+<br /><br />
+You may be asked to register or provide certain information in connection with 
+your use of the C-D Technology.  You agree to provide true, accurate, current 
+and complete information about you as prompted by the C-D Technology and other 
+application forms and registration forms (such information being the "Registration Data").  
+If you provide any Registration Data that is untrue, inaccurate, not current 
+or incomplete, or C-D has reasonable grounds to suspect that such Registration 
+Data is untrue, inaccurate, not current or incomplete, C-D has the right to 
+suspend or terminate your access to and use of the C-D Technology and refuse 
+any and all current or future use of the C-D Technology or any portion thereof. 
+<br /><br />
+
+3.	PASSWORDS AND YOUR OBLIGATIONS. 
+<br /><br />
+As part of the registration process, you may be asked to select a unique user 
+name and password in order to be able to access your account and to use the 
+C-D Technology.  As a registered member, you are responsible for maintaining 
+the confidentiality and security of your user name and password and shall be 
+responsible for all uses of your user name and password, including any 
+transactions facilitated through the use thereof, whether or not in fact 
+authorized by you.  If you have any reason to believe that there has been 
+a breach of security regarding your user name or password, including without 
+limitation, an unauthorized use of your username or password, you must promptly 
+notify C-D in writing and change your password on the C-D Website.   
+<br /><br />
+
+4.  C-D PRIVACY AND SECURITY POLICY.
+<br /><br />
+The Registration Data and certain other information about you are subject to 
+our Privacy and Security Policy, as it may change from time to time.  For more 
+information, see our full privacy and security policy at www.CD-RISC.com to 
+understand our policies and practices.
+<br /><br />
+
+5.  ACCESS TO THE C-D TECHNOLOGY.
+<br /><br />
+You shall be responsible for obtaining access to the C-D Technology and for all 
+equipment necessary to access the C-D Technology and you acknowledge that 
+obtaining the foregoing may involve third-party fees (such as internet service 
+provider or airtime charges).  You are responsible for all charges associated 
+with connecting you to the C-D Technology, including, without limitation, all 
+telephone, equipment, airtime and internet service provider charges.  
+Notwithstanding the foregoing, C-D may, at its sole discretion, provide 
+free of charge access to the C-D Technology to its employees and/or independent contractors. 
+<br /><br />
+
+6.  USE OF THE C-D TECHNOLOGY.  
+<br /><br />
+During the term of this Agreement and subject to the terms and conditions 
+set forth herein, C-D grants you a non-transferable, non-exclusive and 
+non-sublicensable right and license to use the C-D Technology solely for your 
+immediate, personal use.  Except as otherwise set forth herein, you agree not 
+to: (i) reverse engineer, decompile, reverse compile, translate, adapt, or 
+disassemble or otherwise access the C-D Technology, or any part thereof; 
+(ii) copy, download or save the C-D Technology, or any part thereof, in any 
+form, except as explicitly permitted in this Section; (iii) publish, display, 
+disclose, sell, rent, lease, modify, store, loan, distribute, co-brand, frame, 
+permit third parties to link to, or create compilations or derivative works 
+of the C-D Technology, or any part thereof; (iv) assign, sublicense, convey, 
+transfer, pledge as security or otherwise encumber the rights and licenses 
+granted hereunder; or (v) use the C-D Technology in any fashion that may 
+infringe any patent, copyright, trademark, trade secret or any other 
+intellectual property or proprietary rights of C-D, its third party suppliers 
+or any other third party.   You agree not to access the C-D Technology by any 
+means other than through the interface that is provided by C-D for use in 
+accessing the C-D Technology.  Any other use of the C-D Technology other than 
+as expressly set forth herein without C-D's prior written consent, which may be 
+withheld in its sole and absolute discretion, is strictly prohibited and all 
+implied licenses are disclaimed.
+<br /><br />
+
+7.  LINKS TO OTHER SITES.
+<br /><br />
+Visitors to the C-D Website should be aware that when they are on the 
+C-D Website, they could be directed to other web sites that are beyond our 
+control.  There may be several links to other web sites from the C-D Website 
+pages that take you outside our service.  C-D has no control over these web 
+sites and is not responsible or liable for the policies, actions or content 
+of such web sites.  These web sites are linked only for your convenience and 
+you access them at your own risk.  We encourage you to review the terms of 
+service and privacy policies available at these other web sites.  C-D is not 
+responsible for, and expressly disclaims all liability for, damages of any 
+kind arising out of or relating to any use, reference to or reliance on such 
+information and any other dealings with such third parties.    
+<br /><br />
+
+8.  SUBMITTALS.
+<br /><br />
+In connection with your use of the C-D Technology, you may provide 
+contributions and submittals to, and feedback and suggestions about, 
+the C-D Technology, including without limitation, comments, suggestions, 
+photos, feedback, notes, messages, ideas, suggestions or other communications 
+(collectively, the "Submittal") sent by you to C-D.  Subject to the terms and 
+conditions set forth herein, you hereby grant to C-D a royalty-free, perpetual, 
+irrevocable, world-wide, non-exclusive license to use, reproduce, sub-license 
+through multiple tiers of sublicensees, create derivative works from, modify, 
+publish, edit, translate, distribute, and publicly perform, execute, and 
+display the Submittal and any related intellectual property rights in any 
+media or medium, or any form, format, or forum now known or hereafter 
+developed for any legal purposes whatsoever.  The Submittal submitted to 
+C-D shall in no way prevent the purchase, manufacture or use of similar 
+products, services, plans and ideas by C-D for any purpose whatsoever.  
+Except as set forth herein, C-D is not responsible for, and expressly 
+disclaims all liability for, damages of any kind arising out of or related 
+to any Submittal submitted by you. 
+<br /><br />
+
+9.  C-D'S PROPRIETARY RIGHTS.
+<br /><br />
+You acknowledge and agree that the C-D Technology and any necessary technology 
+used in connection with the C-D Technology are protected by applicable intellectual 
+property rights and laws, including without limitation, copyrights, trademarks, 
+service marks, patents or other proprietary rights and laws.  The compilation of 
+all content, materials and information on the C-D Website is the exclusive 
+property of C-D and is protected by U.S. and international copyright laws.  
+The "look and feel" of the C-D Website, meaning, the structure, sequence and 
+layout of the audiovisual components of the C-D Website as perceived by you, 
+including, but not limited to, the color combinations, button shapes, and all 
+other graphical and navigational elements, the design for which was dictated 
+by artistic and aesthetic considerations and not by utilitarian or mechanical 
+ones, are also proprietary to C-D and fully protected under U.S. and international 
+copyright and trademark laws.
+<br /><br />
+C-D's name and logo, and all related product and service names, design marks 
+and slogans are the trademarks, service marks or registered trademarks of 
+C-D and may not be used or modified in any manner without the prior written 
+consent of C-D. 
+<br /><br />
+
+10.  TERMINATION.
+<br /><br />
+You agree that C-D, at its sole discretion, may terminate your access to and 
+use of the C-D Technology, at any time and for any reason whatsoever, including 
+without limitation, for lack of use or if C-D believes, in its sole discretion, 
+that you have violated or acted inconsistently with the terms and conditions of 
+this Agreement.  C-D reserves the right at any time and from time to time to 
+modify or discontinue, temporarily or permanently, the C-D Technology (or any 
+part thereof) with or without notice.  You agree that C-D shall not be liable 
+to you or to any third party for any modification, suspension or discontinuance 
+of the C-D Technology.
+<br /><br />
+
+11. REPRESENTATIONS.
+<br /><br />
+You represent and warrant to C-D that: (i) you are at least 18 years old; 
+(ii) in the event you are an entity, you have the full right, power and 
+authority to enter into this Agreement on behalf of such entity; (iii) the 
+performance by you of your obligations and duties hereunder, do not and will 
+not violate any agreement to which you are a party or by which you are 
+otherwise bound; (iv) the Registration Data and the Submittal do not infringe 
+the intellectual property or proprietary rights, including without limitation, 
+patents, copyrights, trademarks and trade secrets, of any third party; (v) the 
+Registration Data, the Submittal and your use of the C-D Technology comply in 
+all respects with all applicable laws, statutes, regulations, ordinances and 
+other rules; (vi) you shall not use the C-D Technology to send offensive or 
+disruptive material, including without limitation, spam, offensive sexual, 
+racial or gender related material or other material that may disrupt or 
+interfere with the hardware or software operating the C-D Technology; and 
+(vii) the Registration Data and the Submittal are truthful and accurate.  
+<br /><br />
+
+12.  INDEMNITY.
+<br /><br />
+You agree to indemnify, defend and hold harmless C-D, its employees, directors, 
+officers, agents and its affiliates and suppliers from any claim or demand, 
+including reasonable attorneys' fees, made by any third party arising out of or 
+resulting from this Agreement or the C-D Technology including, but not limited to: 
+(i) your breach of any representations, warranties or covenants set forth herein; and 
+(ii) your use of the C-D Technology.    
+<br /><br />
+
+13.  DISCLAIMER OF WARRANTIES.
+<br /><br />
+THE C-D TECHNOLOGY IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS.  TO THE 
+MAXIMUM EXTENT PERMITTED BY LAW, C-D, ITS AFFILIATES AND ITS SUPPLIERS DISCLAIM 
+ALL WARRANTIES OF ANY KIND, EITHER EXPRESS, IMPLIED, STATUTORY OR COMMON LAW, 
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, DATA ACCURACY, TITLE AND NON-INFRINGEMENT.  
+WITHOUT LIMITING THE FOREGOING, C-D, ITS AFFILIATES AND ITS SUPPLIERS MAKE NO 
+WARRANTY THAT (I) THE C-D TECHNOLOGY WILL MEET YOUR REQUIREMENTS, (II) THE C-D 
+TECHNOLOGY WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (III) ANY 
+ERRORS IN THE C-D TECHNOLOGY WILL BE CORRECTED, AND (IV) THE C-D TECHNOLOGY 
+WILL BE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+<br /><br />
+ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED BY YOU THROUGH THE USE OF THE 
+C-D TECHNOLOGY IS OBTAINED AT YOUR OWN DISCRETION AND RISK AND YOU ARE SOLELY 
+RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS 
+FROM THE DOWNLOADING OF ANY SUCH MATERIAL.
+<br /><br />
+
+14.  LIMITATION OF LIABILITY.
+<br /><br />
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT, C-D, ITS AFFILIATES AND ITS SUPPLIERS 
+SHALL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, 
+INCIDENTAL, SPECIAL, PUNITIVE CONSEQUENTIAL OR EXEMPLARY DAMAGES INCLUDING, 
+BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER 
+INTANGIBLE LOSSES, EVEN IF C-D, ITS AFFILIATES OR ITS SUPPLIERS HAVE BEEN 
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  YOU EXPRESSLY UNDERSTAND AND 
+AGREE THAT C-D'S, ITS AFFILIATES' AND ITS SUPPLIERS' CUMULATIVE LIABILITY TO 
+YOU OR ANY THIRD PARTY UNDER THIS AGREEMENT SHALL NOT EXCEED FIVE HUNDRED 
+($500.00 U.S.) DOLLARS.
+<br /><br />
+
+15.  COPYRIGHTS.
+<br /><br />
+If you believe that you have any right, title or interest in or to any 
+information, including without limitation, data, images, video or any other 
+information, or any intellectual property rights thereof (the "IP"), that is 
+located within the C-D Technology without your prior consent, please provide 
+to C-D the following: (i) a description of such IP; (ii) details of where such 
+IP is located within the C-D Technology; (iii) your name, address, telephone 
+number and email address; and (iv) a statement executed by you that the 
+information provided regarding such IP is truthful and accurate, that you 
+have right, title or interest in or to such IP, and that you have a good 
+faith belief that such IP is located within the C-D Technology without your 
+prior consent. 
+<br /><br />
+
+16.  DEEP LINKS; SPIDERING.  
+<br /><br />
+You shall not "deep-link" to the C-D Website, meaning that you will not create, 
+post, display, publish or distribute any link to any page other than the front 
+(home) page of the C-D Website, for any purpose, unless specifically authorized 
+in writing by C-D.  The use of any tools, programs, robotic algorithms or 
+products to automatically download or "spider" the C-D Website or any of 
+the pages of the C-D Website is expressly prohibited and infringes on C-D's 
+intellectual property rights. 
+<br /><br />
+
+17.  GOVERNING LAW.  
+<br /><br />
+THE C-D TECHNOLOGY IS CONTROLLED BY C-D FROM WITHIN THE STATE OF MARYLAND OF 
+THE UNITED STATES OF AMERICA, ALTHOUGH THE C-D TECHNOLOGY MAY BE ACCESSED AND 
+USED THROUGHOUT THE WORLD.  BY ACCESSING THE C-D TECHNOLOGY, YOU AND C-D EACH 
+AGREE THAT THIS AGREEMENT AND THE RELATIONSHIP BETWEEN YOU AND C-D SHALL BE 
+GOVERNED BY THE LAWS OF THE STATE OF MARYLAND OF THE UNITED STATES OF AMERICA, 
+WITHOUT REGARD TO ITS CONFLICT OF LAW PROVISIONS.  YOU AND C-D AGREE TO SUBMIT 
+TO THE EXCLUSIVE JURISDICTION AND VENUE OF THE STATE AND/OR FEDERAL COURTS 
+LOCATED WITHIN THE STATE OF MARYLAND WITH RESPECT TO ANY DISPUTE RELATED TO 
+THIS AGREEMENT.
+<br /><br />
+
+18.  ORDER OF PRECEDENCE.  
+<br /><br />
+This Agreement governs your use of the C-D Website and access to the C-D Technology.  
+This Agreement does not modify, alter or amend any other agreement you have 
+entered or will enter into with C-D or any of its related or affiliated entities.  
+To the extent that any provision of this Agreement, or any supplemental agreement 
+offered as any part of any registration for use of additional C-D Technology, 
+conflicts with any provision of your other agreements with C-D or any of its 
+related or affiliated entities, the terms of such other agreement shall, as to 
+the subject matter of that other agreement, take precedence over the conflicting 
+term(s) of this Agreement.
+<br /><br />
+
+19.  GENERAL INFORMATION.
+<br /><br />
+This Agreement constitutes the entire agreement between you and C-D with 
+respect to the subject matter herein and governs your use of the C-D Technology, 
+superseding any prior agreements between you and C-D, but this Agreement may be 
+supplemented by any other agreement you enter into with C-D pursuant to your 
+participation in other features of the C-D Website.  You further acknowledge 
+and agree that you may not assign any part of this Agreement without C-D's prior
+written consent.  This Agreement shall inure to the benefit of each party's 
+successors and assigns.  C-D shall not be deemed to be in breach of the Agreement 
+and thereby liable to you or any third party for any delays in the performance 
+of its obligations hereunder caused by fire, explosion, act of God, strikes, war, 
+riot, government regulation, bandwidth limitations, Internet connectivity, or act 
+or any other cause beyond the reasonable control of C-D.  The failure of C-D to 
+exercise or enforce any right or provision of this Agreement shall not constitute 
+a waiver of such right or provision.  If any provision of this Agreement is 
+found by a court of competent jurisdiction to be invalid, the parties 
+nevertheless agree that the court should endeavor to give effect to the 
+parties' intentions as reflected in the provision, and the other provisions 
+of this Agreement shall remain in full force and effect.  You agree that 
+regardless of any statute or law to the contrary, any claim or cause of 
+action arising out of or related to the use of the C-D Technology or this 
+Agreement must be filed within one (1) year after such claim or cause of 
+action arose or be forever barred.  
+<br /><br />
+
+20.  CONTACTING US.
+<br /><br />
+If you have any questions about this Agreement, the Privacy and Security Policy, 
+or any question or problem regarding the C-D Technology, please contact us by 
+sending an email to mail@cd-risc.com.
+<br /><br />
+
+Effective Date: August 8, 2011.
+<br /><br />
+
+
+
+
+
+                            </div><!-- .section-content -->
+
+                        </div><!-- .section-container -->
+                        <!-- End: Main Page Content -->
+                    </div><!-- .col-sm-9 -->
+
+                </div><!-- .row -->
+            </div><!-- .container-fluid -->
+            <!-- End: Section 2 -->
+        </div><!-- .inside-body-content-container -->
+        <!-- End: Page Body Inside Content -->
+
+    </div><!-- .outer-container -->
+    <!-- End: Page Outer Container -->
+    <!-- go to top -->
+    <div id="go-to-top" onclick="scroll_to_top(this.event);" title="Go to top"><span class="glyphicon glyphicon-chevron-up"></span></div>
+
+    <!-- Jquery and Bootstrap JS -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Easing - for transitions and effects -->
+    <script src="js/jquery.easing.1.3.js"></script>
+
+    <!-- Plugins -->
+    <script src="js/detectmobilebrowser.js"></script>
+    <script src="plugins/owl-carousel/owl.carousel.min.js"></script>
+    <script src="plugins/lightbox/js/lightbox.min.js"></script>
+    <script src="plugins/masonry/masonry.pkgd.min.js"></script>
+
+    <!-- Custom functions for this theme -->
+    <script src="js/functions.js"></script>
+    <!-- <script src="js/functions-min.js"></script> -->
+    <script src="js/initialise-functions.js"></script>
+    <script>
+        document.getElementById("legal").className += " current-menu-ancestor";
+    </script>
+
+</body>
+</html>

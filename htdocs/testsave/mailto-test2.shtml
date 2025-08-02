@@ -1,0 +1,39 @@
+<!--#include virtual="/cd-risc/header.shtml"-->
+
+<!--#include virtual="/cd-risc/navigation.shtml"-->
+
+<!-- ======== Main Content ======== -->
+<div id="content">
+
+<h1>Test Email Form</h1>
+
+
+<CENTER>
+<form action="contact.php" method="post">
+	Your name<br>
+    <input type="text" name="cf_name"><br>
+	Your e-mail<br>
+    <input type="text" name="cf_email"><br>
+	Message<br>
+    <textarea name="cf_message"></textarea><br>
+	<input type="submit" value="Send">
+	<input type="reset" value="Clear">
+</form>
+</CENTER>
+<!-- END OF FORM -->
+
+
+<br /><br />
+
+<!--"end content"-->
+</div>
+
+
+<!--#include virtual="/cd-risc/footer.shtml"-->
+
+<!--"end Wrapper"-->
+</div>
+
+
+</body>
+</html>
