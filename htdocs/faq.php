@@ -97,9 +97,9 @@ e.g. above age 65.
 
 <b>2.	Are there translations of the CD-RISC?</b>
 <br /><br />
-Seventy-seven approved translations of the CD-RISC currently exist in the following languages:
+Over 90 approved translations of the CD-RISC currently exist in the following languages:
 <br />
-Afrikaans, Albanian, Amharic, Arabic, Assamese, Azeri, Bahasa Indonesia, Bahasa Malaysia, Bemba, Bangla (Bengali), Bosnian, Burmese, Cebuano, Chinese (Taiwan and Peoples Republic), Croatian, Creole, Czech, Danish, Dari, Dutch, Estonian, Farsi, Finnish, French (France, Belgium, Canada), German, Greek, Hakha Chin (CD-RISC-2), Hebrew, Hindi, Hungarian, Icelandic, isiXhosa, isiZulu, Italian, Japanese, Kannada, Kinyarwanda, Kiswahili, Khmer (CD-RISC-10), Korean, Kurdish, Latvian (CD-RISC 10), Liberian, Lithuanian, Macedonian, Malagasy, Malayalam, Marathi, Mongolian, Nepali, Norwegian, Pashto (CD-RISC-2 and CD-RISC-10), Polish, Portuguese (Europe, Brazil), Quechua, Romanian, Russian, Serbian, Slovenian, Somali (CD-RISC-2), Spanish (Europe, Caribbean, South America, Central America), Swedish, Tagalog, Tamil, Telugu, Thai, Tigrinya (CD-RISC-2), Turkish, Ukrainian, Urdu, Vietnamese, Welsh.
+Afrikaans, Albanian, Amharic, Arabic, Armenian, Assamese, Azeri, Bahasa Indonesia, Bahasa Malaysia, Bemba, Bangla (Bengali), Bosnian, Burmese, Cebuano, Chinese (Taiwan and Peoples Republic), Croatian, Creole, Czech, Danish, Dari, Dutch, Estonian, Farsi, Finnish, Flemish, French (France, Belgium, Canada), Flemish, Georgian, German, Greek, Hakha Chin (CD-RISC-2), Hebrew, Hindi, Hungarian, Icelandic, isiXhosa, isiZulu, Italian, Japanese, Kannada, Khasi, Kashmiri, Kinyarwanda, Kiswahili, Khmer (CD-RISC-10), Korean, Kurdish, Latvian (CD-RISC 10), Liberian, Lingala (CD-RISC-10), Lithuanian, Luganda (CD-RISC-10), Luo, Luxembourgish (CD-RISC-10), Macedonian, Malagasy, Malayalam, Maltese (RISC-10 only), Marathi, Mongolian, Nepali, Norwegian, Pashto (CD-RISC-2 and CD-RISC-10), Polish, Portuguese (Europe, Brazil), Punjabi, Quechua, Romanian, Russian, Serbian, Slovak (all versions), Slovenian, Somali (CD-RISC-2), Spanish (Europe, Caribbean, South America, Central America), Swedish, Tagalog, Tamil, Telugu, Thai, Tigrinya (CD-RISC-2), Tok Pisin/Papua New Guinea, Turkish, Ukrainian, Urdu, Vietnamese, Welsh, Xitsonga.
 <br />
 We are sometimes asked if translations have been validated. A standard procedure is followed in preparing the translations, which are reviewed jointly by translators and scale creators and it is assumed that the translation will be sufficiently close to the original so as to give the same performance, but not accounting for local or population effects. Therefore, more comprehensive validation and reliability testing has to be done later by those using the translation. The degree to which this is done varies from not at all to extensively.
 <br><br>
@@ -220,9 +220,19 @@ It is thus expected that scale should be understood by those with a fifth grade 
 We would be pleased to provide a copy of the scale for review purposes if you are unsure whether to use it. A non-refundable fee of $10 US is payable. If, later, you decide to use the scale, this fee is deducted from the applicable user fee.
 <br><br>
 
-<b>Is it possible to view the manual?</b>
+<b>13. Is it possible to view the manual?</b>
 <br /><br />
-Yes, the manual can be downloaded directly at this website at no cost. We aim to update the manual every few months. Although we have numerous translations of the CD-RISC scale, the manual is only available in English.
+An older example of the manual can be downloaded <a href="./CD-RISC Manual 08-19-18.pdf" style="color: blue; text-decoration: underline;">here.</a> We aim to update the manual periodically. For the most recent update, please contact mail@cd-risc.com. Although we have numerous translations of the CD-RISC scale, the manual is only available in English.
+<br><br>
+
+<b>14.   Do I have to pay a fee to use the CD-RISC?</b>
+<br /><br />
+A fee is charged for using the scale. The amount is determined by a number of factors, including the version of the RISC, student status, the volume (or number of administrations expected) and type of activity in which the scale will be used.
+<br><br>
+
+<b>15.   Is there a charge for translations?</b>
+<br /><br />
+We provide up to four languages under the user cost, but for more than four then there is a charge of $10 per each translation, separately for the 2, 10 and 25 item scales.
 <br><br>
                             </div><!-- .section-content -->
                         </div><!-- .section-container -->
