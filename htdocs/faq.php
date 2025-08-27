@@ -97,9 +97,21 @@ e.g. above age 65.
 
 <b>2.	Are there translations of the CD-RISC?</b>
 <br /><br />
-Over 90 approved translations of the CD-RISC currently exist in the following languages:
+Over 100 approved translations of the CD-RISC currently exist in the following languages:
 <br />
-Afrikaans, Albanian, Amharic, Arabic, Armenian, Assamese, Azeri, Bahasa Indonesia, Bahasa Malaysia, Bemba, Bangla (Bengali), Bosnian, Burmese, Cebuano, Chinese (Taiwan and Peoples Republic), Croatian, Creole, Czech, Danish, Dari, Dutch, Estonian, Farsi, Finnish, Flemish, French (France, Belgium, Canada), Flemish, Georgian, German, Greek, Hakha Chin (CD-RISC-2), Hebrew, Hindi, Hungarian, Icelandic, isiXhosa, isiZulu, Italian, Japanese, Kannada, Khasi, Kashmiri, Kinyarwanda, Kiswahili, Khmer (CD-RISC-10), Korean, Kurdish, Latvian (CD-RISC 10), Liberian, Lingala (CD-RISC-10), Lithuanian, Luganda (CD-RISC-10), Luo, Luxembourgish (CD-RISC-10), Macedonian, Malagasy, Malayalam, Maltese (RISC-10 only), Marathi, Mongolian, Nepali, Norwegian, Pashto (CD-RISC-2 and CD-RISC-10), Polish, Portuguese (Europe, Brazil), Punjabi, Quechua, Romanian, Russian, Serbian, Slovak (all versions), Slovenian, Somali (CD-RISC-2), Spanish (Europe, Caribbean, South America, Central America), Swedish, Tagalog, Tamil, Telugu, Thai, Tigrinya (CD-RISC-2), Tok Pisin/Papua New Guinea, Turkish, Ukrainian, Urdu, Vietnamese, Welsh, Xitsonga.
+Afrikaans, Albanian, Amharic, Arabic, Armenian, Assamese, Azeri, Bahasa Indonesia, Bahasa
+Malaysia, Bemba, Bangla (Bengali), Bosnian, Burmese, Cebuano, Chinese (Taiwan and Peoples
+Republic), Croatian, Creole, Czech, Danish, Dari, Dutch, Estonian, Farsi, Finnish, Flemish, French
+(France, Belgium, Canada), Flemish, Georgian, German, Greek, Hakha Chin (CD-RISC-2), Hebrew,
+Hindi, Hungarian, Icelandic, isiXhosa, isiZulu, Italian, Japanese, Kannada, Khasi, Kashmiri,
+Kinyarwanda, Kiswahili, Khmer (CD-RISC-10), Korean, Kurdish, Latvian (CD-RISC 10), Liberian,
+Lingala (CD-RISC-10), Lithuanian, Luganda (CD-RISC-10), Luo, Luxembourgish (CD-RISC-10),
+Macedonian, Malagasy, Malayalam, Maltese (RISC-10 only), Marathi, Mongolian, Nepali,
+Norwegian, Pashto (CD-RISC-2 and CD-RISC-10), Polish, Portuguese (Europe, Brazil), Punjabi,
+Quechua, Romanian, Russian, Serbian, Slovak (all versions), Slovenian, Somali (CD-RISC-2),
+Spanish (Europe, Caribbean, South America, Central America), Swedish, Tagalog, Tamil, Telugu,
+Thai, Tigrinya (CD-RISC-2), Tok Pisin/Papua New Guinea, Turkish, Ukrainian, Urdu, Vietnamese,
+Welsh, Xitsonga.
 <br />
 We are sometimes asked if translations have been validated. A standard procedure is followed in preparing the translations, which are reviewed jointly by translators and scale creators and it is assumed that the translation will be sufficiently close to the original so as to give the same performance, but not accounting for local or population effects. Therefore, more comprehensive validation and reliability testing has to be done later by those using the translation. The degree to which this is done varies from not at all to extensively.
 <br><br>
@@ -190,13 +202,12 @@ incomplete, and the scale cannot be reconstructed from this publication.
 
 <b>9.	 How do I handle missing responses?</b>
 <br /><br />
-We recommend that missing responses are scored at the mean for the other items.  
-In order to consider the scale to be valid, at least 75% (19 items) should have been completed.  
-Anything less that that is considerd an invalid assessment.
+We recommend that missing responses are scored at the mean for the other items. In order to
+consider the scale to be valid, at least 75% (19 items) should have been completed. Anything less
+that that is considerd an invalid assessment.
 <br><br>
-For the CD-RISC-10, at least 7 of the 10 items should be completed in order to 
-consider the scale as valid. For missing answers, the mean of all completed 
-answers can be used to impute the score.
+For the CD-RISC-10, at least 7 of the 10 items should be completed in order to consider the scale as
+valid. For missing answers, the mean of all completed answers can be used to impute the score.
 <br><br>
 
 <b>10.	 Is the scale easy to read?</b>
@@ -222,7 +233,9 @@ We would be pleased to provide a copy of the scale for review purposes if you ar
 
 <b>13. Is it possible to view the manual?</b>
 <br /><br />
-An older example of the manual can be downloaded <a href="./CD-RISC Manual 08-19-18.pdf" style="color: blue; text-decoration: underline;">here.</a> We aim to update the manual periodically. For the most recent update, please contact mail@cd-risc.com. Although we have numerous translations of the CD-RISC scale, the manual is only available in English.
+An older example of the manual can be downloaded <a href="./CD-RISC Manual 08-19-18.pdf" style="color: blue; text-decoration: underline;">here.</a> We aim to update the manual periodically.
+For the most recent update, please contact mail@cd-risc.com. Although we have numerous
+translations of the CD-RISC scale, the manual is only available in English.
 <br><br>
 
 <b>14.   Do I have to pay a fee to use the CD-RISC?</b>
